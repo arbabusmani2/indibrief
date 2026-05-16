@@ -1,0 +1,10 @@
+[
+  { "name": "YourStory", "url": "https://yourstory.com/feed" },
+  { "name": "Inc42", "url": "https://inc42.com/feed/" },
+  { "name": "Economic Times Startups", "url": "https://economictimes.indiatimes.com/small-biz/startups/rssfeeds/77296800.cms" },
+  { "name": "Entrackr", "url": "https://entrackr.com/feed/" },
+  { "name": "VCCircle", "url": "https://www.vccircle.com/feed" },
+  { "name": "Mint Startups", "url": "https://www.livemint.com/rss/startups" },
+  { "name": "The Ken", "url": "https://the-ken.com/feed/" },
+  { "name": "Moneycontrol Startups", "url": "https://www.moneycontrol.com/rss/startups.xml" }
+]
