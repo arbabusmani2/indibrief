@@ -37,6 +37,7 @@ async function main() {
     tags: [],
     source: item.source,
     sourceUrl: item.url,
+    ...(item.imageUrl ? { imageUrl: item.imageUrl } : {}),
     publishedAt: item.publishedAt,
     ingestedAt: now,
   }));

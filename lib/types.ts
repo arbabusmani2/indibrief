@@ -9,6 +9,7 @@ export interface Article {
   tags: string[];
   source: string;
   sourceUrl: string;
+  imageUrl?: string;   // thumbnail from RSS media fields
   publishedAt: string; // ISO 8601
   ingestedAt: string;  // ISO 8601
 }
