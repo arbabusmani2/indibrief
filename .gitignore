@@ -44,3 +44,8 @@ next-env.d.ts
 .env.local
 
 intekhab-usmani.html
+.claude/
+.cursorrules
+.mcp.json
+.opencode.json
+.windsurfrules
