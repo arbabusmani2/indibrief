@@ -31,7 +31,7 @@ jobs:
         run: npm ci
 
       - name: Run ingest script
-        run: npx ts-node --project tsconfig.json scripts/ingest.ts
+        run: npx ts-node --project tsconfig.scripts.json scripts/ingest.ts
 
       - name: Commit and push updated data files
         run: |

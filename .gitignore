@@ -49,3 +49,4 @@ intekhab-usmani.html
 .mcp.json
 .opencode.json
 .windsurfrules
+scripts/lib/summarize.ts
