@@ -2,11 +2,11 @@
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
-**Goal:** Build a Next.js static site that ingests Indian startup news from RSS feeds hourly via GitHub Actions + Claude Haiku, and serves it as a live feed.
+**Goal:** Build a Next.js static site that ingests Indian startup news from RSS feeds hourly via GitHub Actions, and serves it as a live feed.
 
-**Architecture:** GitHub Actions cron fires every hour, runs `scripts/ingest.ts` which fetches RSS feeds, deduplicates, summarizes via Claude Haiku, and commits updated JSON data files. Vercel detects the push and rebuilds the static Next.js site.
+**Architecture:** GitHub Actions cron fires every hour, runs `scripts/ingest.ts` which fetches RSS feeds, deduplicates, keyword-categorizes, and commits updated JSON data files. Vercel detects the push and rebuilds the static Next.js site. No AI/LLM involved — zero API cost.
 
-**Tech Stack:** Next.js 16 (App Router, static generation), TypeScript, Tailwind CSS, `rss-parser`, `@anthropic-ai/sdk`, Jest + ts-jest, GitHub Actions, Vercel
+**Tech Stack:** Next.js 16 (App Router, static generation), TypeScript, Tailwind CSS, `rss-parser`, Jest + ts-jest, GitHub Actions, Vercel
 
 ---
 
@@ -611,76 +611,48 @@ git commit -m "feat: add RSS feed fetcher with error isolation"
 
 ---
 
-## Task 7: Claude Summarizer (TDD)
+## Task 7: Keyword Categorizer (TDD)
+
+No AI — category derived from keyword matching on title + description. `ecosystem` is the fallback.
 
 **Files:**
-- Create: `scripts/lib/summarize.ts`, `scripts/lib/__tests__/summarize.test.ts`
+- Create: `scripts/lib/categorize.ts`, `scripts/lib/__tests__/categorize.test.ts`
 
 - [ ] **Step 1: Write the failing tests**
 
 ```typescript
-// scripts/lib/__tests__/summarize.test.ts
-import { summarizeArticles } from '../summarize';
-import type { RawArticle } from '../fetchFeeds';
+// scripts/lib/__tests__/categorize.test.ts
+import { categorize } from '../categorize';
 
-const mockCreate = jest.fn();
-jest.mock('@anthropic-ai/sdk', () => ({
-  default: jest.fn().mockImplementation(() => ({
-    messages: { create: mockCreate },
-  })),
-}));
-
-const rawArticle: RawArticle = {
-  url: 'https://yourstory.com/zepto-350m',
-  title: 'Zepto raises $350M Series F',
-  description: 'Quick commerce startup Zepto has raised $350M in a Series F round.',
-  source: 'YourStory',
-  publishedAt: '2026-05-16T07:30:00Z',
-};
-
-describe('summarizeArticles', () => {
-  beforeEach(() => {
-    mockCreate.mockResolvedValue({
-      content: [
-        {
-          type: 'text',
-          text: JSON.stringify({
-            title: 'Zepto Raises $350M Series F',
-            summary: 'Zepto raised $350M. They plan an IPO.',
-            category: 'funding',
-            tags: ['zepto', 'series-f', 'quick-commerce'],
-          }),
-        },
-      ],
-    });
+describe('categorize', () => {
+  it('detects funding from title keywords', () => {
+    expect(categorize('Zepto raises $350M Series F', '')).toBe('funding');
+    expect(categorize('Jar raises fresh round at $300M valuation', '')).toBe('funding');
+    expect(categorize('CRED secures investment from Tiger Global', '')).toBe('funding');
   });
 
-  it('returns a summarized article with all required fields', async () => {
-    const results = await summarizeArticles([rawArticle]);
-    expect(results).toHaveLength(1);
-    const r = results[0]!;
-    expect(r.title).toBe('Zepto Raises $350M Series F');
-    expect(r.summary).toBe('Zepto raised $350M. They plan an IPO.');
-    expect(r.category).toBe('funding');
-    expect(r.tags).toEqual(['zepto', 'series-f', 'quick-commerce']);
-    expect(r.source).toBe('YourStory');
-    expect(r.sourceUrl).toBe('https://yourstory.com/zepto-350m');
+  it('detects policy from title keywords', () => {
+    expect(categorize('SEBI tightens angel fund rules', '')).toBe('policy');
+    expect(categorize('RBI issues new UPI regulation', '')).toBe('policy');
+    expect(categorize('Government launches PLI scheme for startups', '')).toBe('policy');
   });
 
-  it('returns null when category is null (irrelevant article)', async () => {
-    mockCreate.mockResolvedValueOnce({
-      content: [{ type: 'text', text: JSON.stringify({ category: null }) }],
-    });
-    const results = await summarizeArticles([rawArticle]);
-    expect(results[0]).toBeNull();
+  it('detects growth from title keywords', () => {
+    expect(categorize('Meesho hits 150M users, revenue up 40%', '')).toBe('growth');
+    expect(categorize('Blinkit GMV crosses 10000 crore mark', '')).toBe('growth');
+    expect(categorize('PhonePe reaches profitability milestone', '')).toBe('growth');
   });
 
-  it('returns null when Claude returns malformed JSON', async () => {
-    mockCreate.mockResolvedValueOnce({
-      content: [{ type: 'text', text: 'not json at all' }],
-    });
-    const results = await summarizeArticles([rawArticle]);
-    expect(results[0]).toBeNull();
+  it('falls back to ecosystem for unmatched titles', () => {
+    expect(categorize('Ola acquires drone startup TechBird', '')).toBe('ecosystem');
+  });
+
+  it('checks description when title has no match', () => {
+    expect(categorize('Startup news', 'Company announced a new funding round led by Sequoia')).toBe('funding');
+  });
+
+  it('title match takes priority over description', () => {
+    expect(categorize('SEBI issues new rules', 'revenue grew 200% this quarter')).toBe('policy');
   });
 });
 ```
@@ -688,94 +660,65 @@ describe('summarizeArticles', () => {
 - [ ] **Step 2: Run to confirm failure**
 
 ```bash
-npm test -- scripts/lib/__tests__/summarize.test.ts
+npm test -- scripts/lib/__tests__/categorize.test.ts
 ```
 
-Expected: FAIL — `Cannot find module '../summarize'`
+Expected: FAIL — `Cannot find module '../categorize'`
 
-- [ ] **Step 3: Implement summarize**
+- [ ] **Step 3: Implement categorize**
 
 ```typescript
-// scripts/lib/summarize.ts
-import Anthropic from '@anthropic-ai/sdk';
-import type { RawArticle } from './fetchFeeds';
+// scripts/lib/categorize.ts
 import type { Category } from '../../lib/types';
 
-export interface SummarizedArticle {
-  title: string;
-  summary: string;
-  category: Category;
-  tags: string[];
-  source: string;
-  sourceUrl: string;
-  publishedAt: string;
-}
+const RULES: { category: Category; keywords: string[] }[] = [
+  {
+    category: 'funding',
+    keywords: ['raise', 'raised', 'raises', 'funding', 'series a', 'series b', 'series c',
+      'series d', 'series e', 'series f', 'valuation', 'investment', 'investor',
+      'venture', 'seed round', 'pre-seed', 'ipo', 'acqui', 'acquisition',
+      'acquires', 'acquired', 'merge', 'merger'],
+  },
+  {
+    category: 'policy',
+    keywords: ['sebi', 'rbi', 'government', 'regulation', 'policy', 'rules', 'ministry',
+      'compliance', 'tax', 'court', 'legal', 'law', 'act ', 'bill ', 'parliament',
+      'niti aayog', 'dpiit', 'fdi', 'gst'],
+  },
+  {
+    category: 'growth',
+    keywords: ['revenue', 'users', 'growth', 'gmv', 'arr', 'mrr', 'profitable',
+      'profitability', 'scale', 'traction', 'metric', 'milestone', 'crore mark',
+      'monthly active', 'dau', 'mau', 'retention', 'churn'],
+  },
+];
 
-const client = new Anthropic();
-
-const PROMPT = (title: string, description: string, source: string) => `\
-You are a news analyst for the Indian startup ecosystem.
-
-Given the article below, return a JSON object with these exact fields:
-- title: Clean headline, max 15 words
-- summary: 2-3 sentences for a founder/investor audience
-- category: One of "ecosystem", "funding", "growth", "policy". Use null if the article is not relevant to the Indian startup ecosystem.
-- tags: Array of 2-5 lowercase kebab-case tags
-
-Article title: ${title}
-Article description: ${description}
-Source: ${source}
-
-Return only valid JSON. No markdown, no extra text.`;
-
-export async function summarizeArticles(
-  items: RawArticle[]
-): Promise<(SummarizedArticle | null)[]> {
-  return Promise.all(items.map(item => summarizeOne(item)));
-}
-
-async function summarizeOne(item: RawArticle): Promise<SummarizedArticle | null> {
-  try {
-    const message = await client.messages.create({
-      model: 'claude-haiku-4-5-20251001',
-      max_tokens: 512,
-      messages: [{ role: 'user', content: PROMPT(item.title, item.description, item.source) }],
-    });
-
-    const text = message.content[0].type === 'text' ? message.content[0].text : '';
-    const parsed = JSON.parse(text);
-
-    if (!parsed.category) return null;
-
-    return {
-      title: parsed.title,
-      summary: parsed.summary,
-      category: parsed.category as Category,
-      tags: parsed.tags ?? [],
-      source: item.source,
-      sourceUrl: item.url,
-      publishedAt: item.publishedAt,
-    };
-  } catch {
-    console.warn(`[summarize] Discarding "${item.title}"`);
-    return null;
+export function categorize(title: string, description: string): Category {
+  const titleLower = title.toLowerCase();
+  for (const rule of RULES) {
+    if (rule.keywords.some(k => titleLower.includes(k))) return rule.category;
   }
+  const descLower = description.toLowerCase();
+  for (const rule of RULES) {
+    if (rule.keywords.some(k => descLower.includes(k))) return rule.category;
+  }
+  return 'ecosystem';
 }
 ```
 
 - [ ] **Step 4: Run to confirm pass**
 
 ```bash
-npm test -- scripts/lib/__tests__/summarize.test.ts
+npm test -- scripts/lib/__tests__/categorize.test.ts
 ```
 
-Expected: PASS — 3 tests pass.
+Expected: PASS — 6 tests pass.
 
 - [ ] **Step 5: Commit**
 
 ```bash
-git add scripts/lib/summarize.ts scripts/lib/__tests__/summarize.test.ts
-git commit -m "feat: add Claude Haiku summarizer with null-discard for irrelevant articles"
+git add scripts/lib/categorize.ts scripts/lib/__tests__/categorize.test.ts
+git commit -m "feat: add keyword-based article categorizer (no AI)"
 ```
 
 ---
@@ -924,6 +867,8 @@ git commit -m "feat: add article data access layer"
 
 ## Task 9: Ingest Script
 
+No AI calls — pipeline is: fetch → deduplicate → keyword-categorize → save JSON.
+
 **Files:**
 - Create: `scripts/ingest.ts`
 
@@ -935,7 +880,7 @@ import { readFileSync, writeFileSync } from 'fs';
 import path from 'path';
 import { fetchFeeds } from './lib/fetchFeeds';
 import { isNewUrl, addToSeen } from './lib/dedup';
-import { summarizeArticles } from './lib/summarize';
+import { categorize } from './lib/categorize';
 import { generateSlug } from './lib/slugify';
 import type { Article, Source } from '../lib/types';
 
@@ -943,7 +888,7 @@ const ROOT = path.join(__dirname, '..');
 const ARTICLES_PATH = path.join(ROOT, 'data/articles.json');
 const SEEN_PATH = path.join(ROOT, 'data/seen.json');
 const SOURCES_PATH = path.join(ROOT, 'config/sources.json');
-const BATCH_CAP = 20;
+const BATCH_CAP = 50;
 const STORE_CAP = 500;
 
 async function main() {
@@ -960,32 +905,26 @@ async function main() {
   }
 
   console.log(`[ingest] Processing ${newItems.length} new articles...`);
-
-  const summarized = await summarizeArticles(newItems);
   const now = new Date().toISOString();
 
-  const newArticles: Article[] = summarized
-    .filter((s): s is NonNullable<typeof s> => s !== null)
-    .map(s => ({
-      slug: generateSlug(s.title, s.sourceUrl),
-      title: s.title,
-      summary: s.summary,
-      category: s.category,
-      tags: s.tags,
-      source: s.source,
-      sourceUrl: s.sourceUrl,
-      publishedAt: s.publishedAt,
-      ingestedAt: now,
-    }));
+  const newArticles: Article[] = newItems.map(item => ({
+    slug: generateSlug(item.title, item.url),
+    title: item.title,
+    summary: item.description,
+    category: categorize(item.title, item.description),
+    tags: [],
+    source: item.source,
+    sourceUrl: item.url,
+    publishedAt: item.publishedAt,
+    ingestedAt: now,
+  }));
 
   const merged = [...newArticles, ...existing]
     .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
     .slice(0, STORE_CAP);
 
-  const updatedSeen = addToSeen(newItems.map(i => i.url), seen);
-
   writeFileSync(ARTICLES_PATH, JSON.stringify(merged, null, 2));
-  writeFileSync(SEEN_PATH, JSON.stringify(updatedSeen, null, 2));
+  writeFileSync(SEEN_PATH, JSON.stringify(addToSeen(newItems.map(i => i.url), seen), null, 2));
 
   console.log(`[ingest] Done. Wrote ${newArticles.length} articles (${merged.length} total).`);
   // Git commit/push is handled by the GitHub Actions workflow, not this script.
@@ -997,7 +936,7 @@ main().catch(err => {
 });
 ```
 
-- [ ] **Step 2: Add ts-node as dev dependency (needed to run the script)**
+- [ ] **Step 2: Add ts-node as dev dependency**
 
 ```bash
 npm install -D ts-node
@@ -1011,21 +950,19 @@ Add to the `"scripts"` section in `package.json`:
 "ingest": "ts-node --project tsconfig.json scripts/ingest.ts"
 ```
 
-- [ ] **Step 4: Run a dry test (reads real files, no API call needed)**
-
-Set a fake API key and run with no new items — should exit cleanly because `data/seen.json` is empty but feeds are not reachable in local dev:
+- [ ] **Step 4: Run a dry test (no API key needed)**
 
 ```bash
-ANTHROPIC_API_KEY=test npm run ingest 2>&1 | head -5
+npm run ingest 2>&1 | head -5
 ```
 
-Expected: Script runs, likely logs a fetch warning per source (no real internet needed — feeds will timeout/error), then exits with "No new articles" or writes 0 items. No crash.
+Expected: Script runs, logs fetch warnings per source (feeds timeout/error in local dev), exits with "No new articles". No crash.
 
 - [ ] **Step 5: Commit**
 
 ```bash
 git add scripts/ingest.ts package.json package-lock.json
-git commit -m "feat: add hourly ingest script"
+git commit -m "feat: add hourly ingest script (keyword categorization, no AI)"
 ```
 
 ---
@@ -1650,8 +1587,6 @@ jobs:
 
       - name: Run ingest script
         run: npx ts-node --project tsconfig.json scripts/ingest.ts
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
       - name: Commit and push updated data files
         run: |
