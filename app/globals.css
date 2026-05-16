@@ -1,1 +1,4 @@
 @import "tailwindcss";
+
+/* Switch dark: variant from media-query to class-based (required for next-themes) */
+@custom-variant dark (&:where(.dark, .dark *));

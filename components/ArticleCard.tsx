@@ -37,15 +37,16 @@ export function FeaturedCard({ article }: { article: Article }) {
 
   return (
     <Link href={`/article/${article.slug}`} className="block group">
-      <div className="relative rounded-2xl overflow-hidden border border-neutral-800 bg-neutral-900 hover:border-orange-500/60 transition-colors">
+      <div className="relative rounded-2xl overflow-hidden border border-neutral-200 dark:border-neutral-800 bg-white dark:bg-neutral-900 hover:border-orange-500/60 transition-colors shadow-sm dark:shadow-none">
         {/* Image area */}
-        <div className="relative w-full aspect-[16/7] bg-neutral-800">
+        <div className="relative w-full aspect-[16/7] bg-neutral-100 dark:bg-neutral-800">
           {article.imageUrl && (
             <Thumbnail url={article.imageUrl} title={article.title} failed={failed} setFailed={setFailed} />
           )}
-          {/* Gradient overlay always present */}
-          <div className={`absolute inset-0 bg-gradient-to-t ${hasImage ? 'from-neutral-950/90 via-neutral-950/20 to-transparent' : `bg-gradient-to-br ${cat.gradient}`}`} />
-          {/* Category badge on image */}
+          <div className={`absolute inset-0 ${hasImage
+            ? 'bg-gradient-to-t from-black/80 via-black/10 to-transparent'
+            : `bg-gradient-to-br ${cat.gradient}`
+          }`} />
           <span className={`absolute top-3 left-3 px-2.5 py-1 rounded-full text-xs font-bold uppercase tracking-wide ${cat.badge}`}>
             {article.category}
           </span>
@@ -53,19 +54,19 @@ export function FeaturedCard({ article }: { article: Article }) {
             Top Story
           </span>
         </div>
-        {/* Content below image */}
+        {/* Content */}
         <div className="p-5">
-          <h2 className="text-xl font-bold leading-snug text-neutral-100 group-hover:text-orange-400 transition-colors line-clamp-2">
+          <h2 className="text-xl font-bold leading-snug text-neutral-900 dark:text-neutral-100 group-hover:text-orange-500 dark:group-hover:text-orange-400 transition-colors line-clamp-2">
             {article.title}
           </h2>
           {article.summary && (
-            <p className="mt-2 text-sm text-neutral-400 line-clamp-2 leading-relaxed">
+            <p className="mt-2 text-sm text-neutral-600 dark:text-neutral-400 line-clamp-2 leading-relaxed">
               {article.summary}
             </p>
           )}
           <div className="mt-3 flex items-center gap-2 text-xs text-neutral-500">
-            <span className="font-medium text-neutral-400">{article.source}</span>
-            <span className="text-neutral-700">·</span>
+            <span className="font-medium text-neutral-700 dark:text-neutral-400">{article.source}</span>
+            <span className="text-neutral-300 dark:text-neutral-700">·</span>
             <span>{formatTimeAgo(article.publishedAt)}</span>
           </div>
         </div>
@@ -82,25 +83,28 @@ export function ArticleCard({ article }: { article: Article }) {
 
   return (
     <Link href={`/article/${article.slug}`} className="block group h-full">
-      <div className="flex flex-col h-full rounded-xl overflow-hidden border border-neutral-800 bg-neutral-900 hover:border-orange-500/50 transition-colors">
+      <div className="flex flex-col h-full rounded-xl overflow-hidden border border-neutral-200 dark:border-neutral-800 bg-white dark:bg-neutral-900 hover:border-orange-500/50 transition-colors shadow-sm dark:shadow-none">
         {/* Image */}
-        <div className="relative w-full aspect-video bg-neutral-800 flex-shrink-0">
+        <div className="relative w-full aspect-video bg-neutral-100 dark:bg-neutral-800 flex-shrink-0">
           {article.imageUrl && (
             <Thumbnail url={article.imageUrl} title={article.title} failed={failed} setFailed={setFailed} />
           )}
-          <div className={`absolute inset-0 ${hasImage ? 'bg-gradient-to-t from-neutral-900/60 to-transparent' : `bg-gradient-to-br ${cat.gradient}`}`} />
+          <div className={`absolute inset-0 ${hasImage
+            ? 'bg-gradient-to-t from-black/50 to-transparent'
+            : `bg-gradient-to-br ${cat.gradient}`
+          }`} />
           <span className={`absolute bottom-2 left-2 px-2 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-wide ${cat.badge}`}>
             {article.category}
           </span>
         </div>
         {/* Content */}
         <div className="flex flex-col flex-1 p-3.5">
-          <h2 className="flex-1 text-sm font-semibold leading-snug text-neutral-200 group-hover:text-orange-400 transition-colors line-clamp-3">
+          <h2 className="flex-1 text-sm font-semibold leading-snug text-neutral-900 dark:text-neutral-200 group-hover:text-orange-500 dark:group-hover:text-orange-400 transition-colors line-clamp-3">
             {article.title}
           </h2>
           <div className="mt-2.5 flex items-center gap-1.5 text-xs text-neutral-500">
-            <span className="font-medium text-neutral-400">{article.source}</span>
-            <span className="text-neutral-700">·</span>
+            <span className="font-medium text-neutral-700 dark:text-neutral-400">{article.source}</span>
+            <span className="text-neutral-300 dark:text-neutral-700">·</span>
             <span>{formatTimeAgo(article.publishedAt)}</span>
           </div>
         </div>
