@@ -6,7 +6,7 @@
 
 **Architecture:** GitHub Actions cron fires every hour, runs `scripts/ingest.ts` which fetches RSS feeds, deduplicates, summarizes via Claude Haiku, and commits updated JSON data files. Vercel detects the push and rebuilds the static Next.js site.
 
-**Tech Stack:** Next.js 14 (App Router, static generation), TypeScript, Tailwind CSS, `rss-parser`, `@anthropic-ai/sdk`, Jest + ts-jest, GitHub Actions, Vercel
+**Tech Stack:** Next.js 16 (App Router, static generation), TypeScript, Tailwind CSS, `rss-parser`, `@anthropic-ai/sdk`, Jest + ts-jest, GitHub Actions, Vercel
 
 ---
 

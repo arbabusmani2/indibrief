@@ -5,5 +5,5 @@ export default {
   moduleNameMapper: {
     '^@/(.*)$': '<rootDir>/$1',
   },
-  testPathPattern: '.*\\.test\\.ts$',
+  testMatch: ['**/*.test.ts'],
 };
