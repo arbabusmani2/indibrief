@@ -23,7 +23,7 @@ export default async function CategoryPage({ params }: Props) {
   return (
     <>
       <Header activeCategory={category as Category} />
-      <main className="mx-auto max-w-3xl px-4 py-6">
+      <main className="mx-auto max-w-5xl px-4 py-6">
         <p className="mb-4 text-xs uppercase tracking-widest text-neutral-500">
           {articles.length} {category} stories
         </p>

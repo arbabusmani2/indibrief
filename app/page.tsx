@@ -11,8 +11,7 @@ export default function HomePage() {
   return (
     <>
       <Header activeCategory="all" />
-      <main className="mx-auto max-w-3xl px-4 py-6">
-        {/* Stats bar */}
+      <main className="mx-auto max-w-5xl px-4 py-6">
         <div className="flex items-center justify-between mb-5">
           <p className="text-xs text-neutral-500">
             <span className="text-neutral-300 font-semibold">{articles.length}</span> stories from Indian startup media

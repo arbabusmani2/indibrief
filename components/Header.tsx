@@ -16,7 +16,7 @@ interface HeaderProps {
 export function Header({ activeCategory = 'all' }: HeaderProps) {
   return (
     <header className="sticky top-0 z-10 border-b border-neutral-800 bg-neutral-950/95 backdrop-blur">
-      <div className="mx-auto max-w-3xl px-4">
+      <div className="mx-auto max-w-5xl px-4">
         {/* Brand row */}
         <div className="flex items-center justify-between py-3">
           <Link href="/" className="flex items-center gap-2">

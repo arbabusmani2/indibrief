@@ -5,95 +5,105 @@ import { useState } from 'react';
 import { formatTimeAgo } from '@/lib/formatTimeAgo';
 import type { Article } from '@/lib/types';
 
-const CATEGORY_STYLES: Record<string, { pill: string; dot: string }> = {
-  ecosystem: { pill: 'bg-green-950 text-green-400 border border-green-800',  dot: 'bg-green-400' },
-  funding:   { pill: 'bg-yellow-950 text-yellow-400 border border-yellow-800', dot: 'bg-yellow-400' },
-  growth:    { pill: 'bg-emerald-950 text-emerald-400 border border-emerald-800', dot: 'bg-emerald-400' },
-  policy:    { pill: 'bg-pink-950 text-pink-400 border border-pink-800',     dot: 'bg-pink-400' },
+const CATEGORY_STYLES: Record<string, { badge: string; gradient: string }> = {
+  ecosystem: { badge: 'bg-green-500 text-white',   gradient: 'from-green-900/80 to-green-950' },
+  funding:   { badge: 'bg-yellow-400 text-black',  gradient: 'from-yellow-900/80 to-yellow-950' },
+  growth:    { badge: 'bg-emerald-500 text-white',  gradient: 'from-emerald-900/80 to-emerald-950' },
+  policy:    { badge: 'bg-pink-500 text-white',     gradient: 'from-pink-900/80 to-pink-950' },
 };
 
-interface ArticleCardProps {
-  article: Article;
-  featured?: boolean;
-}
-
-function Thumbnail({ url, title }: { url: string; title: string }) {
-  const [failed, setFailed] = useState(false);
+function Thumbnail({ url, title, failed, setFailed }: {
+  url: string; title: string; failed: boolean; setFailed: (v: boolean) => void;
+}) {
   if (failed) return null;
   return (
     // eslint-disable-next-line @next/next-eslint/no-img-element
     <img
       src={url}
       alt={title}
-      onError={() => setFailed(true)}
-      className="w-full h-full object-cover"
+      className="absolute inset-0 w-full h-full object-cover"
       loading="lazy"
       referrerPolicy="no-referrer"
+      onError={() => setFailed(true)}
     />
   );
 }
 
-export function ArticleCard({ article, featured = false }: ArticleCardProps) {
+/* ── Featured hero card (first article, full width) ── */
+export function FeaturedCard({ article }: { article: Article }) {
+  const [failed, setFailed] = useState(false);
   const cat = CATEGORY_STYLES[article.category] ?? CATEGORY_STYLES.ecosystem;
-
-  if (featured) {
-    return (
-      <Link href={`/article/${article.slug}`} className="block group mb-2">
-        <div className="rounded-xl border border-neutral-800 bg-neutral-900 overflow-hidden hover:border-orange-500/50 transition-colors">
-          {article.imageUrl && (
-            <div className="w-full h-44 bg-neutral-800 overflow-hidden">
-              <Thumbnail url={article.imageUrl} title={article.title} />
-            </div>
-          )}
-          <div className="p-4">
-            <div className="flex items-center gap-2 mb-2">
-              <span className="text-xs font-semibold uppercase tracking-widest text-orange-500">
-                Top Story
-              </span>
-            </div>
-            <h2 className="text-lg font-bold leading-snug text-neutral-100 group-hover:text-orange-400 transition-colors">
-              {article.title}
-            </h2>
-            {article.summary && (
-              <p className="mt-2 text-sm text-neutral-400 line-clamp-2 leading-relaxed">
-                {article.summary}
-              </p>
-            )}
-            <div className="mt-3 flex items-center gap-2 flex-wrap">
-              <span className={`px-2 py-0.5 rounded-full text-xs font-medium ${cat.pill}`}>
-                {article.category}
-              </span>
-              <span className="text-neutral-500 text-xs">{article.source}</span>
-              <span className="text-neutral-700 text-xs">·</span>
-              <span className="text-neutral-500 text-xs">{formatTimeAgo(article.publishedAt)}</span>
-            </div>
-          </div>
-        </div>
-      </Link>
-    );
-  }
+  const hasImage = !!article.imageUrl && !failed;
 
   return (
     <Link href={`/article/${article.slug}`} className="block group">
-      <div className="flex gap-3 py-3.5 border-b border-neutral-800/70 hover:bg-neutral-900/40 -mx-3 px-3 rounded-lg transition-colors">
-        <div className="flex-1 min-w-0">
-          <h2 className="text-sm font-semibold leading-snug text-neutral-200 group-hover:text-orange-400 transition-colors">
+      <div className="relative rounded-2xl overflow-hidden border border-neutral-800 bg-neutral-900 hover:border-orange-500/60 transition-colors">
+        {/* Image area */}
+        <div className="relative w-full aspect-[16/7] bg-neutral-800">
+          {article.imageUrl && (
+            <Thumbnail url={article.imageUrl} title={article.title} failed={failed} setFailed={setFailed} />
+          )}
+          {/* Gradient overlay always present */}
+          <div className={`absolute inset-0 bg-gradient-to-t ${hasImage ? 'from-neutral-950/90 via-neutral-950/20 to-transparent' : `bg-gradient-to-br ${cat.gradient}`}`} />
+          {/* Category badge on image */}
+          <span className={`absolute top-3 left-3 px-2.5 py-1 rounded-full text-xs font-bold uppercase tracking-wide ${cat.badge}`}>
+            {article.category}
+          </span>
+          <span className="absolute top-3 right-3 px-2 py-1 rounded-full bg-orange-500 text-white text-xs font-bold uppercase tracking-widest">
+            Top Story
+          </span>
+        </div>
+        {/* Content below image */}
+        <div className="p-5">
+          <h2 className="text-xl font-bold leading-snug text-neutral-100 group-hover:text-orange-400 transition-colors line-clamp-2">
             {article.title}
           </h2>
-          <div className="mt-1.5 flex items-center gap-2 flex-wrap">
-            <span className={`px-1.5 py-0.5 rounded text-[10px] font-semibold uppercase tracking-wide ${cat.pill}`}>
-              {article.category}
-            </span>
-            <span className="text-neutral-500 text-xs">{article.source}</span>
-            <span className="text-neutral-700 text-xs">·</span>
-            <span className="text-neutral-600 text-xs">{formatTimeAgo(article.publishedAt)}</span>
+          {article.summary && (
+            <p className="mt-2 text-sm text-neutral-400 line-clamp-2 leading-relaxed">
+              {article.summary}
+            </p>
+          )}
+          <div className="mt-3 flex items-center gap-2 text-xs text-neutral-500">
+            <span className="font-medium text-neutral-400">{article.source}</span>
+            <span className="text-neutral-700">·</span>
+            <span>{formatTimeAgo(article.publishedAt)}</span>
           </div>
         </div>
-        {article.imageUrl && (
-          <div className="flex-shrink-0 w-20 h-14 rounded-lg overflow-hidden bg-neutral-800">
-            <Thumbnail url={article.imageUrl} title={article.title} />
+      </div>
+    </Link>
+  );
+}
+
+/* ── Grid card (all other articles) ── */
+export function ArticleCard({ article }: { article: Article }) {
+  const [failed, setFailed] = useState(false);
+  const cat = CATEGORY_STYLES[article.category] ?? CATEGORY_STYLES.ecosystem;
+  const hasImage = !!article.imageUrl && !failed;
+
+  return (
+    <Link href={`/article/${article.slug}`} className="block group h-full">
+      <div className="flex flex-col h-full rounded-xl overflow-hidden border border-neutral-800 bg-neutral-900 hover:border-orange-500/50 transition-colors">
+        {/* Image */}
+        <div className="relative w-full aspect-video bg-neutral-800 flex-shrink-0">
+          {article.imageUrl && (
+            <Thumbnail url={article.imageUrl} title={article.title} failed={failed} setFailed={setFailed} />
+          )}
+          <div className={`absolute inset-0 ${hasImage ? 'bg-gradient-to-t from-neutral-900/60 to-transparent' : `bg-gradient-to-br ${cat.gradient}`}`} />
+          <span className={`absolute bottom-2 left-2 px-2 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-wide ${cat.badge}`}>
+            {article.category}
+          </span>
+        </div>
+        {/* Content */}
+        <div className="flex flex-col flex-1 p-3.5">
+          <h2 className="flex-1 text-sm font-semibold leading-snug text-neutral-200 group-hover:text-orange-400 transition-colors line-clamp-3">
+            {article.title}
+          </h2>
+          <div className="mt-2.5 flex items-center gap-1.5 text-xs text-neutral-500">
+            <span className="font-medium text-neutral-400">{article.source}</span>
+            <span className="text-neutral-700">·</span>
+            <span>{formatTimeAgo(article.publishedAt)}</span>
           </div>
-        )}
+        </div>
       </div>
     </Link>
   );
