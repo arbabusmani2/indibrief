@@ -10,7 +10,7 @@ export function generateStaticParams() {
   return VALID.map(category => ({ category }));
 }
 
-export const dynamic = 'force-static';
+export const revalidate = 3600;
 
 interface Props {
   params: Promise<{ category: string }>;

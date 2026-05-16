@@ -8,10 +8,11 @@ const NAV = [
   { label: 'Funding',   href: '/funding',   key: 'funding' },
   { label: 'Growth',    href: '/growth',    key: 'growth' },
   { label: 'Policy',    href: '/policy',    key: 'policy' },
+  { label: 'Archive',   href: '/archive',   key: 'archive' },
 ] as const;
 
 interface HeaderProps {
-  activeCategory?: Category | 'all';
+  activeCategory?: Category | 'all' | 'archive';
 }
 
 export function Header({ activeCategory = 'all' }: HeaderProps) {
