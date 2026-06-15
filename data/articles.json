@@ -1,5 +1,108 @@
 [
   {
+    "slug": "ai-startups-to-watch-5-startups-that-caught-our-eye-in-june-558b6b",
+    "title": "AI Startups To Watch: 5 Startups That Caught Our Eye In June",
+    "summary": "India’s tech story is entering a nuanced phase, with AI pushing deeper into filmmaking, cybersecurity, enterprise workflows and education. Recently,…",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/startups/ai-startups-to-watch-5-startups-that-caught-our-eye-in-june/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/Ftr-100.jpg",
+    "publishedAt": "2026-06-15T05:56:13.000Z",
+    "ingestedAt": "2026-06-15T06:13:59.678Z"
+  },
+  {
+    "slug": "token-costs-are-climbing-developers-can-help-fix-that-d6fc10",
+    "title": "Token costs are climbing. Developers can help fix that\r\n\r\n",
+    "summary": "At DevSparks 2026 in Bengaluru, NVIDIA's Jigar Halani made the case that every model choice and agent a developer ships has a direct cost implication, and that understanding tokeconomics is now a core developer skill.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/06/tokeconomics-ai-token-cost-jigar-halani-nvidia-devsparks-2026",
+    "publishedAt": "2026-06-15T05:30:00.000Z",
+    "ingestedAt": "2026-06-15T06:13:59.678Z"
+  },
+  {
+    "slug": "razorpay-files-confidential-ipo-papers-to-raise-600-mn-ef2bfa",
+    "title": "Razorpay Files Confidential IPO Papers To Raise $600 Mn",
+    "summary": "Fintech major Razorpay has filed its draft red herring prospectus (DRHP) for an IPO through the confidential route, as per…",
+    "category": "funding",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/razorpay-files-confidential-ipo-papers-to-raise-600-mn/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/Razorpay-IPO-featured.png",
+    "publishedAt": "2026-06-15T04:02:26.000Z",
+    "ingestedAt": "2026-06-15T06:13:59.678Z"
+  },
+  {
+    "slug": "amazon-ai-for-sellers-weekly-funding-rebounds-more-398a29",
+    "title": "Amazon AI For Sellers, Weekly Funding Rebounds & More",
+    "summary": "Amazon’s AI Gameplan For Sellers After consumers, Amazon is now moving AI to the seller side. The ecommerce major is…",
+    "category": "funding",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/amazon-ai-for-sellers-weekly-funding-rebounds-more/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/FTR-Daily-Brief-2026-06-14T211403.177.png",
+    "publishedAt": "2026-06-15T02:30:59.000Z",
+    "ingestedAt": "2026-06-15T06:13:59.678Z"
+  },
+  {
+    "slug": "heads-founders-win-tails-platforms-win-ai-fund-activate-wins-50c00a",
+    "title": "Heads, founders win. Tails, platforms win. AI fund Activate wins either way",
+    "summary": "The post Heads, founders win. Tails, platforms win. AI fund Activate wins either way appeared first on The Ken.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "The Ken",
+    "sourceUrl": "https://the-ken.com/story/heads-founders-win-tails-platforms-win-ai-fund-activate-wins-either-way/",
+    "publishedAt": "2026-06-15T02:30:31.000Z",
+    "ingestedAt": "2026-06-15T06:13:59.678Z"
+  },
+  {
+    "slug": "how-birac-is-shaping-indias-biotech-startup-ecosystem-f48752",
+    "title": "How BIRAC is shaping India’s biotech startup ecosystem \r\n\r\n",
+    "summary": "The multipronged approach of Biotechnology Industry Research Assistance Council (BIRAC) encompassing funding, infrastructure, networks, market reach has led to expansion of biotech startups in India.",
+    "category": "funding",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/06/how-birac-is-shaping-indias-biotech-startup-ecosystem",
+    "publishedAt": "2026-06-15T02:00:00.000Z",
+    "ingestedAt": "2026-06-15T06:13:59.678Z"
+  },
+  {
+    "slug": "birac-nurturing-the-biotech-sector-turning-bars-into-classro-f48c34",
+    "title": "BIRAC nurturing the biotech sector; Turning bars into classrooms\r\n",
+    "summary": "Several successful biotech startups trace their roots to BIRAC. Cleantech company GPS Renewables, for example, received funding under BIRAC’s Biotechnology Ignition Grant.",
+    "category": "funding",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/06/birac-nurturing-the-biotech-sector",
+    "publishedAt": "2026-06-15T02:00:00.000Z",
+    "ingestedAt": "2026-06-15T06:13:59.678Z"
+  },
+  {
+    "slug": "pints-professors-and-packed-houses-how-pint-of-view-is-turni-26c5a8",
+    "title": "Pints, professors, and packed houses: How Pint of View is turning bars into classrooms\r\n",
+    "summary": "Bengaluru-based Pint of View hosts sold-out academic lectures in bars across India, proving that curiosity doesn’t end with college — and that people will happily pay to learn with a drink in hand.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/06/pints-professors-packed-houses-how-pint-view-turning-bars-classrooms",
+    "publishedAt": "2026-06-15T01:40:00.000Z",
+    "ingestedAt": "2026-06-15T06:13:59.678Z"
+  },
+  {
+    "slug": "can-firstcry-hold-investor-attention-in-a-quick-commerce-wor-6715a3",
+    "title": "Can FirstCry Hold Investor Attention In A Quick Commerce World?",
+    "summary": "At least seven times during FirstCry’s March-quarter earnings call, the company returned to a familiar theme: rationalisation.  Competition, the management…",
+    "category": "funding",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/features/can-firstcry-hold-investor-attention-in-a-quick-commerce-world/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/ftr-8.jpg",
+    "publishedAt": "2026-06-15T00:30:11.000Z",
+    "ingestedAt": "2026-06-15T06:13:59.678Z"
+  },
+  {
     "slug": "amazon-bets-on-aipowered-assistant-to-streamline-seller-oper-2ab56d",
     "title": "Amazon Bets On AI-Powered Assistant To Streamline Seller Operations",
     "summary": "Ecommerce giant Amazon is embedding AI across its seller journey for its Indian users. At the core of this rollout…",
@@ -5663,109 +5766,5 @@
     "sourceUrl": "https://yourstory.com/2026/05/sustainable-agriculture-small-farms-marathwada",
     "publishedAt": "2026-05-22T09:18:26.000Z",
     "ingestedAt": "2026-05-22T10:16:32.580Z"
-  },
-  {
-    "slug": "info-edge-q4-profit-increases-12-to-756-cr-declares-dividend-ee889d",
-    "title": "Info Edge Q4: Profit Increases 12% To ₹756 Cr, Declares Dividend Of ₹3.60",
-    "summary": "Naukri parent Info Edge’s consolidated net profit for the fourth quarter of FY26 increased 12% to ₹755.7 Cr from ₹677.9…",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/info-edge-q4-profit-increases-12-to-%e2%82%b9756-cr-declares-dividend-of-%e2%82%b93-60/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/02/Info-Edge-Q3-ftr.jpg",
-    "publishedAt": "2026-05-22T08:26:23.000Z",
-    "ingestedAt": "2026-05-22T10:16:32.580Z"
-  },
-  {
-    "slug": "nykaa-touches-fresh-52week-high-after-strong-q4-performance-d73f12",
-    "title": "Nykaa Touches Fresh 52-Week High After Strong Q4 Performance",
-    "summary": "Shares of Nykaa parent FSN E-Commerce Ventures rose over 4% to touch a 52-week high of ₹285.65 during intraday trading…",
-    "category": "funding",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/nykaa-touches-fresh-52-week-high-after-strong-q4-performance/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/nykaa-bulk-sale-featured-.jpeg",
-    "publishedAt": "2026-05-22T08:11:43.000Z",
-    "ingestedAt": "2026-05-22T10:16:32.580Z"
-  },
-  {
-    "slug": "honasa-soars-13-to-touch-52week-high-after-q4-profit-nearly-2c755d",
-    "title": "Honasa Soars 13% To Touch 52-Week High After Q4 Profit Nearly Triples",
-    "summary": "Shares of Honasa Consumer, the parent of Mamaearth, surged as much as 13% to hit a fresh 52-week high of…",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/honasa-soars-13-to-touch-52-week-high-after-q4-profit-nearly-triples/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/11/FTR-HONASA.jpg",
-    "publishedAt": "2026-05-22T07:44:39.000Z",
-    "ingestedAt": "2026-05-22T10:16:32.580Z"
-  },
-  {
-    "slug": "flipkart-drives-walmarts-ecommerce-advertising-growth-in-q1-df9168",
-    "title": "Flipkart Drives Walmart’s Ecommerce, Advertising Growth In Q1 FY27",
-    "summary": "Flipkart and its quick commerce arm Flipkart Minutes featured in Walmart’s Q1 FY27 earnings commentary as the global retail giant…",
-    "category": "growth",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/flipkart-drives-walmarts-ecommerce-advertising-growth-in-q1-fy27/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/12/flipkart-walmart-featured-1-1.png",
-    "publishedAt": "2026-05-22T06:31:31.000Z",
-    "ingestedAt": "2026-05-22T06:39:39.482Z"
-  },
-  {
-    "slug": "neets-switch-from-penandpaper-to-computer-damned-if-you-do-d-597f09",
-    "title": "NEET’s switch from pen-and-paper to computer: damned if you do, damned if you don’t",
-    "summary": "The post NEET’s switch from pen-and-paper to computer: damned if you do, damned if you don’t appeared first on The Ken.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "The Ken",
-    "sourceUrl": "https://the-ken.com/story/neets-switch-from-pen-and-paper-to-computer-damned-if-you-do-damned-if-you-dont/",
-    "publishedAt": "2026-05-22T05:30:28.000Z",
-    "ingestedAt": "2026-05-22T06:39:39.482Z"
-  },
-  {
-    "slug": "swiggy-fails-to-secure-requisite-shareholder-approval-for-al-3f4a3c",
-    "title": "Swiggy fails to secure requisite shareholder approval for altering AoA to become Indian-owned entity\r\n",
-    "summary": "Swiggy fell short of the required shareholder threshold to amend its AoA for Indian-owned and controlled company (IOCC) status, though shareholders overwhelmingly approved the appointment of Renan De Castro Alves Pinto to the board.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/05/swiggy-fails-to-secure-shareholder-approval-aoa-indian-owned-entity",
-    "publishedAt": "2026-05-22T04:43:35.000Z",
-    "ingestedAt": "2026-05-22T06:39:39.482Z"
-  },
-  {
-    "slug": "the-new-ai-threat-nykaas-q4-surge-more-f7eab0",
-    "title": "The New AI Threat, Nykaa’s Q4 Surge & More",
-    "summary": "Agent Traps Keep Enterprises On Edge The rise of AI is creating a new cybersecurity problem, agent traps. Attackers no…",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/the-new-ai-threat-nykaas-q4-surge-more/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/FTR-Daily-Brief-2026-05-22T003526.113.png",
-    "publishedAt": "2026-05-22T02:30:22.000Z",
-    "ingestedAt": "2026-05-22T06:39:39.482Z"
-  },
-  {
-    "slug": "maharashtra-lured-amazon-ntt-with-cheap-green-power-then-it-3fe16c",
-    "title": "Maharashtra lured Amazon, NTT with cheap green power. Then it changed the data-centre deal",
-    "summary": "The post Maharashtra lured Amazon, NTT with cheap green power. Then it changed the data-centre deal appeared first on The Ken.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "The Ken",
-    "sourceUrl": "https://the-ken.com/story/solar-rules-changed-in-maharashtra/",
-    "publishedAt": "2026-05-22T02:30:11.000Z",
-    "ingestedAt": "2026-05-22T06:39:39.482Z"
-  },
-  {
-    "slug": "scapias-63m-fundraise-premium-ice-cream-brand-papacream-c7233e",
-    "title": "Scapia’s $63M fundraise; Premium ice cream brand Papacream\r\n",
-    "summary": "Travel-fintech startup Scapia has raised $63 million in a fresh round of funding led by General Catalyst. Papacream was built around the idea that premium desserts should feel indulgent, but not intimidating.",
-    "category": "funding",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/05/scapia-fundraise-premium-ice-cream-brand-papacream",
-    "publishedAt": "2026-05-22T02:00:00.000Z",
-    "ingestedAt": "2026-05-22T02:13:05.543Z"
   }
 ]
