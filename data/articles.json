@@ -1,5 +1,63 @@
 [
   {
+    "slug": "why-rebuilding-telecom-infrastructure-is-critical-for-next-w-bdc42f",
+    "title": "Why Rebuilding Telecom Infrastructure Is Critical For Next Wave Of Voice AI",
+    "summary": "India’s digital ecosystem is undergoing a massive shift as enterprises move from text-heavy apps to conversational voice interfaces. The commercial…",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/why-rebuilding-telecom-infrastructure-is-critical-for-next-wave-of-voice-ai/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/Vobiz_FTR-100.jpg",
+    "publishedAt": "2026-06-18T06:59:53.000Z",
+    "ingestedAt": "2026-06-18T07:26:39.382Z"
+  },
+  {
+    "slug": "nykaa-surges-to-52week-high-as-investors-cheer-fy30-roadmap-dacfe9",
+    "title": "Nykaa Surges To 52-Week High As Investors Cheer FY30 Roadmap",
+    "summary": "Shares of Nykaa climbed 7.1% to touch a 52-week high of ₹301.30 on the BSE during the intraday trading, as…",
+    "category": "funding",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/nykaa-surges-to-52-week-high-as-investors-cheer-fy30-roadmap/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/07/nykaa-oman-featured.png",
+    "publishedAt": "2026-06-18T06:43:02.000Z",
+    "ingestedAt": "2026-06-18T07:26:39.382Z"
+  },
+  {
+    "slug": "at-g7-pm-modi-warns-against-misuse-of-ai-c6d840",
+    "title": "At G7, PM Modi warns against misuse of AI\r\n",
+    "summary": "At the G7 summit, Prime Minister Narendra Modi warned that unchecked AI could expose children to misinformation, deepfakes and exploitation, urging global cooperation to build safe, human-centric AI systems.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/06/at-g7-pm-modi-warns-against-misuse-of-ai",
+    "publishedAt": "2026-06-18T06:34:00.000Z",
+    "ingestedAt": "2026-06-18T07:26:39.382Z"
+  },
+  {
+    "slug": "bengaluru-ranks-second-in-asia-for-ai-innovation-8fd87f",
+    "title": "Bengaluru ranks second in Asia for AI Innovation",
+    "summary": "Bengaluru has strengthened its position as a global startup and AI hub, ranking second in Asia for AI-native startups and entering the global top 10 for performance and R&D in the Global Startup Ecosystem Report (GSER) 2026.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/06/bengaluru-ranks-second-in-asia-for-ai-innovation",
+    "publishedAt": "2026-06-18T06:26:39.000Z",
+    "ingestedAt": "2026-06-18T07:26:39.382Z"
+  },
+  {
+    "slug": "reliance-jio-rejects-telegram-founders-gbp-hijacking-allegat-a9a834",
+    "title": "Reliance Jio Rejects Telegram Founder’s GBP Hijacking Allegations",
+    "summary": "IPO-bound Reliance Jio has rejected the allegations that it is intentionally blocking access to online messaging platform Telegram even for…",
+    "category": "funding",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/reliance-jio-rejects-telegram-founders-gbp-hijacking-allegations/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/Telegram-Blocked-ftr.jpg",
+    "publishedAt": "2026-06-18T06:12:46.000Z",
+    "ingestedAt": "2026-06-18T07:26:39.382Z"
+  },
+  {
     "slug": "you-have-to-be-clear-what-is-more-importantthe-economy-or-th-ae3b5e",
     "title": "‘You have to be clear what is more important—the economy or the market’",
     "summary": "The post ‘You have to be clear what is more important—the economy or the market’ appeared first on The Ken.",
@@ -42,6 +100,18 @@
     "sourceUrl": "https://yourstory.com/2026/06/pet-healthcare-startup-vetic-raises-40-million-bessemer-venture-partners",
     "publishedAt": "2026-06-18T00:35:00.000Z",
     "ingestedAt": "2026-06-18T02:37:56.601Z"
+  },
+  {
+    "slug": "petcare-startup-vetic-secures-40-mn-to-scale-clinic-network-e66fd4",
+    "title": "Petcare Startup Vetic Secures $40 Mn To Scale Clinic Network",
+    "summary": "Pet healthcare startup Vetic has secured $40 Mn (₹377.7 Cr) in a funding round led by existing investor Bessemer Venture…",
+    "category": "growth",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/petcare-startup-vetic-secures-40-mn-to-scale-clinic-network/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/Vetic-Founder-Feature.png",
+    "publishedAt": "2026-06-18T00:30:17.000Z",
+    "ingestedAt": "2026-06-18T07:26:39.382Z"
   },
   {
     "slug": "pramaana-labs-raises-27-mn-to-build-ai-verification-layer-11fa6b",
@@ -5706,75 +5776,6 @@
     "source": "YourStory",
     "sourceUrl": "https://yourstory.com/2026/05/venture-catalysts--demo-day-spotlights-12-startups-targeting-46m-raise",
     "publishedAt": "2026-05-26T11:47:15.000Z",
-    "ingestedAt": "2026-05-26T13:47:10.725Z"
-  },
-  {
-    "slug": "meet-the-speakers-headlining-devsparks-bengaluru-2026-indias-0195d4",
-    "title": "Meet the speakers headlining DevSparks Bengaluru 2026, India's premier developer summit\r\n",
-    "summary": "On May 30, YourStory’s flagship developer-only summit brings together tech leaders, AI experts, and engineering voices in Bengaluru to decode what comes next for developers in the age of AI.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/05/speakers-devsparks-bengaluru-2026-indias-premier-developer-summit",
-    "publishedAt": "2026-05-26T11:42:52.000Z",
-    "ingestedAt": "2026-05-26T13:47:10.725Z"
-  },
-  {
-    "slug": "pocket-fm-cfo-anurag-sharma-steps-down-264aaf",
-    "title": "Pocket FM CFO Anurag Sharma Steps Down",
-    "summary": "Anurag Sharma, the CFO of audio entertainment platform Pocket FM, has stepped down from his position to explore entrepreneurial opportunities.…",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/pocket-fm-cfo-anurag-sharma-steps-down/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Untitled-design-2026-05-26T170009.055.png",
-    "publishedAt": "2026-05-26T11:41:30.000Z",
-    "ingestedAt": "2026-05-26T13:47:10.725Z"
-  },
-  {
-    "slug": "fundamentum-cofounder-ashish-kumar-launches-2000-cr-ai-deept-e9bb37",
-    "title": "Fundamentum Cofounder Ashish Kumar Launches ₹2,000 Cr AI & Deeptech VC Fund",
-    "summary": "Fundamentum Partnership partner and cofounder Ashish Kumar has launched a new private investment platform, Fundamentum Frontier Advisors (F2A), to invest…",
-    "category": "funding",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/fundamentum-cofounder-ashish-kumar-launches-%e2%82%b92000-cr-ai-deeptech-vc-fund/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/f2a-ashish-ftr.jpg",
-    "publishedAt": "2026-05-26T11:29:57.000Z",
-    "ingestedAt": "2026-05-26T13:47:10.725Z"
-  },
-  {
-    "slug": "the-d2c-math-is-breaking-west-asia-war-forces-brands-into-re-21f043",
-    "title": "The D2C Math Is Breaking: West Asia War Forces Brands Into Repricing Mode",
-    "summary": "In the last few years, the world has adapted to new waves of uncertainty. From Covid to various economic slowdowns…",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/features/west-asia-war-forces-india-d2c-brands-into-repricing-mode/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/D2C-Unit-economics-ftr.jpg",
-    "publishedAt": "2026-05-26T10:57:53.000Z",
-    "ingestedAt": "2026-05-26T13:47:10.725Z"
-  },
-  {
-    "slug": "shipsy-crosses-25m-in-arr-as-demand-for-ai-solutions-for-log-886b98",
-    "title": "Shipsy crosses $25M in ARR as demand for AI solutions for logistics grows",
-    "summary": "According to the Gurugram-based startup, the milestone reflects growing demand for intelligent logistics solutions amid rising labour costs and driver shortages across Europe, the UK and Australia.",
-    "category": "growth",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/05/logistics-focused-ai-startup-shipsy-crosses-25-million-arr",
-    "publishedAt": "2026-05-26T10:47:58.000Z",
-    "ingestedAt": "2026-05-26T13:47:10.725Z"
-  },
-  {
-    "slug": "fundamentum-cofounder-ashish-kumar-unveils-rs-2000-cr-ai-dee-66bdd2",
-    "title": "Fundamentum co-founder Ashish Kumar unveils Rs 2,000 Cr AI & deeptech fund",
-    "summary": "The AI and deeptech-focused fund, backed by Nandan Nilekani as anchor investor, will invest in startups operating across consumer, enterprise, and physical AI segments.",
-    "category": "funding",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/05/fundamentum-co-founder-ashish-kumar-rs-2000-crore-ai-deeptech-fund",
-    "publishedAt": "2026-05-26T10:34:37.000Z",
     "ingestedAt": "2026-05-26T13:47:10.725Z"
   }
 ]
