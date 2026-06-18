@@ -1,5 +1,98 @@
 [
   {
+    "slug": "how-startups-are-rebuilding-their-cloud-stack-for-profitabil-b8c009",
+    "title": "How Startups Are Rebuilding Their Cloud Stack For Profitability, Scale",
+    "summary": "In a Bengaluru coworking space, a two-year-old SaaS startup is getting ready for a product demo with a large enterprise…",
+    "category": "growth",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/startups/how-startups-are-rebuilding-their-cloud-stack-for-profitability-scale/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/Oracle-Native-Article-ftr.jpg",
+    "publishedAt": "2026-06-18T11:30:42.000Z",
+    "ingestedAt": "2026-06-18T11:44:38.174Z"
+  },
+  {
+    "slug": "digital-entertainment-startup-rusk-media-secures-100-cr-12bfd1",
+    "title": "Digital Entertainment Startup Rusk Media Secures ₹100 Cr",
+    "summary": "Mumbai-based digital entertainment startup Rusk Media has raised ₹100 Cr (about $10.6 Mn) in its pre-series C funding round led…",
+    "category": "funding",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/digital-entertainment-startup-rusk-media-secures-%e2%82%b9100-cr/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/Rusk-Media-Founder-Feature.png",
+    "publishedAt": "2026-06-18T11:27:35.000Z",
+    "ingestedAt": "2026-06-18T11:44:38.174Z"
+  },
+  {
+    "slug": "ola-consumer-banned-in-chandigarh-for-six-months-bd4394",
+    "title": "Ola Consumer Banned In Chandigarh For Six Months",
+    "summary": "The State Transport Authority (STA) of Chandigarh has suspended the cab aggregator licence of ANI Technologies, the parent company of…",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/ola-consumer-banned-in-chandigarh-for-six-months/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/06/ola-cabs-featured.jpg",
+    "publishedAt": "2026-06-18T11:10:18.000Z",
+    "ingestedAt": "2026-06-18T11:44:38.174Z"
+  },
+  {
+    "slug": "karo-sambhav-secures-rs-56-cr-from-rainmatter-by-zerodha-d3e1fb",
+    "title": "Karo Sambhav secures Rs 56 Cr from Rainmatter by Zerodha",
+    "summary": "Karo Sambhav plans to expand recycling infrastructure for recovering critical minerals from e-waste, amid growing policy support and demand for domestic resource security.",
+    "category": "policy",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/06/funding-karo-sambhav-56-crore-from-rainmatter-zerodha",
+    "publishedAt": "2026-06-18T11:08:09.000Z",
+    "ingestedAt": "2026-06-18T11:44:38.174Z"
+  },
+  {
+    "slug": "from-chatbots-to-autonomous-agents-how-hostinger-built-ai-in-ba12bd",
+    "title": "From chatbots to autonomous agents: How Hostinger built AI into its core business\r\n\r\n",
+    "summary": "At DevSparks 2026 Bengaluru, Hostinger's AI Tech Lead Mantas Lukauskas traced the company's journey from early chatbot experiments to Kodee, an agentic system that now handles most customer interactions.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/05/chatbots-autonomous-agents-hostinger-built-ai-core-business",
+    "publishedAt": "2026-06-18T10:35:41.000Z",
+    "ingestedAt": "2026-06-18T11:44:38.174Z"
+  },
+  {
+    "slug": "in-boost-to-ev-adoption-ambulances-now-eligible-for-pm-edriv-201088",
+    "title": "In Boost To EV Adoption, Ambulances Now Eligible For PM E-DRIVE Incentives",
+    "summary": "In a bid to accelerate the adoption of EVs in the healthcare sector, the ministry of heavy industries (MHI) has…",
+    "category": "policy",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/in-boost-to-ev-adoption-ambulances-now-eligible-for-pm-e-drive-incentives/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/ftr-36.jpg",
+    "publishedAt": "2026-06-18T10:09:45.000Z",
+    "ingestedAt": "2026-06-18T11:44:38.174Z"
+  },
+  {
+    "slug": "loreal-to-acquire-majority-stake-in-bpc-startup-innovist-542651",
+    "title": "L’Oreal To Acquire Majority Stake In BPC Startup Innovist",
+    "summary": "Global cosmetics giant L’Oreal has signed an agreement to acquire a majority stake in beauty and personal care startup Innovist.…",
+    "category": "funding",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/loreal-to-acquire-majority-stake-in-bpc-startup-innovist/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/Untitled-design-2026-06-18T131456.198.png",
+    "publishedAt": "2026-06-18T07:46:00.000Z",
+    "ingestedAt": "2026-06-18T11:44:38.174Z"
+  },
+  {
+    "slug": "pmrc-scheme-2026-india-offers-up-to-14-crore-to-attract-rese-68a818",
+    "title": "PMRC Scheme 2026: India Offers Up to ₹14 Crore to Attract Researchers Back Home",
+    "summary": "With grants of up to ₹14 crore, world-class lab access, and full relocation support, the Prime Minister Research Chair Scheme is India's boldest bid",
+    "category": "policy",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/06/pmrc-scheme-2026-india-bring-researchers-home",
+    "publishedAt": "2026-06-18T07:34:03.000Z",
+    "ingestedAt": "2026-06-18T11:44:38.174Z"
+  },
+  {
     "slug": "why-rebuilding-telecom-infrastructure-is-critical-for-next-w-bdc42f",
     "title": "Why Rebuilding Telecom Infrastructure Is Critical For Next Wave Of Voice AI",
     "summary": "India’s digital ecosystem is undergoing a massive shift as enterprises move from text-heavy apps to conversational voice interfaces. The commercial…",
@@ -5683,99 +5776,5 @@
     "sourceUrl": "https://yourstory.com/2026/05/mobikwik-gets-rbi-approval-to-expand-into-offline-merchant-payments",
     "publishedAt": "2026-05-26T16:27:32.000Z",
     "ingestedAt": "2026-05-26T17:22:16.304Z"
-  },
-  {
-    "slug": "the-personality-rights-battle-when-startup-founders-become-c-c518da",
-    "title": "The Personality Rights Battle: When Startup Founders Become Celebrities",
-    "summary": "For most of India’s legal history, personality rights were concerns largely reserved for film stars and cricketers. Amitabh Bachchan went…",
-    "category": "policy",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/features/the-personality-rights-battle-when-startup-founders-become-celebrities/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/ftr-23-1.jpg",
-    "publishedAt": "2026-05-26T15:17:22.000Z",
-    "ingestedAt": "2026-05-26T17:22:16.304Z"
-  },
-  {
-    "slug": "boba-bhai-fy26-revenue-jumps-15x-yoy-to-70-cr-0de328",
-    "title": "Boba Bhai FY26 Revenue Jumps 1.5X YoY To ₹70 Cr",
-    "summary": "Quick service restaurant (QSR) brand Boba Bhai saw its net revenue surge 145% to around ₹70 Cr in FY26 from…",
-    "category": "growth",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/boba-bhai-fy26-revenue-jumps-1-5x-yoy-to-%e2%82%b970-cr/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Boba-Bhai-Founder-Feature.jpg",
-    "publishedAt": "2026-05-26T13:19:37.000Z",
-    "ingestedAt": "2026-05-26T17:22:16.304Z"
-  },
-  {
-    "slug": "boba-bhai-claims-15x-yoy-jump-in-fy26-revenue-to-70-cr-452619",
-    "title": "Boba Bhai Claims 1.5X YoY Jump In FY26 Revenue To ₹70 Cr",
-    "summary": "Quick service restaurant (QSR) brand Boba Bhai saw its net revenue surge 145% to around ₹70 Cr in FY26 from…",
-    "category": "growth",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/boba-bhai-claims-1-5x-yoy-jump-in-fy26-revenue-to-%e2%82%b970-cr/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Boba-Bhai-Founder-Feature.jpg",
-    "publishedAt": "2026-05-26T13:19:37.000Z",
-    "ingestedAt": "2026-05-26T13:47:10.725Z"
-  },
-  {
-    "slug": "slice-reports-first-fullyear-profit-posts-484-cr-pat-in-fy26-f37eea",
-    "title": "slice Reports First Full-Year Profit, Posts ₹48.4 Cr PAT In FY26",
-    "summary": "Fintech major slice reported its first full profitable fiscal year after converting into a small finance bank (SFB) in October…",
-    "category": "growth",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/slice-reports-first-full-year-profit-posts-%e2%82%b948-4-cr-pat-in-fy26/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Slice-FY26-ftr.jpg",
-    "publishedAt": "2026-05-26T12:45:43.000Z",
-    "ingestedAt": "2026-05-26T13:47:10.725Z"
-  },
-  {
-    "slug": "aequs-q4-net-loss-swells-to-54-cr-despite-47-yoy-revenue-upt-abb34b",
-    "title": "Aequs Q4: Net Loss Swells To ₹54 Cr Despite 47% YoY Revenue Uptick",
-    "summary": "Contract manufacturing company Aequs plunged into the red in the March quarter (Q4 FY26), reporting a net loss of ₹53.7…",
-    "category": "growth",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/aequs-q4-net-loss-swells-to-%e2%82%b954-cr-despite-47-yoy-revenue-uptick/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/12/Aequs-ftr-1.jpg",
-    "publishedAt": "2026-05-26T12:34:13.000Z",
-    "ingestedAt": "2026-05-26T13:47:10.725Z"
-  },
-  {
-    "slug": "firstcry-q4-loss-narrows-57-yoy-to-48-cr-revenue-up-12-57da50",
-    "title": "FirstCry Q4: Loss Narrows 57% YoY to ₹48 Cr, Revenue Up 12%",
-    "summary": "Omnichannel kidswear brand FirstCry managed to trim its Q4 FY26 net loss by 57% to ₹48.2 Cr from ₹111.5 Cr…",
-    "category": "growth",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/firstcry-q4-loss-narrows-57-yoy-to-%e2%82%b948-cr-revenue-up-12/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/02/FirstCry-ftr.jpg",
-    "publishedAt": "2026-05-26T12:17:47.000Z",
-    "ingestedAt": "2026-05-26T13:47:10.725Z"
-  },
-  {
-    "slug": "startup-news-and-updates-daily-roundup-may-26-2026-274ae6",
-    "title": "Startup news and updates: daily roundup (May 26, 2026)",
-    "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Tuesday, May 26, 2026.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/05/startup-news-and-updates-daily-roundup-may-26-2026",
-    "publishedAt": "2026-05-26T12:12:54.000Z",
-    "ingestedAt": "2026-05-26T13:47:10.725Z"
-  },
-  {
-    "slug": "venture-catalysts-demo-day-spotlights-12-startups-targeting-adfcd6",
-    "title": "Venture Catalysts ++ Demo Day spotlights 12 startups targeting $46M raise",
-    "summary": "With strong early commitments of nearly $20 million, the VC firm’s latest Demo Day showcases startups across deeptech, AI, climate, defense, aerospace, and sustainability.\n\nVenture Catalysts++, India’s first multi-stage VC firm, is set to spotlight 12 curated startups at its Demo Day 7, bringin",
-    "category": "funding",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/05/venture-catalysts--demo-day-spotlights-12-startups-targeting-46m-raise",
-    "publishedAt": "2026-05-26T11:47:15.000Z",
-    "ingestedAt": "2026-05-26T13:47:10.725Z"
   }
 ]
