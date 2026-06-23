@@ -1,5 +1,40 @@
 [
   {
+    "slug": "startup-news-and-updates-daily-roundup-june-23-2026-5e2a99",
+    "title": "Startup news and updates: daily roundup (June 23, 2026)",
+    "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Tuesday,  June 23, 2026",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/06/startup-news-and-updates-daily-roundup-june-23-2026",
+    "publishedAt": "2026-06-23T10:36:36.000Z",
+    "ingestedAt": "2026-06-23T10:54:02.042Z"
+  },
+  {
+    "slug": "binance-tightens-reporting-rules-for-p2p-crypto-transactions-9e0c54",
+    "title": "Binance Tightens Reporting Rules For P2P Crypto Transactions In India",
+    "summary": "Cryptocurrency exchange Binance has implemented new compliance procedures requiring users in India to submit detailed sender and beneficiary information for…",
+    "category": "policy",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/binance-tightens-reporting-rules-for-p2p-crypto-transactions-in-india/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2024/08/binance-India-featured.png",
+    "publishedAt": "2026-06-23T10:00:43.000Z",
+    "ingestedAt": "2026-06-23T10:54:02.042Z"
+  },
+  {
+    "slug": "proptech-startup-square-yards-raises-900-cr-at-unicorn-valua-59f751",
+    "title": "Proptech Startup Square Yards Raises ₹900 Cr At Unicorn Valuation",
+    "summary": "Months after raising $35 Mn in November last year at a $900 Mn valuation, proptech startup Square Yards has raised…",
+    "category": "funding",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/proptech-startup-square-yards-raises-%e2%82%b9900-cr-at-unicorn-valuation/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/Squareyards-ftr.jpg",
+    "publishedAt": "2026-06-23T08:42:42.000Z",
+    "ingestedAt": "2026-06-23T10:54:02.042Z"
+  },
+  {
     "slug": "turtlemint-ipo-continues-to-see-tepid-response-subscribed-57-28eef7",
     "title": "Turtlemint IPO Continues To See Tepid Response, Subscribed 57% So Far",
     "summary": "The IPO of insurtech company Turtlemint continued to witness a lukewarm response on the final day of bidding, with the…",
@@ -5741,41 +5776,5 @@
     "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Feature-100-19.jpg",
     "publishedAt": "2026-05-30T13:49:41.000Z",
     "ingestedAt": "2026-05-30T14:58:22.879Z"
-  },
-  {
-    "slug": "anushka-sharma-joins-cap-table-of-sportswear-startup-agilita-534c8c",
-    "title": "Anushka Sharma Joins Cap Table Of Sportswear Startup Agilitas",
-    "summary": "Sportswear startup Agilitas Sports has onboarded actor Anushka Sharma as an investor and strategic collaborator as it doubles down on…",
-    "category": "funding",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/anushka-sharma-joins-cap-table-of-sportswear-startup-agilitas/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/anushka-feature-Image.png",
-    "publishedAt": "2026-05-30T08:52:44.000Z",
-    "ingestedAt": "2026-05-30T12:14:41.886Z"
-  },
-  {
-    "slug": "cci-dismisses-predatory-pricing-dominance-abuse-complaint-ag-328878",
-    "title": "CCI Dismisses Predatory Pricing, Dominance Abuse Complaint Against Rapido",
-    "summary": "The Competition Commission of India (CCI) has quashed a complaint filed against ride-hailing major Rapido for allegedly abusing its dominant…",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/cci-dismisses-predatory-pricing-dominance-abuse-complaint-against-rapido/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/02/rapido-pink-featured.png",
-    "publishedAt": "2026-05-30T07:15:09.000Z",
-    "ingestedAt": "2026-05-30T12:14:41.886Z"
-  },
-  {
-    "slug": "from-fairdealmarket-to-abcoffee-indian-startups-raised-52-mn-ff9b89",
-    "title": "From Fairdeal.Market To abCoffee — Indian Startups Raised $52 Mn This Week",
-    "summary": "Weekly funding activity remained volatile in the world’s third-largest startup ecosystem. Between May 22 and 25, 14 Indian startups collectively…",
-    "category": "funding",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/from-fairdeal-market-to-abcoffee-indian-startups-raised-52-mn-this-week/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Ftr-100-20-1.jpg",
-    "publishedAt": "2026-05-30T03:30:07.000Z",
-    "ingestedAt": "2026-05-30T12:14:41.886Z"
   }
 ]
