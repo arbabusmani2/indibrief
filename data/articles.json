@@ -1,5 +1,52 @@
 [
   {
+    "slug": "garuda-aerospace-micron-instruments-join-forces-to-expand-in-7461ac",
+    "title": "Garuda Aerospace, Micron Instruments join forces to expand indigenous defence drone capabilities",
+    "summary": "Under the agreement, the two companies will collaborate on product distribution, joint technology development and defence-focused projects. Their combined expertise is expected to support the development of loitering munitions, and payload-enabled unmanned aerial vehicles.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/07/garuda-aerospace-micron-instruments-indigenous-defence-drone-capabilities",
+    "publishedAt": "2026-07-03T08:06:48.000Z",
+    "ingestedAt": "2026-07-03T08:47:40.798Z"
+  },
+  {
+    "slug": "paytm-subsidiary-receives-payments-licence-from-luxembourg-a-99c6d1",
+    "title": "Paytm Subsidiary Receives Payments Licence From Luxembourg Authorities",
+    "summary": "Paytm has secured a payment institution licence for its step-down Luxembourg-based subsidiary, Paytm Europe Payments S.A. (Paytm Europe), from the…",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/paytm-subsidiary-receives-payments-licence-from-luxembourg-authorities/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/paytm-PA-featured-2.png",
+    "publishedAt": "2026-07-03T07:42:44.000Z",
+    "ingestedAt": "2026-07-03T08:47:40.798Z"
+  },
+  {
+    "slug": "rbi-calls-cryptocurrency-a-threat-to-economy-opposes-its-leg-4e7100",
+    "title": "RBI Calls Cryptocurrency A Threat To Economy, Opposes Its Legalisation",
+    "summary": "Reiterating its long-standing opposition to virtual digital assets (VDAs), the RBI told a parliamentary panel that cryptocurrencies pose a threat…",
+    "category": "policy",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/rbi-calls-cryptocurrency-a-threat-to-economy-opposes-its-legalisation/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/08/crypto-evasion-featured.png",
+    "publishedAt": "2026-07-03T07:01:24.000Z",
+    "ingestedAt": "2026-07-03T08:47:40.798Z"
+  },
+  {
+    "slug": "how-nudge-is-reinventing-ecommerce-for-the-agentic-ai-era-cc76c5",
+    "title": "How Nudge Is Reinventing Ecommerce For The Agentic AI Era",
+    "summary": "The way people discover products online is changing fast, and ecommerce brands are struggling to keep up. Instead of scrolling…",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/startups/how-nudge-is-reinventing-ecommerce-for-the-agentic-ai-era/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/ftr-2.jpg",
+    "publishedAt": "2026-07-03T05:58:53.000Z",
+    "ingestedAt": "2026-07-03T08:47:40.798Z"
+  },
+  {
     "slug": "pb-fintech-slumps-over-8-after-1741-cr-block-deal-9385f7",
     "title": "PB Fintech Slumps Over 8% After ₹1,741 Cr Block Deal",
     "summary": "Shares of PB Fintech, the parent company of Policybazaar, plunged over 8% in early trade after a block deal worth…",
@@ -5719,52 +5766,6 @@
     "sourceUrl": "https://inc42.com/buzz/inc42-ai-summit-2026-the-playbook-for-building-agentic-ai-systems-that-deliver-roi/",
     "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/Skyflow-X-Avalara_FTR-100.jpg",
     "publishedAt": "2026-06-10T13:42:56.000Z",
-    "ingestedAt": "2026-06-10T16:54:49.656Z"
-  },
-  {
-    "slug": "a-day-late-and-a-dollar-short-zepto-fixes-unit-economics-but-93a78f",
-    "title": "A Day Late And A Dollar Short: Zepto Fixes Unit Economics, But What About Profitability?",
-    "summary": "Earlier this week, Zepto filed its updated draft red herring prospectus (UDRHP) with the market regulator SEBI. The startup intends…",
-    "category": "growth",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/features/a-day-late-and-a-dollar-short-zepto-fixes-unit-economics-but-what-about-profitability/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/Zepto-FY26-ftr-1.jpg",
-    "publishedAt": "2026-06-10T13:32:01.000Z",
-    "ingestedAt": "2026-06-10T16:54:49.656Z"
-  },
-  {
-    "slug": "nine-indian-startups-join-wefs-tech-pioneers-cohort-752455",
-    "title": "Nine Indian startups join WEF's Tech Pioneers cohort",
-    "summary": "The WEF said these 100 early-stage startups from 23 countries are building the infrastructure for the next era of AI and are developing breakthrough technologies with the potential to transform industries and societies.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/06/nine-indian-startups-join-wefs-tech-pioneers-cohort",
-    "publishedAt": "2026-06-10T12:58:15.000Z",
-    "ingestedAt": "2026-06-10T16:54:49.656Z"
-  },
-  {
-    "slug": "one-prompt-one-platform-how-intuit-is-rethinking-the-financi-a64a21",
-    "title": "One prompt, one platform: How Intuit is rethinking the financial journey with agentic AI",
-    "summary": "At DevSparks Bengaluru 2026, Intuit's Aavishkar Bharara used a single relatable story to show how agentic AI can collapse fragmented financial workflows into one seamless, anticipatory experience.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/06/intuit-rethinking-financial-journey-agentic-ai",
-    "publishedAt": "2026-06-10T11:32:19.000Z",
-    "ingestedAt": "2026-06-10T16:54:49.656Z"
-  },
-  {
-    "slug": "zoho-launches-inhouse-server-nathu-la-to-lower-ai-inference-f127e2",
-    "title": "Zoho Launches In-House Server ‘Nathu La’ To Lower AI Inference Costs",
-    "summary": "Enterprise SaaS major Zoho has unveiled its in-house designed server platform, Nathu La, to cut AI inference costs and bolster…",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/zoho-launches-in-house-server-nathu-la-to-lower-ai-inference-costs/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/10/zoho-Vani-featured.png",
-    "publishedAt": "2026-06-10T10:43:13.000Z",
     "ingestedAt": "2026-06-10T16:54:49.656Z"
   }
 ]
