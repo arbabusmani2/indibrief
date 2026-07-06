@@ -1,5 +1,63 @@
 [
   {
+    "slug": "quick-fashion-startup-klydo-shuts-shop-teases-pivot-4778de",
+    "title": "Quick Fashion Startup Klydo Shuts Shop, Teases Pivot",
+    "summary": "Fashion focused quick commerce startup Klydo has paused its consumer operations less than a year after launch. As per a…",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/quick-fashion-startup-klydo-pulls-plug-on-consumer-business/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/ftr-42.jpg",
+    "publishedAt": "2026-07-06T06:41:49.000Z",
+    "ingestedAt": "2026-07-06T07:00:53.731Z"
+  },
+  {
+    "slug": "navi-plans-to-file-for-ipo-by-fiscalend-in-talks-for-equity-7660cf",
+    "title": "Navi Plans To File For IPO By Fiscal-End, In Talks For Equity Funding",
+    "summary": "Fintech major Navi is looking to file the DRHP for its initial public offering (IPO) by the March quarter of…",
+    "category": "funding",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/navi-plans-to-file-for-ipo-by-fiscal-end-in-talks-for-equity-funding/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2024/10/navi-RBI-featured.png",
+    "publishedAt": "2026-07-06T06:22:18.000Z",
+    "ingestedAt": "2026-07-06T07:00:53.731Z"
+  },
+  {
+    "slug": "beyond-transactions-why-payments-are-becoming-central-to-mod-da490f",
+    "title": "Beyond transactions: Why payments are becoming central to modern business operations",
+    "summary": "As businesses move beyond solving for payment acceptance, operational visibility, and reconciliation are becoming the bigger challenge. Zoho Payments is part of a broader shift toward embedding payments directly with the systems that run finance, billing, and day-to-day business operations.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/07/transactions-payments-central-modern-business-operations",
+    "publishedAt": "2026-07-06T06:17:41.000Z",
+    "ingestedAt": "2026-07-06T07:00:53.731Z"
+  },
+  {
+    "slug": "the-next-frontier-of-d2c-growth-isnt-marketing-its-the-payme-a37c4c",
+    "title": "The next frontier of D2C growth isn't marketing. It's the payment option not being offered",
+    "summary": "How a gap in India's payment method has been quietly capping D2C conversion rates, and what's being done to close it.",
+    "category": "growth",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/07/the-next-frontier-of-d2c-growth-marketing-payment",
+    "publishedAt": "2026-07-06T05:30:00.000Z",
+    "ingestedAt": "2026-07-06T07:00:53.731Z"
+  },
+  {
+    "slug": "the-gpu-hunger-games-e3ws-safety-crisis-more-7620ef",
+    "title": "The GPU Hunger Games, E3W’s Safety Crisis & More",
+    "summary": "India’s AI Boom Runs Into A Compute Crunch  The way India buys AI compute power is being rewritten. Amid geopolitical…",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/the-gpu-hunger-games-e3ws-safety-crisis-more/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/FTR-Daily-Brief-2026-07-05T190111.484.png",
+    "publishedAt": "2026-07-06T02:30:57.000Z",
+    "ingestedAt": "2026-07-06T07:00:53.731Z"
+  },
+  {
     "slug": "at-rbilicensed-nbfcs-600-annual-interest-is-boardapproved-re-65ac33",
     "title": "At RBI-licensed NBFCs, 600% annual interest is board-approved, ‘reasonable’, and perfectly legal",
     "summary": "The post At RBI-licensed NBFCs, 600% annual interest is board-approved, ‘reasonable’, and perfectly legal appeared first on The Ken.",
@@ -5712,61 +5770,5 @@
     "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/MadOverBuilding-ftr.jpg",
     "publishedAt": "2026-06-12T05:30:55.000Z",
     "ingestedAt": "2026-06-12T07:12:25.831Z"
-  },
-  {
-    "slug": "corover-ai-builds-ai-without-the-internet-and-heres-why-it-w-7cfea8",
-    "title": "CoRover AI builds AI without the internet, and here’s why it works better \r\n",
-    "summary": "At DevSparks 2026 in Bengaluru, CoRover AI's Ankush Sabharwal made the case that offline-first, edge-deployed conversational AI is not a constraint to work around, but a more deliberate and often more effective form of AI engineering.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/06/corover-ai-offline-edge-ai-deployment-ankush-sabharwal-devsparks-2026",
-    "publishedAt": "2026-06-12T05:30:00.000Z",
-    "ingestedAt": "2026-06-12T07:12:25.831Z"
-  },
-  {
-    "slug": "why-developers-need-to-stop-coding-in-silence-and-start-buil-c45904",
-    "title": "Why developers need to stop coding in silence and start building in public\r\n",
-    "summary": "At DevSparks Bengaluru 2026, AI and engineering creator Arsh Goyal argued that in an AI-first world, coding skills alone are no longer enough. Developers need visibility, communication, and a creator mindset to stand out.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/06/devsparks-bengaluru-2026-arsh-goyal-engineering-creator-advice-developers",
-    "publishedAt": "2026-06-12T04:30:00.000Z",
-    "ingestedAt": "2026-06-12T07:12:25.831Z"
-  },
-  {
-    "slug": "cricketer-rohit-sharma-joins-fittr-as-equity-partner-followi-17ba67",
-    "title": "Cricketer Rohit Sharma joins FITTR as equity partner following undisclosed investment",
-    "summary": "The Pune-headquartered firm said the partnership is based on a shared view that long-term health is influenced by sustainable habits, consistency, and lifestyle choices.",
-    "category": "funding",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/06/cricketer-rohit-sharma-fittr-equity-partner-undisclosed-investment",
-    "publishedAt": "2026-06-12T04:30:00.000Z",
-    "ingestedAt": "2026-06-12T07:12:25.831Z"
-  },
-  {
-    "slug": "stake-sale-at-lenskart-ethereal-bags-28-mn-more-a419f5",
-    "title": "Stake Sale At Lenskart, Ethereal Bags $28 Mn & More",
-    "summary": "ADIA Sheds Lenskart Stake Investors are booking profits after the expiration of the IPO lock-in period for Lenskart shares. Abu…",
-    "category": "funding",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/stake-sale-at-lenskart-ethereal-bags-28-mn-more/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/FTR-Daily-Brief-2026-06-11T235104.188.png",
-    "publishedAt": "2026-06-12T02:30:20.000Z",
-    "ingestedAt": "2026-06-12T07:12:25.831Z"
-  },
-  {
-    "slug": "zepto-wants-rs-8100-croreand-investors-to-trust-the-numbers-644108",
-    "title": "Zepto wants Rs 8,100 crore—and investors to trust the numbers it won’t disclose",
-    "summary": "The post Zepto wants Rs 8,100 crore—and investors to trust the numbers it won’t disclose appeared first on The Ken.",
-    "category": "funding",
-    "tags": [],
-    "source": "The Ken",
-    "sourceUrl": "https://the-ken.com/story/zepto-wants-rs-8100-crore-and-investors-to-trust-the-numbers-it-wont-disclose/",
-    "publishedAt": "2026-06-12T02:30:00.000Z",
-    "ingestedAt": "2026-06-12T02:32:16.287Z"
   }
 ]
