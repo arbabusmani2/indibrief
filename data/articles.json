@@ -1,5 +1,38 @@
 [
   {
+    "slug": "foreign-ownership-in-swiggy-goes-below-50-b0a8b6",
+    "title": "Foreign ownership in Swiggy goes below 50%\r\n",
+    "summary": "This change in ownership resulting as Indian owned and controlled company (IOCC) will enable Swiggy to own inventory directly for Instamart, its quick commerce business.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/07/foreign-ownership-in-swiggy-goes-below-50",
+    "publishedAt": "2026-07-07T13:41:13.000Z",
+    "ingestedAt": "2026-07-07T14:05:22.924Z"
+  },
+  {
+    "slug": "cci-clears-upgrads-acquisition-of-unacademy-70200a",
+    "title": "CCI clears upGrad’s acquisition of Unacademy",
+    "summary": "The competition watchdog has approved upGrad’s acquisition of Unacademy, clearing a key regulatory hurdle in a landmark edtech consolidation.",
+    "category": "funding",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/07/cci-clears-upgrad-acquisition-of-unacademy-edtech",
+    "publishedAt": "2026-07-07T13:21:41.000Z",
+    "ingestedAt": "2026-07-07T14:05:22.924Z"
+  },
+  {
+    "slug": "andhra-pradesh-to-become-indias-first-aipowered-tourism-stat-c5516d",
+    "title": "Andhra Pradesh to become 'India's first' AI-powered tourism state",
+    "summary": "Andhra Pradesh Tourism Minister Kandula Durgesh oversaw the signing of a three-year strategic Memorandum of Understanding (MoU) between the Andhra Pradesh Tourism Development Corporation (APTDC) and Xplore to implement the AI-powered tourism initiative across the state.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/07/andhra-pradesh-to-become-indias-first-ai-powered-tourism-state",
+    "publishedAt": "2026-07-07T13:16:16.000Z",
+    "ingestedAt": "2026-07-07T14:05:22.924Z"
+  },
+  {
     "slug": "pocket-fm-ropes-in-exbank-of-america-exec-abhilash-padival-a-5fffe9",
     "title": "Pocket FM Ropes In Ex-Bank Of America Exec Abhilash Padival As CFO",
     "summary": "Amid plans to bolster international presence, audio OTT soonicorn Pocket FM has onboarded ex-Bank of America director Abhilash Padival as…",
@@ -5744,39 +5777,5 @@
     "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/FTR-15.jpg",
     "publishedAt": "2026-06-14T19:30:43.000Z",
     "ingestedAt": "2026-06-14T20:59:00.806Z"
-  },
-  {
-    "slug": "how-zoho-labs-pivoted-to-inference-engineering-073e6d",
-    "title": "How Zoho Labs pivoted to inference engineering\r\n\r\n",
-    "summary": "At DevSparks 2026 in Bengaluru, Ramprakash Ramamoorthy, Director of AI Research at Zoho Corp, explained how open-weight models forced a rethink of what an in-house AI lab is actually for, and why inference engineering became Zoho Labs' answer.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/06/devsparks-2026-zoho-labs-inference-engineering-open-weight-models-ramprakash-ramamoorthy",
-    "publishedAt": "2026-06-14T07:00:00.000Z",
-    "ingestedAt": "2026-06-14T08:08:09.802Z"
-  },
-  {
-    "slug": "why-jayant-chaudhary-sees-ai-as-indias-open-door-not-its-thr-337663",
-    "title": "Why Jayant Chaudhary sees AI as India's open door, not its threat",
-    "summary": "When India recently hosted the world for a landmark AI summit, the headline was not profit or processing power. It was possibility.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/06/jayant-chaudhary-ai-india-skilling-opportunity-skill-india-assistant",
-    "publishedAt": "2026-06-14T06:13:13.000Z",
-    "ingestedAt": "2026-06-14T08:08:09.802Z"
-  },
-  {
-    "slug": "zeptos-battle-beyond-speed-6580a7",
-    "title": "Zepto’s Battle Beyond Speed",
-    "summary": "For Blinkit, Zepto and Swiggy Instamart, much of the post-pandemic era was spent persuading urban Indians to prioritise convenience over…",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/features/zeptos-battle-beyond-speed/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/Quick-commerce-Outline-ftr.jpg",
-    "publishedAt": "2026-06-14T05:30:44.000Z",
-    "ingestedAt": "2026-06-14T08:08:09.802Z"
   }
 ]
