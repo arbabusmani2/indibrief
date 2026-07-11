@@ -1,5 +1,52 @@
 [
   {
+    "slug": "swiggy-instamart-receives-9-fssai-notices-over-alleged-sale-3b54dd",
+    "title": "Swiggy Instamart Receives 9 FSSAI Notices Over Alleged Sale Of Expired Products",
+    "summary": "The Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following consumer complaints over…",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/swiggy-instamart-receives-9-fssai-notices-over-alleged-sale-of-expired-products/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/01/swiggy-Bolt-featured-1.jpg",
+    "publishedAt": "2026-07-11T10:14:26.000Z",
+    "ingestedAt": "2026-07-11T10:54:12.059Z"
+  },
+  {
+    "slug": "ideaforge-raises-500-cr-via-qip-allots-629-lakh-shares-456926",
+    "title": "ideaForge Raises ₹500 Cr Via QIP; Allots 62.9 Lakh Shares",
+    "summary": "Listed dronetech company ideaForge closed its qualified institutional placement (QIP) on Friday (July 10), raising ₹500 Cr from a clutch…",
+    "category": "funding",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/ideaforge-raises-%e2%82%b9500-cr-via-qip-allots-62-9-lakh-shares/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/ideaForge-feature.jpg",
+    "publishedAt": "2026-07-11T10:10:59.000Z",
+    "ingestedAt": "2026-07-11T10:54:12.059Z"
+  },
+  {
+    "slug": "zohobacked-genrobotics-posts-26-cr-profit-in-fy26-eyes-150-c-d4acbd",
+    "title": "Zoho-Backed Genrobotics Posts ₹2.6 Cr Profit In FY26, Eyes ₹150 Cr Series B Round",
+    "summary": "Robotics startup Genrobotics saw its operating revenue rise 35% to ₹43.7 Cr in FY26 from ₹32.5 Cr in the previous…",
+    "category": "funding",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/zoho-backed-genrobotics-posts-%e2%82%b92-6-cr-profit-in-fy26-eyes-%e2%82%b9150-cr-series-b-round/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/Artboard-1-1.jpg",
+    "publishedAt": "2026-07-11T09:39:24.000Z",
+    "ingestedAt": "2026-07-11T10:54:12.059Z"
+  },
+  {
+    "slug": "nostalgia-is-identity-how-avinash-mudaliar-built-carvaan-and-af8058",
+    "title": "Nostalgia is identity: how Avinash Mudaliar built Carvaan, and why AI needs its own Carvaan moment",
+    "summary": "In 2017, when much of India's music industry was chasing the young, app-native streaming user, one product went firmly the other way.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/07/saregama-carvaan-avinash-mudaliar-nostalgia-ai-carvaans",
+    "publishedAt": "2026-07-11T09:23:16.000Z",
+    "ingestedAt": "2026-07-11T10:54:12.059Z"
+  },
+  {
     "slug": "from-elevate-education-to-aukera-indian-startups-raised-72-m-f96f8f",
     "title": "From Elevate Education To Aukera — Indian Startups Raised $72 Mn This Week",
     "summary": "Indian startup funding  remained largely flat in the second week of July. Between July 4 and July 10, Indian startups…",
@@ -5719,50 +5766,5 @@
     "sourceUrl": "https://the-ken.com/story/ai-cites-a-hospital-for-health-advice-but-the-hospital-uses-ai-to-write-the-advice-and-both-are-wrong/",
     "publishedAt": "2026-06-19T02:30:27.000Z",
     "ingestedAt": "2026-06-19T06:08:02.058Z"
-  },
-  {
-    "slug": "transforming-home-diagnostics-in-india-women-report-salary-i-255591",
-    "title": "Transforming home diagnostics in India; Women report salary increase in AI-driven jobs",
-    "summary": "Bengaluru-based Orange Health Labs wants to make getting a blood test as easy as ordering food–without queues, delays, or friction.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/06/transforming-home-diagnostics-women-report-salary-increase-ai-jobs",
-    "publishedAt": "2026-06-19T02:00:00.000Z",
-    "ingestedAt": "2026-06-19T06:08:02.058Z"
-  },
-  {
-    "slug": "bengaluru-startup-phygital-studio-is-rebuilding-how-brands-s-9b20b0",
-    "title": "Bengaluru startup Phygital Studio is rebuilding how brands sell physical spaces",
-    "summary": "Phygital Studio unites design, hardware, software, and storytelling on its platform, called Beto, helping brands like Adani and Deloitte build immersive spaces to actively drive sales.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/06/phygital-studio-beto-immersive-brand-experiences",
-    "publishedAt": "2026-06-19T01:20:00.000Z",
-    "ingestedAt": "2026-06-19T06:08:02.058Z"
-  },
-  {
-    "slug": "ifc-commits-371-mn-in-sify-arm-to-build-two-data-centres-6bf364",
-    "title": "IFC Commits $371 Mn In Sify Arm To Build Two Data Centres",
-    "summary": "World Bank’s private lending arm International Finance Corporation (IFC) has announced a commitment of $371 Mn (₹3,500 Cr) in Sify…",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/ifc-commits-371-mn-in-sify-arm-to-build-two-data-centres/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/Pranav-Pai-guest-author-ftr-1.jpg",
-    "publishedAt": "2026-06-18T18:58:59.000Z",
-    "ingestedAt": "2026-06-18T23:55:27.629Z"
-  },
-  {
-    "slug": "iit-madras-builds-worlds-most-detailed-3d-human-brainstem-at-36adf2",
-    "title": "IIT Madras Builds World's Most Detailed 3D Human Brainstem Atlas ",
-    "summary": "Indian scientists map over 200 brainstem nuclei at cell-level resolution, and they've made the entire dataset free for the world to use.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/06/iit-madras-anchor-3d-human-brainstem-atlas",
-    "publishedAt": "2026-06-18T17:57:44.000Z",
-    "ingestedAt": "2026-06-18T23:55:27.629Z"
   }
 ]
