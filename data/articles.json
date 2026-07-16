@@ -1,5 +1,40 @@
 [
   {
+    "slug": "startup-news-and-updates-daily-roundup-july-16-2026-95e4ee",
+    "title": "Startup news and updates: Daily roundup (July 16, 2026)",
+    "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, July 16, 2026.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/07/startup-news-and-updates-daily-roundup-july-16-2026",
+    "publishedAt": "2026-07-16T11:07:58.000Z",
+    "ingestedAt": "2026-07-16T11:27:19.294Z"
+  },
+  {
+    "slug": "aurum-proptech-to-acquire-housingcom-for-458-cr-958a4b",
+    "title": "Aurum PropTech To Acquire Housing.com For ₹458 Cr",
+    "summary": "Listed real estate tech company Aurum PropTech’s board has approved the acquisition of 100% of Locon Solutions, the company that…",
+    "category": "funding",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/aurum-proptech-to-acquire-housing-com-for-%e2%82%b9458-cr/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/Aurum-Housing-ftr.jpg",
+    "publishedAt": "2026-07-16T09:54:47.000Z",
+    "ingestedAt": "2026-07-16T11:27:19.294Z"
+  },
+  {
+    "slug": "former-rippling-cofounder-prasanna-sankar-raises-15-mn-for-v-f36901",
+    "title": "Former Rippling Cofounder Prasanna Sankar Raises $15 Mn For Vorflux After 0xPPL Shutdown",
+    "summary": "Former Rippling cofounder Prasanna Sankar has launched enterprise AI software engineering startup Vorflux, raising $15 Mn (about ₹144 Cr) in…",
+    "category": "funding",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/former-rippling-cofounder-prasanna-sankar-raises-15-mn-for-vorflux-after-0xppl-shutdown/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/ftr_-1.jpg",
+    "publishedAt": "2026-07-16T09:38:38.000Z",
+    "ingestedAt": "2026-07-16T11:27:19.294Z"
+  },
+  {
     "slug": "former-rippling-cofounder-prasanna-sankar-raises-15-mn-for-v-ca0a0c",
     "title": "Former Rippling Cofounder Prasanna Sankar Raises $15 Mn For Vorflux After 0xPPL Shutdown",
     "summary": "Former Rippling cofounder Prasanna Sankar has launched enterprise AI software engineering startup Vorflux, raising $15 Mn (about ₹144 Cr) in…",
@@ -5703,41 +5738,6 @@
     "sourceUrl": "https://inc42.com/buzz/sofina-ventures-offloads-honasa-consumers-shares-via-%e2%82%b9177-cr-bulk-deal/",
     "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/01/honasa-ftr.png",
     "publishedAt": "2026-06-25T15:27:31.000Z",
-    "ingestedAt": "2026-06-25T16:14:52.770Z"
-  },
-  {
-    "slug": "irdais-reform-push-that-can-upend-insurance-startups-71849e",
-    "title": "IRDAI’s Reform Push That Can Upend Insurance Startups",
-    "summary": "When someone buys car insurance in India, it’s generally assumed that most of the premium goes towards insurance coverage. However,…",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/features/irdais-reform-push-that-can-upend-insurance-startups/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/Insurance-ftr.jpg",
-    "publishedAt": "2026-06-25T14:13:28.000Z",
-    "ingestedAt": "2026-06-25T16:14:52.770Z"
-  },
-  {
-    "slug": "smartworks-strengthens-singapore-presence-with-new-acquisiti-979590",
-    "title": "Smartworks Strengthens Singapore Presence With New Acquisition",
-    "summary": "Adding to its bid to double down on the Singapore market, listed coworking major Smartworks’ board has now approved a…",
-    "category": "funding",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/smartworks-strengthens-singapore-presence-with-new-acquisition/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/smartworks-IPO-featured.png",
-    "publishedAt": "2026-06-25T14:10:41.000Z",
-    "ingestedAt": "2026-06-25T16:14:52.770Z"
-  },
-  {
-    "slug": "one-accident-lakhs-in-costs-why-the-right-car-insurance-matt-79f05e",
-    "title": "One accident, lakhs in costs: Why the right car insurance matters",
-    "summary": "From repair bills and medical expenses to third-party liabilities, a single accident can derail your finances. Here's how the right insurance cover can help absorb the shock.\n\nA smooth drive can turn into a stressful situation in seconds. One unexpected turn, a sudden brake, or another driver’s mi",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/06/one-accident-lakhs-in-costs-why-the-right-car-insurance-matters",
-    "publishedAt": "2026-06-25T13:53:56.000Z",
     "ingestedAt": "2026-06-25T16:14:52.770Z"
   }
 ]
