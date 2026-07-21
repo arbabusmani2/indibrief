@@ -1,5 +1,50 @@
 [
   {
+    "slug": "5-books-that-change-how-you-think-about-personal-freedom-6e4afd",
+    "title": "5 Books that change how you think about personal freedom",
+    "summary": "Discover five powerful books that explore personal freedom, independence, authenticity, and what it truly means to live on your own terms.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/07/books-change-think-personal-freedom",
+    "publishedAt": "2026-07-21T04:45:00.000Z",
+    "ingestedAt": "2026-07-21T04:58:17.005Z"
+  },
+  {
+    "slug": "paytms-q1-show-nvidias-new-gpu-game-plan-more-4b36f8",
+    "title": "Paytm’s Q1 Show, NVIDIA’s New GPU Game Plan & More",
+    "summary": "Paytm Posts A Stellar Q1  Buoyed by strong revenue growth, healthy margins, operating leverage and resurgent payments and financial services…",
+    "category": "growth",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/paytms-q1-show-nvidias-new-gpu-game-plan-more/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/FTR-Daily-Brief-2026-07-21T004925.013.png",
+    "publishedAt": "2026-07-21T02:30:52.000Z",
+    "ingestedAt": "2026-07-21T04:58:17.005Z"
+  },
+  {
+    "slug": "sbi-funds-dream-ipo-run-is-headed-for-a-halt-806106",
+    "title": "SBI Funds’ dream IPO run is headed for a halt",
+    "summary": "The post SBI Funds’ dream IPO run is headed for a halt appeared first on The Ken.",
+    "category": "funding",
+    "tags": [],
+    "source": "The Ken",
+    "sourceUrl": "https://the-ken.com/story/sbi-funds-dream-ipo-run-is-headed-for-a-halt/",
+    "publishedAt": "2026-07-21T02:30:22.000Z",
+    "ingestedAt": "2026-07-21T04:58:17.005Z"
+  },
+  {
+    "slug": "turning-battery-waste-into-industrial-metals-openai-elevates-45037e",
+    "title": "Turning battery waste into industrial metals; OpenAI elevates Uday Ruddarraju to CTO of Compute",
+    "summary": "Metastable Materials believes India’s growing battery waste isn’t really waste. The Bengaluru startup extracts lithium, cobalt, nickel, copper and aluminium from spent batteries and sells them as refined commodity metals.",
+    "category": "growth",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/07/battery-waste-industrial-metals-openai-uday-ruddarraju-cto-compute",
+    "publishedAt": "2026-07-21T02:00:00.000Z",
+    "ingestedAt": "2026-07-21T04:58:17.005Z"
+  },
+  {
     "slug": "transition-vc-launches-1500-cr-fund-to-back-deeptech-startup-1869d2",
     "title": "Transition VC Launches ₹1,500 Cr Fund To Back Deeptech Startups",
     "summary": "Energy transition-focused venture capital firm Transition VC has launched its second fund with a target corpus of ₹1,500 Cr (over…",
@@ -5688,50 +5733,6 @@
     "source": "YourStory",
     "sourceUrl": "https://yourstory.com/2026/06/fibe-parent-files-draft-papers-with-sebi-for-ipo",
     "publishedAt": "2026-06-30T12:40:10.000Z",
-    "ingestedAt": "2026-06-30T16:24:31.280Z"
-  },
-  {
-    "slug": "nearly-45-homes-in-india-need-electrical-upgrades-for-safe-e-f61dc6",
-    "title": "Nearly 45% homes in India need electrical upgrades for safe EV charging: Report",
-    "summary": "India's electric mobility transition has gained significant momentum over the past decade, yet access to residential charging remains deeply uneven, as per the report.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/06/nearly-45-percent-homes-electrical-upgrades-ev-charging-report",
-    "publishedAt": "2026-06-30T12:20:09.000Z",
-    "ingestedAt": "2026-06-30T16:24:31.280Z"
-  },
-  {
-    "slug": "meet-giedrius-zakaitis-support-specialist-turned-hostinger-c-97a10c",
-    "title": "Meet Giedrius Zakaitis: support specialist turned Hostinger CEO",
-    "summary": "Fourteen years after opening his first support ticket, Giedrius Zakaitis is now Hostinger's CEO. He takes over from Daugirdas Jankus to lead the company's pivot from web hosting to a fully AI-first platform",
-    "category": "growth",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/06/hostinger-new-ceo-giedrius-zakaitis",
-    "publishedAt": "2026-06-30T12:18:40.000Z",
-    "ingestedAt": "2026-06-30T16:24:31.280Z"
-  },
-  {
-    "slug": "finance-ministry-panel-clears-rs-125-lakh-crore-outlay-for-i-545c5a",
-    "title": "Finance Ministry panel clears Rs 1.25 lakh crore outlay for India Semiconductor Mission 2.0",
-    "summary": "The government has maintained that India Semiconductor Mission 2.0 signals India's deep commitment to chip manufacturing, with a focus on semiconductor equipment, materials, indigenous intellectual property and resilient supply chains.",
-    "category": "policy",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/06/finance-ministry-panel-1-25-lakh-crore-india-semiconductor-mission",
-    "publishedAt": "2026-06-30T12:18:20.000Z",
-    "ingestedAt": "2026-06-30T16:24:31.280Z"
-  },
-  {
-    "slug": "quench-chargers-is-engineering-indias-ev-backbone-baa7b1",
-    "title": "Quench Chargers is engineering India’s EV Backbone ",
-    "summary": "From indigenized power modules to megawatt‑scale charging, Pune startup Quench Chargers is building future‑ready infrastructure for India’s clean mobility push.\n\nPune-based Quench Chargers, which began as a small internal project within the Ador Group in 2021, has evolved into a fast-scaling EV ch",
-    "category": "growth",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/06/quench-chargers-engineering-indias-ev-backbone-",
-    "publishedAt": "2026-06-30T12:07:08.000Z",
     "ingestedAt": "2026-06-30T16:24:31.280Z"
   }
 ]
