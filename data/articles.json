@@ -1,5 +1,85 @@
 [
   {
+    "slug": "flo-mobility-builds-robots-that-haul-construction-materials-57dfe4",
+    "title": "Flo Mobility builds robots that haul construction materials. L&T and Godrej use them",
+    "summary": "The Bengaluru-based startup's autonomous robot carries up to 1.5 tonnes across building sites. It raised $2.5 million in a pre-Series A round.",
+    "category": "funding",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/07/flo-mobility-construction-robots",
+    "publishedAt": "2026-07-23T12:20:58.000Z",
+    "ingestedAt": "2026-07-23T12:23:38.409Z"
+  },
+  {
+    "slug": "easemyai-uses-cameras-and-ai-to-monitor-factory-floors-ports-6b43b4",
+    "title": "EaseMyAI uses cameras and AI to monitor factory floors, ports and warehouses",
+    "summary": "The Mumbai startup builds robotic process automation using computer vision, and counts Hitachi, Ericsson and two large banks among its clients.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/07/easemyai-ai-industrial-monitoring",
+    "publishedAt": "2026-07-23T12:20:34.000Z",
+    "ingestedAt": "2026-07-23T12:23:38.409Z"
+  },
+  {
+    "slug": "indian-drone-makers-import-their-batteries-dreamfly-innovati-663ad2",
+    "title": "Indian drone makers import their batteries. Dreamfly Innovations wants to change that",
+    "summary": "The Bengaluru startup makes fire-resistant, high-density batteries for drones and aerospace. It raised Rs 12 crore in a seed round led by Avaana Capital.",
+    "category": "funding",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/07/dreamfly-innovations-drone-batteries-india",
+    "publishedAt": "2026-07-23T12:20:06.000Z",
+    "ingestedAt": "2026-07-23T12:23:38.409Z"
+  },
+  {
+    "slug": "meesho-trims-q1-loss-54-yoy-to-133-cr-revenue-up-48-dac626",
+    "title": "Meesho Trims Q1 Loss 54% YoY To ₹133 Cr, Revenue Up 48%",
+    "summary": "Ecommerce company Meesho managed to trim its net loss for the June quarter (Q1 FY27) by 54% to ₹132.8 Cr…",
+    "category": "growth",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/meesho-trims-q1-loss-54-yoy-to-%e2%82%b9133-cr-revenue-up-48/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/feature-meesho.png",
+    "publishedAt": "2026-07-23T11:37:59.000Z",
+    "ingestedAt": "2026-07-23T12:23:38.409Z"
+  },
+  {
+    "slug": "pharmeasyowned-thyrocares-q1-profit-soars-34-to-51-cr-a4560e",
+    "title": "PharmEasy-Owned Thyrocare’s Q1 Profit Soars 34% To ₹51 Cr",
+    "summary": "PharmEasy-owned Thyrocare’s consolidated net profit for the quarter ended June 30, 2026 (Q1 FY27) zoomed 34% to ₹51.3 Cr from…",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/pharmeasy-owned-thyrocares-q1-profit-soars-34-to-%e2%82%b951-cr/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/thyrocare-pharmeasy-cci-featured.jpg",
+    "publishedAt": "2026-07-23T11:13:11.000Z",
+    "ingestedAt": "2026-07-23T12:23:38.409Z"
+  },
+  {
+    "slug": "tech30-startup-carplai-raises-10m-in-series-a-led-by-ifc-6c5260",
+    "title": "Tech30 startup CARPL.ai raises $10M in Series A led by IFC\r\n\r\n",
+    "summary": "Radiology AI marketplace CARPL.ai will use this funding round towards product development, market expansion and expanding partner ecosystem.",
+    "category": "funding",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/07/tech30-startup-carplai-raises-10-million-in-series-a-led-by-ifc",
+    "publishedAt": "2026-07-23T11:04:49.000Z",
+    "ingestedAt": "2026-07-23T12:23:38.409Z"
+  },
+  {
+    "slug": "edtech-startup-klassrooms-ipo-to-open-on-july-31-price-band-e4dc45",
+    "title": "Edtech Startup Klassroom’s IPO To Open On July 31, Price Band Set At ₹151-159",
+    "summary": "Edtech startup Klassroom’s SME IPO will open on July 31 (Friday). The public issue comprises a fresh issue of up…",
+    "category": "funding",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/edtech-startup-klassrooms-ipo-to-open-on-july-31-price-band-set-at-%e2%82%b9151-159/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2023/06/Klassroom-Edutech-feature.png",
+    "publishedAt": "2026-07-23T10:59:31.000Z",
+    "ingestedAt": "2026-07-23T12:23:38.409Z"
+  },
+  {
     "slug": "carplai-bags-10-mn-to-scale-its-ai-medical-imaging-marketpla-90dfc9",
     "title": "CARPL.ai Bags $10 Mn To Scale Its AI Medical Imaging Marketplace",
     "summary": "AI-powered healthtech startup CARPL.ai has raised $10 Mn (about ₹96 Cr) in its Series A funding round led by the…",
@@ -5649,87 +5729,5 @@
     "sourceUrl": "https://yourstory.com/2026/07/borrow-the-speed-keep-the-discipline-zoho-startup-playbook-msmes",
     "publishedAt": "2026-07-03T11:30:00.000Z",
     "ingestedAt": "2026-07-03T17:25:18.400Z"
-  },
-  {
-    "slug": "startup-news-and-updates-daily-roundup-july-3-2026-b759cc",
-    "title": "Startup news and updates: daily roundup (July 3, 2026)",
-    "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Friday, July 3, 2026.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/07/startup-news-and-updates-daily-roundup-july-3-2026",
-    "publishedAt": "2026-07-03T11:20:25.000Z",
-    "ingestedAt": "2026-07-03T17:25:18.400Z"
-  },
-  {
-    "slug": "fintech-unicorn-moneyview-gets-sebi-approval-for-1500-cr-ipo-025071",
-    "title": "Fintech Unicorn Moneyview Gets SEBI Approval For ₹1,500 Cr+ IPO",
-    "summary": "Fintech unicorn Moneyview has received SEBI’s approval to proceed with its proposed IPO. The regulator issued a final observation letter…",
-    "category": "funding",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/fintech-unicorn-moneyview-gets-sebi-approval-for-%e2%82%b91500-cr-ipo/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/11/Moneyview-ftr-1.jpg",
-    "publishedAt": "2026-07-03T09:50:25.000Z",
-    "ingestedAt": "2026-07-03T17:25:18.400Z"
-  },
-  {
-    "slug": "garuda-aerospace-micron-instruments-join-forces-to-expand-in-7461ac",
-    "title": "Garuda Aerospace, Micron Instruments join forces to expand indigenous defence drone capabilities",
-    "summary": "Under the agreement, the two companies will collaborate on product distribution, joint technology development and defence-focused projects. Their combined expertise is expected to support the development of loitering munitions, and payload-enabled unmanned aerial vehicles.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/07/garuda-aerospace-micron-instruments-indigenous-defence-drone-capabilities",
-    "publishedAt": "2026-07-03T08:06:48.000Z",
-    "ingestedAt": "2026-07-03T08:47:40.798Z"
-  },
-  {
-    "slug": "paytm-subsidiary-receives-payments-licence-from-luxembourg-a-99c6d1",
-    "title": "Paytm Subsidiary Receives Payments Licence From Luxembourg Authorities",
-    "summary": "Paytm has secured a payment institution licence for its step-down Luxembourg-based subsidiary, Paytm Europe Payments S.A. (Paytm Europe), from the…",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/paytm-subsidiary-receives-payments-licence-from-luxembourg-authorities/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/paytm-PA-featured-2.png",
-    "publishedAt": "2026-07-03T07:42:44.000Z",
-    "ingestedAt": "2026-07-03T08:47:40.798Z"
-  },
-  {
-    "slug": "rbi-calls-cryptocurrency-a-threat-to-economy-opposes-its-leg-4e7100",
-    "title": "RBI Calls Cryptocurrency A Threat To Economy, Opposes Its Legalisation",
-    "summary": "Reiterating its long-standing opposition to virtual digital assets (VDAs), the RBI told a parliamentary panel that cryptocurrencies pose a threat…",
-    "category": "policy",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/rbi-calls-cryptocurrency-a-threat-to-economy-opposes-its-legalisation/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/08/crypto-evasion-featured.png",
-    "publishedAt": "2026-07-03T07:01:24.000Z",
-    "ingestedAt": "2026-07-03T08:47:40.798Z"
-  },
-  {
-    "slug": "how-nudge-is-reinventing-ecommerce-for-the-agentic-ai-era-cc76c5",
-    "title": "How Nudge Is Reinventing Ecommerce For The Agentic AI Era",
-    "summary": "The way people discover products online is changing fast, and ecommerce brands are struggling to keep up. Instead of scrolling…",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/startups/how-nudge-is-reinventing-ecommerce-for-the-agentic-ai-era/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/ftr-2.jpg",
-    "publishedAt": "2026-07-03T05:58:53.000Z",
-    "ingestedAt": "2026-07-03T08:47:40.798Z"
-  },
-  {
-    "slug": "pb-fintech-slumps-over-8-after-1741-cr-block-deal-9385f7",
-    "title": "PB Fintech Slumps Over 8% After ₹1,741 Cr Block Deal",
-    "summary": "Shares of PB Fintech, the parent company of Policybazaar, plunged over 8% in early trade after a block deal worth…",
-    "category": "policy",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/pb-fintech-slumps-over-8-after-%e2%82%b91741-cr-block-deal/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/PB-fintech-Q3-results-ftr-1.png",
-    "publishedAt": "2026-07-03T05:35:50.000Z",
-    "ingestedAt": "2026-07-03T05:43:15.667Z"
   }
 ]
