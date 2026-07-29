@@ -12,13 +12,21 @@ const RULES: { category: Category; keywords: string[] }[] = [
     category: 'policy',
     keywords: ['sebi', 'rbi', 'government', 'regulation', 'policy', 'rules', 'ministry',
       'compliance', 'tax', 'court', 'legal', 'law', 'act ', 'bill ', 'parliament',
-      'niti aayog', 'dpiit', 'fdi', 'gst'],
+      'niti aayog', 'dpiit', 'fdi', 'gst',
+      // marketing / adtech regulation
+      'privacy', 'gdpr', 'ccpa', 'antitrust', 'cookie', 'consent', 'data protection',
+      'ftc', 'lawsuit'],
   },
   {
     category: 'growth',
     keywords: ['revenue', 'users', 'growth', 'gmv', 'arr', 'mrr', 'profitable',
       'profitability', 'scale', 'traction', 'metric', 'milestone', 'crore mark',
-      'monthly active', 'dau', 'mau', 'retention', 'churn'],
+      'monthly active', 'dau', 'mau', 'retention', 'churn',
+      // marketing performance topics
+      'seo', 'search ranking', 'conversion', 'ctr', 'roi', 'roas', 'engagement',
+      'campaign', 'ad spend', 'attribution', 'analytics', 'audience', 'targeting',
+      'content marketing', 'email marketing', 'social media', 'influencer',
+      'martech', 'adtech', 'programmatic'],
   },
 ];
 

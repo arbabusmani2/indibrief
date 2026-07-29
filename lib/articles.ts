@@ -12,10 +12,24 @@ export function getAllArticles(): Article[] {
   return load();
 }
 
-/** Articles ingested within the last 24 hours — shown on the homepage */
+/** Articles ingested within the last 24 hours */
 export function getTodayArticles(): Article[] {
   const cutoff = Date.now() - DAY_MS;
   return load().filter(a => new Date(a.ingestedAt).getTime() >= cutoff);
+}
+
+/**
+ * Homepage feed: last 24 hours of stories, topped up with the most recent
+ * older stories so the page always shows at least `min` articles.
+ */
+export function getHomepageArticles(min = 200): Article[] {
+  const all = load();
+  const cutoff = Date.now() - DAY_MS;
+  const today = all.filter(a => new Date(a.ingestedAt).getTime() >= cutoff);
+  if (today.length >= min) return today;
+
+  const older = all.filter(a => new Date(a.ingestedAt).getTime() < cutoff);
+  return [...today, ...older.slice(0, min - today.length)];
 }
 
 /** Articles ingested more than 24 hours ago — shown on the archive page */

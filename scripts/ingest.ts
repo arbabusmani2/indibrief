@@ -10,8 +10,8 @@ const ROOT = path.join(__dirname, '..');
 const ARTICLES_PATH = path.join(ROOT, 'data/articles.json');
 const SEEN_PATH = path.join(ROOT, 'data/seen.json');
 const SOURCES_PATH = path.join(ROOT, 'config/sources.json');
-const BATCH_CAP = 50;
-const STORE_CAP = 500;
+const BATCH_CAP = 400;
+const STORE_CAP = 1000;
 
 async function main() {
   const sources: Source[] = JSON.parse(readFileSync(SOURCES_PATH, 'utf-8'));
