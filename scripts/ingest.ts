@@ -33,7 +33,7 @@ async function main() {
     slug: generateSlug(item.title, item.url),
     title: item.title,
     summary: item.description,
-    category: categorize(item.title, item.description),
+    category: categorize(item.title, item.description, item.source),
     tags: [],
     source: item.source,
     sourceUrl: item.url,

@@ -1,5 +1,5 @@
 // lib/types.ts
-export type Category = 'ecosystem' | 'funding' | 'growth' | 'policy';
+export type Category = 'ecosystem' | 'funding' | 'growth' | 'policy' | 'marketing';
 
 export interface Article {
   slug: string;

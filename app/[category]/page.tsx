@@ -4,7 +4,7 @@ import { Header } from '@/components/Header';
 import { ArticleList } from '@/components/ArticleList';
 import type { Category } from '@/lib/types';
 
-const VALID: Category[] = ['ecosystem', 'funding', 'growth', 'policy'];
+const VALID: Category[] = ['ecosystem', 'funding', 'growth', 'policy', 'marketing'];
 
 export function generateStaticParams() {
   return VALID.map(category => ({ category }));

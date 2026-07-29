@@ -10,6 +10,7 @@ const CATEGORY_STYLES: Record<string, { badge: string; gradient: string }> = {
   funding:   { badge: 'bg-yellow-400 text-black',  gradient: 'from-yellow-900/80 to-yellow-950' },
   growth:    { badge: 'bg-emerald-500 text-white',  gradient: 'from-emerald-900/80 to-emerald-950' },
   policy:    { badge: 'bg-pink-500 text-white',     gradient: 'from-pink-900/80 to-pink-950' },
+  marketing: { badge: 'bg-sky-500 text-white',      gradient: 'from-sky-900/80 to-sky-950' },
 };
 
 function Thumbnail({ url, title, failed, setFailed }: {
