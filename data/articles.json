@@ -1,5 +1,77 @@
 [
   {
+    "slug": "inside-nykaas-inventory-model-where-the-margin-comes-from-6c31ea",
+    "title": "Inside Nykaa’s Inventory Model: Where The Margin Comes From",
+    "summary": "Nykaa was once called the “Amazon of beauty”. And it wasn’t an unfair comparison to some degree.  Like Amazon, Nykaa…",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/features/inside-nykaa-inventory-model-where-the-margin-comes-from/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/ftr-27.jpg",
+    "publishedAt": "2026-08-07T17:14:49.000Z",
+    "ingestedAt": "2026-08-07T17:39:30.989Z"
+  },
+  {
+    "slug": "apple-just-released-mac-security-updates-to-fix-1-flaw-updat-0fde31",
+    "title": "Apple Just Released Mac Security Updates to Fix 1 Flaw. Update Your Software Today",
+    "summary": "‘The timing suggests some urgency,’ says one cybersecurity expert. Running updated software is the best way to keep your machine secure.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc.com",
+    "sourceUrl": "https://www.inc.com/georgia-fearn/apple-just-released-mac-security-updates-to-fix-1-flaw-update-your-software-today/91386545",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/apple-macbook-update-inc.jpg",
+    "publishedAt": "2026-08-07T17:09:31.000Z",
+    "ingestedAt": "2026-08-07T17:39:30.989Z"
+  },
+  {
+    "slug": "ai-layoffs-at-oracle-amazon-and-cloudflare-all-have-one-thin-410eed",
+    "title": "AI Layoffs at Oracle, Amazon, and Cloudflare All Have One Thing in Common Besides Headcount Reduction",
+    "summary": "Companies are using AI for different purposes, but each is reconsidering how work should be organized, coordinated, and led.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc.com",
+    "sourceUrl": "https://www.inc.com/scott-hutcheson/ai-layoffs-amazon-cloudflare/91386604",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/ai-layoffs-inc-93053552.jpg",
+    "publishedAt": "2026-08-07T17:00:00.000Z",
+    "ingestedAt": "2026-08-07T17:39:30.989Z"
+  },
+  {
+    "slug": "pepsis-next-grocery-bet-isnt-on-chips-or-soda-its-on-cold-so-beb292",
+    "title": "Pepsi’s Next Grocery Bet Isn’t on Chips or Soda. It’s on Cold Soup at Whole Foods",
+    "summary": "Chilled tomato soup is launching at select Whole Foods stores as the food giant expands into fresh, meal-adjacent products.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc.com",
+    "sourceUrl": "https://www.inc.com/amaya-nichole/pepsi-next-grocery-bet-is-not-on-chips-or-soda-on-cold-soup-whole-foods/91385959",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/alvalle-pepsi-gazpacho-inc.jpg",
+    "publishedAt": "2026-08-07T16:55:16.000Z",
+    "ingestedAt": "2026-08-07T17:39:30.989Z"
+  },
+  {
+    "slug": "titan-sees-jewellery-demand-rebound-despite-high-gold-prices-f4150d",
+    "title": "Titan sees jewellery demand rebound despite high gold prices",
+    "summary": "Titan's managing director Ajoy Chawla said the company has significant room to expand as India’s jewellery market becomes more organised, consumer spending rises and customers move towards premium products.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Mint Companies",
+    "sourceUrl": "https://www.livemint.com/companies/titan-sees-jewellery-demand-rebound-despite-high-gold-prices-11786111499743.html",
+    "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/Ajoy_Chawla_Titan_1779706399586_1779706399853_1f90a06c-4ed2-425f-babd-5c034f44d613_1786121004045_9582af07-8b68-4b77-8621-0e6b90e7d23a.jpeg",
+    "publishedAt": "2026-08-07T16:47:55.000Z",
+    "ingestedAt": "2026-08-07T17:39:30.989Z"
+  },
+  {
+    "slug": "a-crypto-founder-admitted-his-bots-faked-millions-in-daily-t-9b8e64",
+    "title": "A Crypto Founder Admitted His Bots Faked Millions in Daily Trades. He Paid $10,000—and Still Runs the Company",
+    "summary": "Liu Zhou turned wash trading into an automated service for crypto projects. He still runs MyTrade after an FBI sting caught the company manipulating a token created by law enforcement.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc.com",
+    "sourceUrl": "https://www.inc.com/georgia-fearn/crypto-founder-admitted-bots-fakes-millions-in-daily-trades-paid-10000-still-runs-company/91386535",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/mytrade-court-ruling-inc.jpg",
+    "publishedAt": "2026-08-07T16:35:47.000Z",
+    "ingestedAt": "2026-08-07T17:39:30.989Z"
+  },
+  {
     "slug": "if-your-business-doesnt-offer-workers-a-401k-plan-maybe-now-2693c6",
     "title": "If Your Business Doesn’t Offer Workers a 401(k) Plan, Maybe Now Is the Time",
     "summary": "Human Interest CEO Jeff Schneble talks about the future of retirement savings, and why he left venture capital to run this fast-growing digital 401(k) provider.",
@@ -11774,77 +11846,6 @@
     "source": "YourStory",
     "sourceUrl": "https://yourstory.com/2026/08/ather-energy-reports-income-q1-net-loss-narrows-electric-vehicle",
     "publishedAt": "2026-08-03T12:06:48.000Z",
-    "ingestedAt": "2026-08-03T12:48:25.332Z"
-  },
-  {
-    "slug": "walgreens-is-closing-stores-updated-list-of-shuttered-locati-e89695",
-    "title": "Walgreens Is Closing Stores: Updated List of Shuttered Locations for 2026",
-    "summary": "The cuts are part of a multiyear downsizing effort that has already reshaped the pharmacy chain’s footprint nationwide.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Inc.com",
-    "sourceUrl": "https://www.inc.com/amaya-nichole/walgreens-closing-stores-list-of-shuttered-locations-2026/91383263",
-    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/07/walgreens-closed-inc-GettyImages-2233524507.jpg",
-    "publishedAt": "2026-08-03T12:00:00.000Z",
-    "ingestedAt": "2026-08-03T12:48:25.332Z"
-  },
-  {
-    "slug": "beauty-doesnt-need-more-brands-it-needs-better-brand-builder-32867f",
-    "title": "Beauty Doesn’t Need More Brands. It Needs Better Brand Builders",
-    "summary": "A product gets attention. A brand earns loyalty.",
-    "category": "marketing",
-    "tags": [],
-    "source": "Inc.com",
-    "sourceUrl": "https://www.inc.com/sophie-meharenna/beauty-doesnt-need-more-brands-it-needs-better-brand-builders/91382235",
-    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/better-beauty-brands-not-more-inc.jpg",
-    "publishedAt": "2026-08-03T12:00:00.000Z",
-    "ingestedAt": "2026-08-03T12:48:25.332Z"
-  },
-  {
-    "slug": "18-ways-to-give-feedback-that-actually-lands-d2e40c",
-    "title": "18 Ways to Give Feedback That Actually Lands",
-    "summary": "How to make feedback clear, useful, and trusted.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Inc.com",
-    "sourceUrl": "https://www.inc.com/inc-leadership-forum/18-ways-to-give-feedback-that-actually-lands/91381236",
-    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/07/ILF-Expert-Insights-templates-2.png",
-    "publishedAt": "2026-08-03T12:00:00.000Z",
-    "ingestedAt": "2026-08-03T12:48:25.332Z"
-  },
-  {
-    "slug": "michael-jacksons-current-no-1-has-outlasted-his-other-leader-ffa14e",
-    "title": "Michael Jackson’s Current No. 1 Has Outlasted His Other Leaders — Combined",
-    "summary": "\"Billie Jean\" has now spent 12 weeks atop Billboard's R&B Streaming Songs chart — that's as long as Michael Jackson's two other leaders combined.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Forbes Business",
-    "sourceUrl": "https://www.forbes.com/sites/hughmcintyre/2026/08/03/michael-jacksons-current-no-1-has-outlasted-his-other-leaders---combined/",
-    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a6e3d83b9adc47ba2627556/0x0.jpg?width=960&precrop=2644%2C1488%2Cx137%2Cy300",
-    "publishedAt": "2026-08-03T12:00:00.000Z",
-    "ingestedAt": "2026-08-03T12:48:25.332Z"
-  },
-  {
-    "slug": "from-medical-assistants-to-lpns-doctor-office-staff-pay-on-t-5222b3",
-    "title": "From Medical Assistants To LPNs, Doctor Office Staff Pay On The Rise",
-    "summary": "From receptionists to LPNs and medical assistants, jobs in doctor practices see pay increases of 15% to 30% over five years, Medical Group Management Association said.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Forbes Business",
-    "sourceUrl": "https://www.forbes.com/sites/brucejapsen/2026/08/03/from-medical-assistants-to-lpns-doctor-office-staff-pay-on-the-rise/",
-    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a629c0a7e232cf93d87054d/0x0.jpg",
-    "publishedAt": "2026-08-03T12:00:00.000Z",
-    "ingestedAt": "2026-08-03T12:48:25.332Z"
-  },
-  {
-    "slug": "7-books-that-make-you-realise-you-cant-control-everything-cbe8f4",
-    "title": "7 Books that make you realise you can't control everything\r\n",
-    "summary": "Discover seven insightful books that explore uncertainty, acceptance, and the freedom that comes from letting go of control.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/06/books-realise-cant-control-everything",
-    "publishedAt": "2026-08-03T11:40:00.000Z",
     "ingestedAt": "2026-08-03T12:48:25.332Z"
   }
 ]
