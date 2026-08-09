@@ -1,5 +1,28 @@
 [
   {
+    "slug": "indias-first-woman-top-gun-and-a-first-in-the-army-chiefs-of-370417",
+    "title": "India's first woman Top Gun, and a first in the Army Chief's office",
+    "summary": "Squadron Leader Bhawana Kanth clears the Air Force's toughest combat course, as Captain Shivani becomes first woman aide to the Army Chief.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/08/bhawana-kanth-first-woman-top-gun-shivani-adc-army-chief",
+    "publishedAt": "2026-08-09T07:25:14.000Z",
+    "ingestedAt": "2026-08-09T07:44:16.276Z"
+  },
+  {
+    "slug": "invulnerability-bias-why-you-think-ai-will-change-all-jobs-b-46fae4",
+    "title": "Invulnerability Bias: Why You Think AI Will Change All Jobs But Yours",
+    "summary": "Invulnerability bias may explain why employees expect AI to disrupt other people's jobs while overlooking how quickly their own work may already be changing.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Forbes Business",
+    "sourceUrl": "https://www.forbes.com/sites/dianehamilton/2026/08/09/invulnerability-bias-why-you-think-ai-will-change-all-jobs-but-yours/",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/69dba11652252abec6e42a1b/0x0.jpg",
+    "publishedAt": "2026-08-09T07:00:00.000Z",
+    "ingestedAt": "2026-08-09T07:44:16.276Z"
+  },
+  {
     "slug": "berkshire-hathaways-rare-spending-spree-turns-heads-on-wall-e391b1",
     "title": "Berkshire Hathaway’s Rare Spending Spree Turns Heads on Wall Street",
     "summary": "A strong earnings report reveals that new CEO Greg Abel dipped into Warren Buffett’s $380 billion cash reserve to buy back stock, boost Berkshire’s stake in Alphabet, and pursue one of its biggest acquisitions in years. One weak spot: GEICO.",
@@ -11824,28 +11847,6 @@
     "tags": [],
     "source": "Digiday",
     "sourceUrl": "https://digiday.com/podcasts/stagwells-curate-launch-puts-agencies-ad-tech-ambitions-in-focus/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "publishedAt": "2026-08-04T04:01:00.000Z",
-    "ingestedAt": "2026-08-04T06:21:59.908Z"
-  },
-  {
-    "slug": "wtf-is-a-stealth-crawler-23b5c9",
-    "title": "WTF is a stealth crawler?",
-    "summary": "As AI bot traffic surges, lawmakers are cracking down on stealth crawlers, which scrape publisher content while masking who they are.",
-    "category": "marketing",
-    "tags": [],
-    "source": "Digiday",
-    "sourceUrl": "https://digiday.com/media/wtf-is-a-stealth-crawler/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "publishedAt": "2026-08-04T04:01:00.000Z",
-    "ingestedAt": "2026-08-04T06:21:59.908Z"
-  },
-  {
-    "slug": "as-hollywood-studios-chase-creator-culture-ownership-gets-co-21d0f3",
-    "title": "As Hollywood studios chase creator culture, ownership gets complicated",
-    "summary": "Copyright claims and IP ownership fights show just how complicated Hollywood's creator courtship could get.",
-    "category": "policy",
-    "tags": [],
-    "source": "Digiday",
-    "sourceUrl": "https://digiday.com/media/as-hollywood-studios-chase-creator-culture-ownership-gets-complicated/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
     "publishedAt": "2026-08-04T04:01:00.000Z",
     "ingestedAt": "2026-08-04T06:21:59.908Z"
   }
