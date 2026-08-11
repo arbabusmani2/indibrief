@@ -1,5 +1,96 @@
 [
   {
+    "slug": "lightspeed-india-leads-9-mn-seed-round-in-deeptech-startup-d-3730fd",
+    "title": "Lightspeed India leads $9 Mn seed round in deep-tech startup Discovered Materials ",
+    "summary": "Deep-tech startup Discovered Materials has raised $9 million (Rs 85 crore) in a seed funding round led by Lightspeed India Partners, with participation from Y Combinator, Peak XV Partners and global angel investors including Paul Graham, Gokul Rajaram and Thariq Shihipar.\nThe fresh funds will be used to expand the team and laboratory and scale its AI research agents, Discovered Materials said in a press release.\nFounded by Advaith Sridhar and Akash Ramdas, Discovered Materials is an AI-driven deep-tech startup focused on thermal dissipation challenges in AI chips, which can generate more than 140W/cm². The company is developing thermally conductive dielectric materials for 3D chip packaging.\nThe startup operates cloud-based autonomous AI agents that run thousands of virtual material hypotheses daily using custom model harnesses incorporating frontier AI models. The AI-generated material candidates are then evaluated through physics simulations to assess their stability, dielectric constants and thermal properties.\nDiscovered Materials has also launched the Material Discovery Bench to evaluate how frontier AI systems perform on real-world semiconductor material challenges. The startup plans to patent promising material candidates and license the resulting thermal management and semiconductor technologies to global chipmakers.\nAccording to the company, its AI systems have developed new thermal materials in three months with performance comparable to products that took years to develop.\nIndian deep-tech startups continue to attract investor interest, with recent funding spanning AI, mobility, healthcare and energy technologies. Bengaluru-based E3 Electric.Ai raised Rs 100 crore in a Series A round led by BluVenture Holdings to develop and commercialise its AI-powered electric scooter, E3 TRION.\nMeanwhile, eNLife Research raised Rs 6 crore in a seed round led by Piper Serica VC Fund to develop an AI-driven blood-based diagnostic platform for the early detection of Alzheimer’s disease and other neurodegenerative disorders.\nDeep-tech startups in India had raised $1.62 billion across 140 equity rounds by July 2026.",
+    "category": "funding",
+    "tags": [],
+    "source": "Entrackr",
+    "sourceUrl": "https://entrackr.com/news/lightspeed-india-leads-9-mn-seed-round-in-deep-tech-startup-discovered-materials-12249345",
+    "imageUrl": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/08/11/materials-2026-08-11-09-41-58.png",
+    "publishedAt": "2026-08-11T04:16:30.000Z",
+    "ingestedAt": "2026-08-11T04:19:08.565Z"
+  },
+  {
+    "slug": "nvidia-partners-with-apollo-blackrock-blackstone-kkr-and-oth-d9ebfc",
+    "title": "NVIDIA partners with Apollo, BlackRock, Blackstone, KKR and others to mobilise over $500 billion for AI infrastructure",
+    "summary": "NVIDIA has partnered with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to create AI compute financing platforms. The platforms aim to mobilise over $500 billion in third-party capital over time to fund AI infrastructure globally.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Mint Companies",
+    "sourceUrl": "https://www.livemint.com/companies/nvidia-partners-with-apollo-blackrock-blackstone-kkr-and-others-to-mobilise-over-500-billion-for-ai-infrastructure-11786419485171.html",
+    "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/11/1600x900/logo/NVIDIA-BONDS--0_1781539104124_1781539149974_71da2ecf-6e3f-4bb6-902a-ed8e05816932_1786419850788_51228a6d-9cd9-4ab7-941d-1308c722a5dc.JPG",
+    "publishedAt": "2026-08-11T04:10:35.000Z",
+    "ingestedAt": "2026-08-11T04:19:08.565Z"
+  },
+  {
+    "slug": "ad-tech-briefing-more-takeprivate-deals-are-on-the-horizon-h-f09d92",
+    "title": "Ad Tech Briefing: More take-private deals are on the horizon, here’s what to look out for",
+    "summary": "The largest public names on the public markets are plateauing, prompting further speculation.",
+    "category": "marketing",
+    "tags": [],
+    "source": "Digiday",
+    "sourceUrl": "https://digiday.com/media-buying/ad-tech-briefing-more-take-private-deals-are-on-the-horizon-heres-what-to-look-out-for/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "publishedAt": "2026-08-11T04:01:00.000Z",
+    "ingestedAt": "2026-08-11T04:19:08.565Z"
+  },
+  {
+    "slug": "experian-retires-the-audigent-brand-folding-it-into-experian-efdc39",
+    "title": "Experian retires the Audigent brand, folding it into Experian Marketing Services",
+    "summary": "The Audigent brand is gone. So, increasingly, is the idea of curation as a category.",
+    "category": "marketing",
+    "tags": [],
+    "source": "Digiday",
+    "sourceUrl": "https://digiday.com/media-buying/experian-retires-the-audigent-brand-folding-it-into-experian-marketing-services/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "publishedAt": "2026-08-11T04:01:00.000Z",
+    "ingestedAt": "2026-08-11T04:19:08.565Z"
+  },
+  {
+    "slug": "s4-and-monks-are-trying-to-get-ahead-of-rising-ai-token-cost-4230e3",
+    "title": "S4 and Monks are trying to get ahead of rising AI token costs",
+    "summary": "Monks is considered a leader in AI marketing services, but “exploding” use of AI tokens poses difficult questions for execs focused on keeping costs down.",
+    "category": "marketing",
+    "tags": [],
+    "source": "Digiday",
+    "sourceUrl": "https://digiday.com/marketing/s4s-growing-margins-please-shareholders-but-can-it-balance-cost-controls-with-ai-token-spend/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "publishedAt": "2026-08-11T04:01:00.000Z",
+    "ingestedAt": "2026-08-11T04:19:08.565Z"
+  },
+  {
+    "slug": "perplexity-blocks-times-ads-served-to-ai-agents-calling-them-cb03ee",
+    "title": "Perplexity blocks Time’s ads served to AI agents, calling them ‘deceptive’",
+    "summary": "Perplexity has blocked Time’s markdown agent ads from influencing its AI system.",
+    "category": "marketing",
+    "tags": [],
+    "source": "Digiday",
+    "sourceUrl": "https://digiday.com/media/perplexity-blocks-times-ads-served-to-ai-agents-calling-them-deceptive/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "publishedAt": "2026-08-11T04:01:00.000Z",
+    "ingestedAt": "2026-08-11T04:19:08.565Z"
+  },
+  {
+    "slug": "why-agentic-media-buying-is-becoming-a-clientbyclient-config-f5ddd9",
+    "title": "Why agentic media buying is becoming a client-by-client configuration job",
+    "summary": "Butler/Till is expanding its agentic media buying tests, highlighting the challenge of adapting AI to different client needs.",
+    "category": "marketing",
+    "tags": [],
+    "source": "Digiday",
+    "sourceUrl": "https://digiday.com/podcasts/why-agentic-media-buying-is-becoming-a-client-by-client-configuration-job/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "publishedAt": "2026-08-11T04:01:00.000Z",
+    "ingestedAt": "2026-08-11T04:19:08.565Z"
+  },
+  {
+    "slug": "multiples-pe-nears-deal-to-acquire-80100-mn-stake-in-giva-b465d0",
+    "title": "Multiples PE nears deal to acquire $80-100 mn stake in Giva",
+    "summary": "Multiples is likely to value Giva at about  ₹6,000 crore and the deal will be a mix of primary and secondary transactions&nbsp;",
+    "category": "funding",
+    "tags": [],
+    "source": "Mint Companies",
+    "sourceUrl": "https://www.livemint.com/companies/news/multiples-to-acquire-stake-in-giva-private-equity-india-jewellery-market-11786415099782.html",
+    "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/11/1600x900/logo/GIVA_Blrstore_1750241275883_1786417228890_29c5db86-b52e-4163-883d-38b2cf0beba0.jpg",
+    "publishedAt": "2026-08-11T03:37:18.000Z",
+    "ingestedAt": "2026-08-11T04:19:08.565Z"
+  },
+  {
     "slug": "tvs-and-bajaj-outsell-ather-a-new-scooter-could-flip-the-equ-1a8659",
     "title": "TVS and Bajaj outsell Ather. A new scooter could flip the equation",
     "summary": "The post TVS and Bajaj outsell Ather. A new scooter could flip the equation appeared first on The Ken.",
@@ -11770,101 +11861,6 @@
     "sourceUrl": "https://inc42.com/buzz/ev-startup-river-mobility-bags-120-mn-to-expand-manufacturing-capacity/",
     "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/05/River-ftr.jpg",
     "publishedAt": "2026-08-05T11:47:40.000Z",
-    "ingestedAt": "2026-08-05T12:46:49.315Z"
-  },
-  {
-    "slug": "smallcap-stocks-just-sent-a-bullmarket-signal-investors-can-ea0362",
-    "title": "Small-Cap Stocks Just Sent a Bull-Market Signal Investors Can No Longer Ignore",
-    "summary": "Wall Street bears continue to sound the alarm on a top-heavy market.",
-    "category": "funding",
-    "tags": [],
-    "source": "Inc.com",
-    "sourceUrl": "https://www.inc.com/phil-rosen/stock-market-outlook-small-cap-bull-market-ai-trade-investors/91384421",
-    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/a6a5fc7c-0d66-4511-9db7-d40a1825829e.jpg",
-    "publishedAt": "2026-08-05T11:45:38.000Z",
-    "ingestedAt": "2026-08-05T12:46:49.315Z"
-  },
-  {
-    "slug": "river-mobility-raises-120-mn-in-series-c-led-by-elev8-claypo-4249fd",
-    "title": "River Mobility raises $120 Mn in Series C led by Elev8, Claypond Capital ",
-    "summary": "Electric two wheeler maker River Mobility has raised $120 million in a Series C funding round comprising equity and venture debt, one of the largest private funding rounds in India's electric two wheeler segment.\nThe equity round was led by Elev8 Venture Partners and Claypond Capital, with participation from Singularity AMC, Anicut Capital, 360 ONE Asset, JIF Capital and HDFC AMC. Existing investors including Yamaha Motor Corporation, Al Futtaim Group and Mitsui & Co also participated, while Alteria Capital, Innoven Capital and Stride Ventures joined through venture debt.\nFounded in 2021 by Aravind Mani and Vipin George, River Mobility manufactures electric two wheelers with a focus on utility oriented products. Its flagship electric scooter, Indie, was launched in 2023.\nThe company will use the fresh capital to expand capacity at its existing manufacturing facility, set up a new greenfield plant, launch new products in the utility lifestyle segment, and improve gross margins and EBITDA profitability.\n\"This funding marks an important milestone in River's journey. The confidence shown by both our existing and new investors reinforces our belief that there is tremendous opportunity to build India's first utility and design based mobility brand,\" said Aravind Mani, co-founder and CEO of River Mobility.\nRiver currently operates more than 75 retail stores across India and plans to expand its network to over 350 stores by March 2028.\nAccording to the company, monthly sales have reached around 5,000 units over the past year as it continues to expand its manufacturing capacity and distribution network. It also plans to introduce new electric vehicle models over the coming years.\nIn February 2024, River raised $40 million in a Series B funding round led by Yamaha, with participation from Al Futtaim Group, Lowercarbon Capital, Toyota Ventures and Maniv Mobility. Prior to that, it had secured $15 million in a Series A round in June 2023.\nWith the latest financing, River has raised around $188 million across equity and venture debt since its inception. The latest round also marks the company's first major backing from Indian institutional investors, adding to its existing global investor base that includes Yamaha Motor Corporation, Marubeni Corporation, Mitsui & Co, Al Futtaim Group, Lowercarbon Capital, Toyota Ventures, Maniv Mobility and Trucks VC.",
-    "category": "funding",
-    "tags": [],
-    "source": "Entrackr",
-    "sourceUrl": "https://entrackr.com/news/river-mobility-raises-120-mn-in-series-c-led-by-elev8-claypond-capital-12232629",
-    "imageUrl": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/08/05/river-mobility-2026-08-05-17-10-52.png",
-    "publishedAt": "2026-08-05T11:42:25.000Z",
-    "ingestedAt": "2026-08-05T12:46:49.315Z"
-  },
-  {
-    "slug": "swiggy-outlines-exclusive-product-strategy-for-instamart-see-d3339b",
-    "title": "Swiggy outlines exclusive product strategy for Instamart, sees cash break-even in two quarters ",
-    "summary": "While Swiggy's quarterly results highlighted continued investments in quick commerce, the company's earnings call offered fresh insight into how it plans to differentiate Instamart in an increasingly competitive market. Rather than focusing only on network expansion, management outlined a strategy centred on exclusive products, private labels and brand partnerships, while reiterating its path towards cash break-even over the next two quarters.\nA key announcement during the call was the launch of \"Switch to Better\", an initiative aimed at offering differentiated products on Instamart. According to management, the programme brings together large FMCG companies, challenger brands and Swiggy's own private labels to develop products that are available only on the platform.\nThe company said exclusivity often extends to individual SKUs rather than entire brands. For example, multiple high-protein oat variants have been developed exclusively for Instamart, while some brands offer exclusive pricing on the platform. In categories such as eggs, Swiggy is promoting its own private label. Management said the objective is to provide customers with better products at competitive prices.\nExecutives also indicated that the strategy is category-specific. Depending on the segment, Instamart works with established FMCG brands, emerging direct-to-consumer companies or its own private labels. The company believes this approach can help build differentiation as competition in quick commerce intensifies.\nBeyond merchandising, Swiggy shared an update on profitability. Chief Financial Officer Rahul Bothra said improving margins in the food delivery business and treasury income are expected to help the company achieve overall cash break-even within the next two quarters, even as investments in quick commerce continue.\nManagement also outlined its capital allocation framework for new businesses. It said emerging initiatives are first evaluated for product-market fit and business-market fit before receiving additional investment. Once those milestones are achieved, businesses are expected to scale with clear unit economics rather than relying on continued capital deployment.\nThe company added that it will share more details on its broader strategy during its upcoming Investor Day.\nThe earnings call suggests Swiggy is gradually moving beyond competing only on delivery speed. While rapid fulfillment remains the foundation of Instamart, the company's next phase appears to hinge on offering products that customers cannot easily find elsewhere. Through exclusive SKUs, private labels and brand partnerships, Swiggy is attempting to build a differentiated shopping experience that can improve customer retention and margins as competition in quick commerce intensifies.",
-    "category": "funding",
-    "tags": [],
-    "source": "Entrackr",
-    "sourceUrl": "https://entrackr.com/news-analysis/swiggy-outlines-exclusive-product-strategy-for-instamart-sees-cash-break-even-in-two-quarters-12232612",
-    "imageUrl": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/05/04/swiggy-2026-05-04-17-24-20.png",
-    "publishedAt": "2026-08-05T11:32:44.000Z",
-    "ingestedAt": "2026-08-05T12:46:49.315Z"
-  },
-  {
-    "slug": "spacex-rocket-hits-moon-as-lunar-junk-tops-209-tons-91dc71",
-    "title": "SpaceX Rocket Hits Moon As Lunar Junk Tops 209 Tons",
-    "summary": "An old SpaceX Falcon 9 rocket stage struck the moon late on Tuesday, creating a fresh impact crater and adding to human-made debris strewn across the lunar surface.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Forbes Business",
-    "sourceUrl": "https://www.forbes.com/sites/jamiecartereurope/2026/08/05/spacex-rocket-hits-moon-as-lunar-junk-tops-209-tons/",
-    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a731883f032f756e6a82b8d/0x0.jpg",
-    "publishedAt": "2026-08-05T11:30:22.000Z",
-    "ingestedAt": "2026-08-05T12:46:49.315Z"
-  },
-  {
-    "slug": "former-phillies-outfielder-joins-hated-rival-right-after-tra-e2ecfb",
-    "title": "Former Phillies Outfielder Joins Hated Rival Right After Trade Deadline",
-    "summary": "The Philadelphia Phillies castoff has joined a National League East rival after a dramatic trade deadline teardown.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Forbes Business",
-    "sourceUrl": "https://www.forbes.com/sites/peterchawaga/2026/08/05/former-phillies-outfielder-joins-hated-rival-right-after-trade-deadline/",
-    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a7249f10332095a8bea1379/0x0.jpg?width=960&precrop=3001%2C1689%2Cx0%2Cy0",
-    "publishedAt": "2026-08-05T11:30:00.000Z",
-    "ingestedAt": "2026-08-05T12:46:49.315Z"
-  },
-  {
-    "slug": "google-emerges-as-indias-most-attractive-employer-brand-foll-c2a6f4",
-    "title": "Google emerges as India's most attractive employer brand, followed by Tata Group, Amazon: Report",
-    "summary": "The other companies that feature in the top 10 most attractive employer brands in India in REBR 2026 include Samsung India, Infosys, Reliance Industries, ITC Group, Hindustan Unilever, Mahindra & Mahindra, and Dell Technologies.",
-    "category": "marketing",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/08/google-india-most-attractive-employer-brand-tata-group-amazon",
-    "publishedAt": "2026-08-05T11:28:44.000Z",
-    "ingestedAt": "2026-08-05T12:46:49.315Z"
-  },
-  {
-    "slug": "natco-challenges-novartiss-second-patent-for-cancer-drug-rib-6f509c",
-    "title": "Natco challenges Novartis’s second patent for cancer drug ribociclib in Delhi High Court",
-    "summary": "Natco claims the new patent unlawfully extends Novartis’s market monopoly over the breast cancer medicine past 2027; Delhi High Court issues notices to all parties.",
-    "category": "policy",
-    "tags": [],
-    "source": "Mint Companies",
-    "sourceUrl": "https://www.livemint.com/companies/news/natco-challenges-novartis-second-patent-for-cancer-drug-ribociclib-in-delhi-high-court-11785925706550.html",
-    "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/logo/natco_1785928732387_1785928732604_b8d65c2d-eeaf-47b9-b503-063e2b4b97e2.jpg",
-    "publishedAt": "2026-08-05T11:24:18.000Z",
-    "ingestedAt": "2026-08-05T12:46:49.315Z"
-  },
-  {
-    "slug": "digital-arrest-scams-sc-directs-rbi-to-create-bank-sops-push-2d8702",
-    "title": "Digital Arrest Scams: SC Directs RBI To Create Bank SOPs, Pushes For Victim Compensation Framework",
-    "summary": "Amid growing instances of digital scams, the Supreme Court (SC) has directed the Reserve Bank of India (RBI) to strengthen…",
-    "category": "policy",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/digital-arrest-scams-sc-directs-rbi-to-create-bank-sops-pushes-for-victim-compensation-framework/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2024/02/Supreme-Court-Web.jpg",
-    "publishedAt": "2026-08-05T11:16:13.000Z",
     "ingestedAt": "2026-08-05T12:46:49.315Z"
   }
 ]
