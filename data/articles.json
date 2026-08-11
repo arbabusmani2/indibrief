@@ -1,5 +1,41 @@
 [
   {
+    "slug": "claudes-new-watermarks-will-follow-text-even-after-its-copie-fd8e8c",
+    "title": "Claude’s New Watermarks Will Follow Text Even After It’s Copied. The Era of Secret AI Use May Be Ending",
+    "summary": "Anthropic’s new watermarks will change how businesses worldwide use Claude—and how transparent they are about it.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc.com",
+    "sourceUrl": "https://www.inc.com/kit-eaton/claudes-new-watermarks-will-follow-text-even-after-its-copied-the-era-of-secret-ai-use-may-be-ending/91389264",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/anthropic-claude-watermark-text-copied-inc-2276547281.jpg",
+    "publishedAt": "2026-08-11T20:16:17.000Z",
+    "ingestedAt": "2026-08-11T20:33:29.241Z"
+  },
+  {
+    "slug": "tiktok-is-closing-its-nashville-office-just-2-years-after-op-b2cd87",
+    "title": "TikTok Is Closing Its Nashville Office Just 2 Years After Opening, Cutting 250 Jobs",
+    "summary": "The company recently announced plans to shutter its location in Music City. It claims the closure aligns with its long-term growth strategy.",
+    "category": "growth",
+    "tags": [],
+    "source": "Inc.com",
+    "sourceUrl": "https://www.inc.com/jamie-mcgee/tiktok-is-closing-its-nashville-office-just-two-years-after-opening/91389316",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/AdobeStock_504796688_Editorial_Use_Only.jpg",
+    "publishedAt": "2026-08-11T20:14:38.000Z",
+    "ingestedAt": "2026-08-11T20:33:29.241Z"
+  },
+  {
+    "slug": "2026-is-a-tough-year-to-make-a-deal-5-women-whove-moved-mill-10b938",
+    "title": "2026 Is a Tough Year to Make a Deal. 5 Women Who’ve Moved Millions Share Their Best Negotiating Lessons",
+    "summary": "The best negotiators don’t sound like they’re negotiating. Five executives on how they really close a deal.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc.com",
+    "sourceUrl": "https://www.inc.com/daniela-pierre-bravo/5-negotiating-lessons-women-dealmakers/91389234",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/gap-katseye-campaign-inc.jpg",
+    "publishedAt": "2026-08-11T20:00:00.000Z",
+    "ingestedAt": "2026-08-11T20:33:29.241Z"
+  },
+  {
     "slug": "netanyahu-rejects-trumps-gaza-peace-planhow-will-that-impact-823561",
     "title": "Netanyahu Rejects Trump's Gaza Peace Plan—How Will That Impact The Iran War?",
     "summary": "The Board of Peace laid out a 15-point plan that says Hamas will fully demilitarize and de-radicalize and Israeli forces will withdraw from the Gaza Strip in phases.",
@@ -11840,40 +11876,5 @@
     "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/06/1600x900/logo/APPLE-OPENAI-LAWSUIT-2_1784120897823_1784120917841_5010a29a-99df-4d87-97e1-3e3a5a1f74ed_1786002106475_07b471c3-3941-41ad-88a9-027b8f7126b4.JPG",
     "publishedAt": "2026-08-06T07:43:28.000Z",
     "ingestedAt": "2026-08-06T10:27:03.104Z"
-  },
-  {
-    "slug": "tv-somanathan-gets-a-years-extension-as-indias-top-bureaucra-a3ead9",
-    "title": "TV Somanathan gets a year's extension as India's top bureaucrat",
-    "summary": "Cabinet Secretary TV Somanathan gets a one-year extension, ensuring policy continuity while reviving debate over succession plans.",
-    "category": "policy",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/08/tv-somanathan-cabinet-secretary-extension-2027-career",
-    "publishedAt": "2026-08-06T07:42:52.000Z",
-    "ingestedAt": "2026-08-06T10:27:03.104Z"
-  },
-  {
-    "slug": "from-weddings-to-everyday-wear-kalyan-widens-its-jewellery-p-7851cb",
-    "title": "From weddings to everyday wear, Kalyan widens its jewellery play",
-    "summary": "While Kalyan Jewellers continues to focus on wedding and aspirational pieces, Candere is being built around lightweight, gifting and everyday collections, and its newly launched Akshaya Thanga Maaligai (ATM) brand is aimed exclusively at customers seeking traditional regional designs.",
-    "category": "marketing",
-    "tags": [],
-    "source": "Mint Companies",
-    "sourceUrl": "https://www.livemint.com/companies/kalyan-jewellers-multi-brand-strategy-candere-atm-growth-plan-11785988653837.html",
-    "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/06/1600x900/logo/Ramesh_Kalyanaraman_1786010106954_1786010201959_6bb1428a-856d-4f13-9c3e-7dbba79676bb.jpg",
-    "publishedAt": "2026-08-06T07:31:14.000Z",
-    "ingestedAt": "2026-08-06T10:27:03.104Z"
-  },
-  {
-    "slug": "taghash-launches-whatsapp-ai-agent-for-fund-managers-2e0483",
-    "title": "Taghash launches WhatsApp AI agent for fund managers ",
-    "summary": "Fund operations platform Taghash has launched a WhatsApp based AI agent that allows venture capital and private equity teams to access fund information and initiate operational tasks through conversational prompts.\nThe launch builds on the company's broader push towards what it describes as a headless software experience, where users can interact with the platform without relying on a traditional dashboard.\nConnected to data and workflows within Taghash, the AI agent enables users to retrieve information related to deals, portfolios, funds and limited partners (LPs). It also supports operational tasks such as identifying pending follow ups, finding common connections for LP introductions, drafting reminder emails and initiating actions from WhatsApp. Outgoing actions require user review and approval before execution.\nAccording to the company, the product extends the capabilities of Taghash MCP, launched earlier this year, which allows AI applications to securely connect with data and workflows available on the platform.\nThe latest launch comes months after Taghash launched Taghash Services, an execution focused offering designed to help venture capital and private equity firms manage fund operations and regulatory compliance. The service covers fund setup, investor onboarding, capital calls, reporting and compliance.\nFounded by former venture capital professionals, Taghash offers software for fund administration and portfolio management. The company has been expanding its product suite with AI driven tools to automate workflows and reduce manual effort across the fund lifecycle.\nEarlier, in July 2025, Taghash introduced its AI integrated Model Context Protocol (MCP) Server, which enables secure connectivity between live fund data and AI platforms such as Claude, OpenAI and Microsoft Copilot.",
-    "category": "funding",
-    "tags": [],
-    "source": "Entrackr",
-    "sourceUrl": "https://entrackr.com/snippets/taghash-launches-whatsapp-ai-agent-for-fund-managers-12234929",
-    "imageUrl": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/08/06/taghash-whatsapp-2026-08-06-12-59-14.png",
-    "publishedAt": "2026-08-06T07:29:30.000Z",
-    "ingestedAt": "2026-08-06T07:32:27.006Z"
   }
 ]
