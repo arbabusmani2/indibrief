@@ -1,5 +1,53 @@
 [
   {
+    "slug": "bob-iger-made-a-recordsetting-sports-deal-in-just-3-days-its-49bd46",
+    "title": "Bob Iger Made a Record-Setting Sports Deal in Just 3 Days. It’s His Biggest Move Since Disney",
+    "summary": "The $12.5 billion deal hands ownership of the Los Angeles Lakers to the former Disney CEO and Josh Kushner.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc.com",
+    "sourceUrl": "https://www.inc.com/lucia-auerbach/bob-iger-just-made-record-setting-sports-deal-in-three-days/91389992",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/los-angeles-lakers-bob-iger-inc-2242621397.jpg",
+    "publishedAt": "2026-08-12T20:07:04.000Z",
+    "ingestedAt": "2026-08-12T20:33:12.878Z"
+  },
+  {
+    "slug": "cerebras-raises-annual-targets-on-strong-ai-chip-demand-b4b8f3",
+    "title": "Cerebras raises annual targets on strong AI chip demand",
+    "summary": "CEREBRAS SYSTEMS-RESULTS/ (PIX):Cerebras raises annual targets on strong AI chip demand",
+    "category": "funding",
+    "tags": [],
+    "source": "Mint Companies",
+    "sourceUrl": "https://www.livemint.com/companies/cerebras-raises-annual-targets-on-strong-ai-chip-demand-11786565219479.html",
+    "imageUrl": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_2_1733465085102_1733465089141.png",
+    "publishedAt": "2026-08-12T20:06:59.000Z",
+    "ingestedAt": "2026-08-12T20:33:12.878Z"
+  },
+  {
+    "slug": "largest-airline-union-adds-orlando-fuelers-looks-to-american-46e196",
+    "title": "Largest Airline Union Adds Orlando Fuelers, Looks To American Talks",
+    "summary": "The Transport Workers Union, the largest airline union, has organized more fuelers in Orlando and looks to fleet service contract talks at American Airlines.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Forbes Business",
+    "sourceUrl": "https://www.forbes.com/sites/tedreed/2026/08/12/largest-airline-union-adds-orlando-fuelers-looks-to-american-talks/",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a7cc9427ec65d7397bef87d/0x0.jpg",
+    "publishedAt": "2026-08-12T19:36:40.000Z",
+    "ingestedAt": "2026-08-12T20:33:12.878Z"
+  },
+  {
+    "slug": "tom-barrett-heres-how-i-will-win-my-swing-district-against-c-93ec9c",
+    "title": "Tom Barrett: Here's How I Will Win My Swing District Against Challenger Who Just Left DSA Last Month",
+    "summary": "Congressman Tom Barrett (R-MI) flipped Michigan's 7th congressional from blue to red in 2024, and Democrats are looking to flip it back in November.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Forbes Business",
+    "sourceUrl": "https://www.forbes.com/sites/forbestv/2026/08/12/tom-barrett-heres-how-i-will-win-my-swing-district-against-challenger-who-just-left-dsa-last-month/",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a7ccb37f01c2ae38ff66094/0x0.jpg?width=960",
+    "publishedAt": "2026-08-12T19:36:35.000Z",
+    "ingestedAt": "2026-08-12T20:33:12.878Z"
+  },
+  {
     "slug": "a-5-billion-ai-startups-new-rule-for-employees-writing-shoul-c5325e",
     "title": "A $5 Billion AI Startup’s New Rule for Employees: Writing Should Take Longer Than Reading",
     "summary": "Clay’s internal rules about AI say less about technology and more about how people think.",
@@ -10,6 +58,30 @@
     "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/clay-ai-generative-writing-inc.jpg",
     "publishedAt": "2026-08-12T19:25:12.000Z",
     "ingestedAt": "2026-08-12T19:55:55.403Z"
+  },
+  {
+    "slug": "nick-reiner-indicted-on-2-murder-charges-after-allegedly-kil-1877c5",
+    "title": "Nick Reiner Indicted On 2 Murder Charges After Allegedly Killing Parents",
+    "summary": "Reiner has pleaded not guilty to the charges.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Forbes Business",
+    "sourceUrl": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/12/nick-reiner-indicted-on-2-murder-charges-after-allegedly-killing-parents/",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a7cc3c24bc7b876aed67aae/0x0.jpg?width=960",
+    "publishedAt": "2026-08-12T19:07:44.000Z",
+    "ingestedAt": "2026-08-12T20:33:12.878Z"
+  },
+  {
+    "slug": "what-chicago-bears-compete-with-for-highestscoring-offense-e-045551",
+    "title": "What Chicago Bears Compete With For ‘Highest-Scoring Offense Ever’",
+    "summary": "Bears Head Coach Ben Johnson says he wants Chicago to be the highest-scoring team ever. Here's what they're up against there, both historically and this season.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Forbes Business",
+    "sourceUrl": "https://www.forbes.com/sites/johncassillo/2026/08/12/what-chicago-bears-compete-with-for-highest-scoring-offense-ever/",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a7cc1f636261e8c619751bb/0x0.jpg",
+    "publishedAt": "2026-08-12T19:05:22.000Z",
+    "ingestedAt": "2026-08-12T20:33:12.878Z"
   },
   {
     "slug": "this-beauty-founder-was-sick-of-losing-money-on-meta-ads-so-7b8ccf",
@@ -11823,75 +11895,5 @@
     "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a75c01b2c808968c692a90b/0x0.jpg?width=960",
     "publishedAt": "2026-08-07T11:45:40.000Z",
     "ingestedAt": "2026-08-07T12:38:39.466Z"
-  },
-  {
-    "slug": "ola-electrics-q1-fy27-revenue-drops-45-to-rs-455-cr-loss-nar-dd5278",
-    "title": "Ola Electric's Q1 FY27 revenue drops 45% to Rs 455 Cr, loss narrows 22% ",
-    "summary": "Electric vehicle maker Ola Electric continued to struggle during Q1 FY27 as its revenue declined 45% year-on-year. However, the Bengaluru-based company managed to narrow its losses by 22% to Rs 336 crore\nOla Electric’s revenue from operations declined to Rs 455 crore in Q1 FY27 from Rs 828 crore in Q1 FY26, according to its consolidated financial statements filed with the National Stock Exchange (NSE).\n \nThis is a developing story...",
-    "category": "growth",
-    "tags": [],
-    "source": "Entrackr",
-    "sourceUrl": "https://entrackr.com/fintrackr/ola-electrics-q1-fy27-revenue-drops-45-to-rs-455-cr-loss-narrows-22-12239621",
-    "imageUrl": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/02/13/ola-electric-2026-02-13-13-36-41.png",
-    "publishedAt": "2026-08-07T11:32:31.000Z",
-    "ingestedAt": "2026-08-07T11:37:28.242Z"
-  },
-  {
-    "slug": "real-madrid-boss-mourinho-furious-with-failure-to-land-rodri-835ad3",
-    "title": "Real Madrid Boss Mourinho ‘Furious’ With Failure To Land Rodri",
-    "summary": "Real Madrid manager Jose Mourinho has been left \"furious\" by his club's failure to land Rodri, who now looks set to join bitter rival FC Barcelona.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Forbes Business",
-    "sourceUrl": "https://www.forbes.com/sites/tomsanderson/2026/08/07/real-madrid-boss-mourinho-furious-with-failure-to-land-rodri/",
-    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a75bab274cbe72509ed09eb/0x0.jpg",
-    "publishedAt": "2026-08-07T11:25:54.000Z",
-    "ingestedAt": "2026-08-07T12:38:39.466Z"
-  },
-  {
-    "slug": "how-walkabout-helps-active-agers-find-purpose-in-life-after-6bc285",
-    "title": "How WalkAbout helps active agers find purpose in life after 55\r\n\r\n",
-    "summary": "Mumbai-based WalkAbout is a community-driven engagement platform for older adults, offering classes in finance, business building, health and wellness, and personal enrichment.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/08/how-walkabout-helps-active-agers-find-purpose-in-life-after-55",
-    "publishedAt": "2026-08-07T11:20:05.000Z",
-    "ingestedAt": "2026-08-07T11:37:28.242Z"
-  },
-  {
-    "slug": "supermoney-enters-commerce-with-instalment-platform-splitsto-4a0525",
-    "title": "super.money enters commerce with instalment platform splitStore ",
-    "summary": "Fintech platform super.money has launched splitStore, an in app marketplace that allows users to shop across brands and pay in zero interest instalments.\nThe Bengaluru-based company said the feature combines shopping with embedded credit, allowing eligible users to split payments without a credit card, processing fee or interest. The offering is currently live for a select group of users, with a wider rollout underway.\nAccording to the company, splitStore provides access to more than 60 lakh products across categories including smartphones, fashion, electronics, appliances, beauty, fitness, home and furniture. Brands available on the platform include Apple, Nothing, Nike, Adidas, Marshall, Mokobara and Snitch, while deliveries will be handled through Flipkart's logistics network.\nUsers can access the instalment facility after completing KYC verification, with credit offered through regulated lending partners.\n\"The next opportunity after UPI is transforming how India shops by making affordability a seamless part of the checkout experience,\" said Prakash Sikaria, founder and CEO of super.money.\nWith splitStore, super.money has expanded beyond UPI payments into commerce and embedded credit. The company already offers UPI payments, secured RuPay credit cards, checkout financing and personal loans through its app.\nThe company said splitStore has been tested with a limited group of users over the past few weeks ahead of the wider rollout.\nAs per data published by the National Payments Corporation of India (NPCI), super.money was the fifth largest UPI app by transaction volume as of June, behind PhonePe, Google Pay, Paytm and Navi.",
-    "category": "marketing",
-    "tags": [],
-    "source": "Entrackr",
-    "sourceUrl": "https://entrackr.com/snippets/supermoney-enters-commerce-with-instalment-platform-splitstore-12239796",
-    "imageUrl": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/08/07/super-money-2026-08-07-17-51-29.webp",
-    "publishedAt": "2026-08-07T11:15:08.000Z",
-    "ingestedAt": "2026-08-07T12:38:39.466Z"
-  },
-  {
-    "slug": "ev-retail-sales-break-record-at-327-lakh-units-in-july-fada-3fc57f",
-    "title": "EV retail sales break record at 3.27 lakh units in July: FADA",
-    "summary": "The growth in EV sales in July was led by the two-wheeler segment at 2,04,362 units as against 1,08,516 units in the same month last year, up 88.32%.",
-    "category": "growth",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/08/ev-retail-sales-break-record-units-july-fada",
-    "publishedAt": "2026-08-07T11:13:40.000Z",
-    "ingestedAt": "2026-08-07T11:37:28.242Z"
-  },
-  {
-    "slug": "hero-motocorp-eyes-electric-motorcycle-debut-in-2027-8742ec",
-    "title": "Hero MotoCorp eyes electric motorcycle debut in 2027",
-    "summary": "This marks a first for legacy two-wheeler makers, who have so far stayed away from entering the electric motorcycle segment, even as they work to develop the technology.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Mint Companies",
-    "sourceUrl": "https://www.livemint.com/companies/news/hero-motocorp-new-electric-motorcycles-two-wheeler-makers-india-bajaj-auto-11786093091527.html",
-    "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/2-0-1121936080-hero-0_1679699691100_1786099192580_52b1953d-9500-4098-8ec9-17ebced313b1.jpg",
-    "publishedAt": "2026-08-07T11:07:10.000Z",
-    "ingestedAt": "2026-08-07T11:37:28.242Z"
   }
 ]
