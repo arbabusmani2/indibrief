@@ -1,5 +1,29 @@
 [
   {
+    "slug": "supervoting-shares-give-founders-power-but-at-what-cost-624b34",
+    "title": "Super-Voting Shares Give Founders Power. But at What Cost?",
+    "summary": "More votes, more control, and more questions.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc.com",
+    "sourceUrl": "https://www.inc.com/ken-sterling/super-voting-shares-give-founders-power-but-at-what-cost/91393549",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/GettyImages-2196198530.jpg",
+    "publishedAt": "2026-08-23T18:00:00.000Z",
+    "ingestedAt": "2026-08-23T19:14:43.781Z"
+  },
+  {
+    "slug": "stray-kids-tie-one-of-the-biggest-rock-bands-of-all-time-906449",
+    "title": "Stray Kids Tie One Of The Biggest Rock Bands Of All Time",
+    "summary": "Stray Kids collect a ninth No. 1 on the Billboard 200 as 'This & That' debuts. The K-pop titans are now tied with The Rolling Stones for the second-most leaders among groups.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Forbes Business",
+    "sourceUrl": "https://www.forbes.com/sites/hughmcintyre/2026/08/23/stray-kids-tie-one-of-the-biggest-rock-bands-of-all-time/",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a8a2f6d7b064100a2d8f7ca/0x0.jpg?width=960&precrop=4561%2C2566%2Cx977%2Cy1033",
+    "publishedAt": "2026-08-23T18:00:00.000Z",
+    "ingestedAt": "2026-08-23T19:14:43.781Z"
+  },
+  {
     "slug": "volkswagen-to-cut-jobs-ceo-oliver-blume-warns-employees-carm-47817b",
     "title": "Volkswagen to cut jobs? CEO Oliver Blume warns employees carmaker's situation ‘more than critical’",
     "summary": "Volkswagen CEO Oliver Blume warned employees the carmaker's position is “more than critical” adding that the company and the German car industry is facing “the biggest upheaval in their history” due to global headwinds and Chinese competition.&nbsp;",
@@ -11850,29 +11874,5 @@
     "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/18/1600x900/logo/funding_1787035752387_1787035752515_a2ee65d5-c27c-4cc5-91e1-94f9ce17d3bc.jpg",
     "publishedAt": "2026-08-18T07:01:33.000Z",
     "ingestedAt": "2026-08-18T11:19:31.941Z"
-  },
-  {
-    "slug": "razorpay-launches-ai-payments-model-vulcan-with-nvidia-and-a-f25b27",
-    "title": "Razorpay launches AI payments model Vulcan with NVIDIA and AWS ",
-    "summary": "Fintech unicorn Razorpay has launched Vulcan, an AI foundation model built specifically for payments, with technology support from NVIDIA and AWS.\nThe Bengaluru based company said the transformer based model has been trained on nearly 3 trillion data points across 4 billion payments and uses around 3,000 signals per transaction to make payment related decisions.\nNVIDIA GPUs were used to train and run the model, while AWS cloud infrastructure and Amazon SageMaker supported its development, training and deployment.\nRazorpay said Vulcan is designed as a common intelligence layer for payment functions such as routing, fraud detection, risk assessment and checkout personalisation, replacing separate models for individual functions.\nComponents of the model were already being tested on Razorpay’s network ahead of the launch. Customers including Blinkit, Bachatt and redBus have started using some of these capabilities in live payment environments.\nRazorpay claims the technology has improved payment success rates by 8-10% and helped detect and stop 8x more international card fraud. It has also identified five times more fraudulent or disputed transactions without increasing the number of alerts.\nThrough Magic Checkout, the company said 40% more shoppers are now shown their preferred UPI app, helping complete an additional 1-2 lakh purchases every month.\nThe model draws on signals across merchants, payment instruments, issuers and gateways to assess payment routes and select the one most likely to succeed. It can also identify fraud patterns across merchants, assess risks associated with cash on delivery orders and recommend payment methods during checkout.\nRazorpay said Vulcan has been developed from the ground up, with its architecture and training data being proprietary.\nThe company’s internal study across 1.5 million shoppers and more than 51,000 businesses found payment friction such as failed transactions, delays and drop offs across metro and smaller markets.\nRazorpay plans to expand the model to other areas, including authentication and lending, as it looks to use a single AI layer across more payment decisions.\nThe launch comes as India’s digital ecommerce market is projected to reach $350 billion by 2030, according to Razorpay.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Entrackr",
-    "sourceUrl": "https://entrackr.com/snippets/razorpay-launches-ai-payments-model-vulcan-with-nvidia-and-aws-12391617",
-    "imageUrl": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/08/18/razorpay-2026-08-18-12-26-21.png",
-    "publishedAt": "2026-08-18T06:44:48.000Z",
-    "ingestedAt": "2026-08-18T11:19:31.941Z"
-  },
-  {
-    "slug": "colgate-turns-to-bombay-shaving-company-to-fix-palmolives-d2-23276a",
-    "title": "Colgate Turns To Bombay Shaving Company To Fix Palmolive’s D2C Play",
-    "summary": "Colgate-Palmolive India has partnered with D2C startup Bombay Shaving Company to drive the D2C and ecommerce business of its personal…",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/colgate-turns-to-bombay-shaving-company-to-fix-palmolives-d2c-play/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/ftr-72.jpg",
-    "publishedAt": "2026-08-18T06:35:34.000Z",
-    "ingestedAt": "2026-08-18T12:22:44.025Z"
   }
 ]
