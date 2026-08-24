@@ -1,5 +1,65 @@
 [
   {
+    "slug": "run-fewer-incrementality-tests-and-get-more-from-them-74a012",
+    "title": "Run fewer incrementality tests and get more from them",
+    "summary": "Prioritize tests where uncertainty has real financial consequences, then use the results to guide decisions long after the test ends.\nThe post Run fewer incrementality tests and get more from them appeared first on MarTech.",
+    "category": "marketing",
+    "tags": [],
+    "source": "MarTech",
+    "sourceUrl": "https://martech.org/run-fewer-incrementality-tests-and-get-more-from-them/",
+    "imageUrl": "https://martech.org/wp-content/uploads/2018/11/split-testing-ss-1920-800x450.jpg",
+    "publishedAt": "2026-08-24T12:20:00.000Z",
+    "ingestedAt": "2026-08-24T12:24:39.972Z"
+  },
+  {
+    "slug": "the-terrifying-math-behind-your-new-ai-workforce-9fda67",
+    "title": "The terrifying math behind your new AI workforce",
+    "summary": "Autonomous marketing agents promise massive labor savings, but ballooning API fees and middleware costs can easily break your technology budget.\nThe post The terrifying math behind your new AI workforce appeared first on MarTech.",
+    "category": "marketing",
+    "tags": [],
+    "source": "MarTech",
+    "sourceUrl": "https://martech.org/the-terrifying-math-behind-your-new-ai-workforce/",
+    "imageUrl": "https://martech.org/wp-content/uploads/2025/11/mtb-explains-it-all-new.png",
+    "publishedAt": "2026-08-24T12:02:00.000Z",
+    "ingestedAt": "2026-08-24T12:24:39.972Z"
+  },
+  {
+    "slug": "why-executives-are-heading-to-marthas-vineyard-to-build-thei-da13f5",
+    "title": "Why Executives Are Heading to Martha’s Vineyard to Build Their Personal Brands",
+    "summary": "The corporate creator era has arrived.",
+    "category": "marketing",
+    "tags": [],
+    "source": "Inc.com",
+    "sourceUrl": "https://www.inc.com/jasmine-browley/why-executives-are-heading-to-marthas-vineyard-to-build-their-personal-brands/91394317",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/leadership-retreat-marthas-vineyard-inc.jpg",
+    "publishedAt": "2026-08-24T12:00:00.000Z",
+    "ingestedAt": "2026-08-24T12:24:39.972Z"
+  },
+  {
+    "slug": "21-leaders-on-staying-educated-on-ai-be1f1f",
+    "title": "21 Leaders on Staying Educated on AI",
+    "summary": "Practical ways to learn, test, and apply fast-moving tools.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc.com",
+    "sourceUrl": "https://www.inc.com/inc-leadership-forum/21-leaders-on-staying-educated-on-ai/91391951",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/ILF-Expert-Insights-templates-1.png",
+    "publishedAt": "2026-08-24T12:00:00.000Z",
+    "ingestedAt": "2026-08-24T12:24:39.972Z"
+  },
+  {
+    "slug": "starbucks-is-still-closing-locations-in-2026-see-an-updated-8bf72f",
+    "title": "Starbucks Is Still Closing Locations in 2026: See an Updated List of Shuttered Stores",
+    "summary": "The closures, which are part of CEO Brian Niccol’s $1 billion turnaround plan, touch nearly ever corner of the country.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc.com",
+    "sourceUrl": "https://www.inc.com/amaya-nichole/starbucks-still-closing-locations-in-2026-updated-list-of-shuttered-stores/91394775",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/starbucks-closures-inc_406227283.jpg",
+    "publishedAt": "2026-08-24T11:30:00.000Z",
+    "ingestedAt": "2026-08-24T12:24:39.972Z"
+  },
+  {
     "slug": "ais-new-cost-equation-why-token-economics-matters-39fc56",
     "title": "AI’s new cost equation: Why token economics matters\r\n",
     "summary": "At DevSparks Hyderabad, NVIDIA’s Jigar Halani explained why as AI moves toward agents and more complex workloads, managing the utility, demand, supply, and monetization of tokens is becoming increasingly important.",
@@ -9,6 +69,42 @@
     "sourceUrl": "https://yourstory.com/2026/08/devsparks-ai-new-cost-equation-token-economics-matters-nvidia",
     "publishedAt": "2026-08-24T11:05:03.000Z",
     "ingestedAt": "2026-08-24T11:17:47.335Z"
+  },
+  {
+    "slug": "obituary-for-yankees-legendary-allstar-reveals-bold-3word-me-29b101",
+    "title": "Obituary For Yankees’ Legendary All-Star Reveals Bold 3-Word Message To Surgeon",
+    "summary": "Remarkable details about the New York Yankees’ late legend have emerged in a local obituary detailing his extraordinary life.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Forbes Business",
+    "sourceUrl": "https://www.forbes.com/sites/peterchawaga/2026/08/24/obituary-for-yankees-legendary-all-star-reveals-bold-3-word-message-to-surgeon/",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/69a46a6bd1ea758b902affcf/0x0.jpg",
+    "publishedAt": "2026-08-24T11:00:00.000Z",
+    "ingestedAt": "2026-08-24T12:24:39.972Z"
+  },
+  {
+    "slug": "breaking-down-the-top-25-college-football-stars-2026-nil-tax-917d85",
+    "title": "Breaking Down The Top 25 College Football Stars' 2026 NIL Tax Bills",
+    "summary": "College football's top 25 NIL earners are set to owe over $35.9 million combined in federal, state, and local taxes in 2026 — a 40% average tax bite. See who owes what.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Forbes Business",
+    "sourceUrl": "https://www.forbes.com/sites/nathangoldman/2026/08/24/breaking-down-the-top-25-college-football-stars-2026-nil-tax-bills/",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a89ffed228bd4ad6a19498e/0x0.jpg",
+    "publishedAt": "2026-08-24T11:00:00.000Z",
+    "ingestedAt": "2026-08-24T12:24:39.972Z"
+  },
+  {
+    "slug": "the-womens-health-diagnostics-gap-isnt-missing-tests-its-mis-145fde",
+    "title": "The Women's Health Diagnostics Gap Isn't Missing Tests, It's Missing Answers",
+    "summary": "More than half of Function's members are women. Its co-founder explains why the women's health diagnostics gap is about interpretation, not access.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Forbes Business",
+    "sourceUrl": "https://www.forbes.com/sites/geristengel/2026/08/24/the-womens-health-diagnostics-gap-isnt-missing-tests-its-missing-answers/",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a89b1a6d8f8a78c7d63d30c/0x0.jpg",
+    "publishedAt": "2026-08-24T11:00:00.000Z",
+    "ingestedAt": "2026-08-24T12:24:39.972Z"
   },
   {
     "slug": "the-power-of-connected-customer-history-by-rokt-mparticle-d2f264",
@@ -23,6 +119,18 @@
     "ingestedAt": "2026-08-24T11:17:47.335Z"
   },
   {
+    "slug": "kpop-group-atheart-travels-before-their-time-with-3-4-7f80a2",
+    "title": "K-Pop Group AtHeart Travels Before Their Time With '3! 4!'",
+    "summary": "K-pop girl group AtHeart talks about their new single, \"3! 4!\" and the TIME TRAVEL PROJECT, songs they want to cover and celebrating their first anniversary this month.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Forbes Business",
+    "sourceUrl": "https://www.forbes.com/sites/laurasirikul/2026/08/24/k-pop-group-atheart-travels-before-their-time-with-3-4/",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a8c1ccd6974e398ffb8bad8/0x0.jpg",
+    "publishedAt": "2026-08-24T10:42:11.000Z",
+    "ingestedAt": "2026-08-24T12:24:39.972Z"
+  },
+  {
     "slug": "after-the-lottery-win-why-dr-reddys-may-be-doing-much-more-i-258552",
     "title": "After the lottery win: why Dr Reddy’s may be doing much more in its laboratories",
     "summary": "The pharmaceutical company rode one copycat drug to record profits. Now, co-chairman G.V. Prasad has to prove the company can grow without it. Biosimilars and innovation may hold the answer.",
@@ -35,6 +143,18 @@
     "ingestedAt": "2026-08-24T11:17:47.335Z"
   },
   {
+    "slug": "california-ag-calls-off-paramount-antitrust-case-settlement-7a0b78",
+    "title": "California AG Calls Off Paramount Antitrust Case Settlement Meeting Alleging Leaks",
+    "summary": "The scrapped meeting comes on the backdrop of Paramount’s threats to leave California if the case seeking to block the merger goes to trial next year.",
+    "category": "policy",
+    "tags": [],
+    "source": "Forbes Business",
+    "sourceUrl": "https://www.forbes.com/sites/siladityaray/2026/08/24/california-ag-calls-off-paramount-antitrust-settlement-meeting-alleging-leaks/",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a8c1e81bbe11711ef738962/0x0.jpg?width=960",
+    "publishedAt": "2026-08-24T10:38:48.000Z",
+    "ingestedAt": "2026-08-24T12:24:39.972Z"
+  },
+  {
     "slug": "softbank-plans-63-billion-retail-bond-sale-in-japan-next-mon-040da1",
     "title": "SoftBank plans $6.3 billion retail bond sale in Japan next month, moves to raise funds for OpenAI commitments",
     "summary": "SoftBank Group is planning a record $6.3 billion retail bond sale next month, the biggest by any issuer in Japan, in order to raise funds to fulfil its investment commitments to OpenAI, Bloomberg reported.&nbsp;",
@@ -45,6 +165,30 @@
     "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/24/1600x900/logo/JAPAN-US-SOFTWARE-TECHNOLOGY-OPENAI-SOFTBANK-0_1767161972081_1787566416284_3d4f5898-5a46-4f78-a358-e0dc52fc9f21.jpg",
     "publishedAt": "2026-08-24T10:37:56.000Z",
     "ingestedAt": "2026-08-24T11:17:47.335Z"
+  },
+  {
+    "slug": "what-to-know-about-betting-on-the-top-5-in-college-football-0fab19",
+    "title": "What To Know About Betting On The Top 5 In College Football",
+    "summary": "National championship odds for the top five teams in the preseason NCAA football poll, comparing contenders and their paths to the title.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Forbes Business",
+    "sourceUrl": "https://www.forbes.com/sites/darren-cooper/2026/08/24/what-to-know-about-betting-on-the-top-5-in-college-football/",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a8b4442c5ca3abcb9616102/0x0.jpg",
+    "publishedAt": "2026-08-24T10:30:00.000Z",
+    "ingestedAt": "2026-08-24T12:24:39.972Z"
+  },
+  {
+    "slug": "phillies-longtime-starter-gets-32-million-contract-update-fr-13f5d5",
+    "title": "Phillies Long-Time Starter Gets $32 Million Contract Update From New Team",
+    "summary": "The Philadelphia Phillies’ castoff has triggered a significant clause with his new team after a harsh injury setback.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Forbes Business",
+    "sourceUrl": "https://www.forbes.com/sites/peterchawaga/2026/08/24/phillies-long-time-starter-gets-32-million-contract-update-from-new-team/",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a8b1a60fb2b969861812754/0x0.jpg",
+    "publishedAt": "2026-08-24T10:30:00.000Z",
+    "ingestedAt": "2026-08-24T12:24:39.972Z"
   },
   {
     "slug": "usbased-plaud-bets-india-can-outpace-its-global-ai-wearables-f10de0",
@@ -11717,148 +11861,5 @@
     "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/03/Meritto-ftr.jpg",
     "publishedAt": "2026-08-18T14:52:23.000Z",
     "ingestedAt": "2026-08-18T16:18:47.908Z"
-  },
-  {
-    "slug": "swiggy-expands-leadership-roles-for-3-senior-executives-nite-85782c",
-    "title": "Swiggy expands leadership roles for 3 senior executives; Nitesh Garg appointed as Instamart CTO",
-    "summary": "Earlier this month, Swiggy said it is targeting an adjusted EBITDA of around  ₹10,000 crore by FY31, backed by growth across its food delivery and quick commerce businesses.",
-    "category": "marketing",
-    "tags": [],
-    "source": "Mint Companies",
-    "sourceUrl": "https://www.livemint.com/companies/news/swiggy-expands-leadership-roles-for-3-senior-executives-nitesh-garg-appointed-as-instamart-cto-11787062225739.html",
-    "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/18/1600x900/logo/SWIGGY-HPCL--0_1787062315068_1787062369083_b655885d-41ee-43c5-944a-17b908e773b8.JPG",
-    "publishedAt": "2026-08-18T14:48:27.000Z",
-    "ingestedAt": "2026-08-18T15:20:27.024Z"
-  },
-  {
-    "slug": "should-job-candidates-get-to-interview-your-exemployees-21ec9c",
-    "title": "Should Job Candidates Get to Interview Your Ex-Employees?",
-    "summary": "Want job applicants to hear candid feedback about your management style? Here is how to offer reverse references the right way.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Inc.com",
-    "sourceUrl": "https://www.inc.com/alison-green/should-i-offer-job-candidates-references-on-me-as-a-manager/91371016",
-    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/manager-employee-references-inc-1787532177.jpg",
-    "publishedAt": "2026-08-18T14:45:00.000Z",
-    "ingestedAt": "2026-08-18T15:20:27.024Z"
-  },
-  {
-    "slug": "google-paid-10-million-for-spirit-airlines-data-it-isnt-gett-0dca80",
-    "title": "Google Paid $10 Million for Spirit Airlines’ Data. It Isn’t Getting 97.5 Million Passenger Profiles",
-    "summary": "Experts say the massive data set serves as a blueprint for how companies operate. Google says it will use the information to train its AI models.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Inc.com",
-    "sourceUrl": "https://www.inc.com/moses-jeanfrancois/google-spirit-airlines-data-is-not-getting-97-million-passenger-profiles/91392143",
-    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/google-buys-spirit-data-inc.jpg",
-    "publishedAt": "2026-08-18T14:39:57.000Z",
-    "ingestedAt": "2026-08-18T15:20:27.024Z"
-  },
-  {
-    "slug": "renews-net-profit-rises-16-to-5953-crore-in-q1-2d53c8",
-    "title": "ReNew's net profit rises 16% to  ₹595.3 crore in Q1",
-    "summary": "ReNew's total income also grew by around 16% year-on-year to  ₹4,786.4 crore.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Mint Companies",
-    "sourceUrl": "https://www.livemint.com/companies/company-results/renews-net-profit-rises-16-to-595-3-crore-in-q1-solar-module-ingot-renewable-energy-cell-wafer-manufacturing-11787061523951.html",
-    "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/18/1600x900/logo/g5352e721cc99ab4360dfce861f6f5aedc0187a7be4fa2d2ae_1787063443072_1787063443252_f126fae6-2640-4b88-b396-900af59bcf8c.jpg",
-    "publishedAt": "2026-08-18T14:38:00.000Z",
-    "ingestedAt": "2026-08-18T15:20:27.024Z"
-  },
-  {
-    "slug": "after-her-death-hayden-panettiere-honored-by-her-kingdom-hea-239c21",
-    "title": "After Her Death, Hayden Panettiere Honored By Her ‘Kingdom Hearts’ Successor",
-    "summary": "Hayden Panettiere has a history in a beloved video game franchise, Kingdom Hearts, and fans and cast members are honoring her there as well after her death.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Forbes Business",
-    "sourceUrl": "https://www.forbes.com/sites/paultassi/2026/08/18/after-her-death-hayden-panettiere-honored-by-her-kingdom-hearts-successor/",
-    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a846c1733f679630a03ad17/0x0.jpg",
-    "publishedAt": "2026-08-18T14:34:30.000Z",
-    "ingestedAt": "2026-08-18T15:20:27.024Z"
-  },
-  {
-    "slug": "she-grew-up-in-a-log-cabin-in-canada-now-shes-booking-wild-p-7b8976",
-    "title": "She Grew Up in a Log Cabin in Canada. Now She’s Booking Wild Parties for the Ultrarich.",
-    "summary": "Olivia Ferney is setting Guinness World Records for clients who think nothing of spending six figures on a single night.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Entrepreneur",
-    "sourceUrl": "https://www.entrepreneur.com/business-news/travel-concierge-booking-insane-trips-for-the-ultrarich",
-    "imageUrl": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/08/infuencer-olivia-fenrey-0826_g2288368170.jpg",
-    "publishedAt": "2026-08-18T14:30:00.000Z",
-    "ingestedAt": "2026-08-18T19:20:24.398Z"
-  },
-  {
-    "slug": "jcpenney-aims-to-heal-errant-shoppers-with-retail-regrets-tr-42a129",
-    "title": "JCPenney Aims To Heal Errant Shoppers With Retail Regrets Trade-In Program",
-    "summary": ",JCPenney's new campaign, \"Retail Rejuvenation,\" encourages consumers to rediscover the thrill of the find without the chaotic hunt or trade-offs of off-price shopping.",
-    "category": "marketing",
-    "tags": [],
-    "source": "Forbes Business",
-    "sourceUrl": "https://www.forbes.com/sites/sharonedelson/2026/08/18/jcpenney-aims-to-heal-errant-shoppers-with-retail-regrets-trade-in-program/",
-    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a835bbc6be5be46993a078d/0x0.jpg",
-    "publishedAt": "2026-08-18T14:07:22.000Z",
-    "ingestedAt": "2026-08-18T15:20:27.024Z"
-  },
-  {
-    "slug": "the-lanterns-rotten-tomatoes-audience-review-score-is-in-3fa6b2",
-    "title": "The ‘Lanterns’ Rotten Tomatoes Audience Review Score Is In",
-    "summary": "'Lanterns' aired on HBO Max this weekend, and it has a Rotten Tomatoes review score from audiences now. Here's how it stacks up in the DCU.",
-    "category": "marketing",
-    "tags": [],
-    "source": "Forbes Business",
-    "sourceUrl": "https://www.forbes.com/sites/paultassi/2026/08/18/the-lanterns-rotten-tomatoes-audience-review-score-is-in/",
-    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a7fc43591d377b78a693b29/0x0.jpg",
-    "publishedAt": "2026-08-18T14:06:05.000Z",
-    "ingestedAt": "2026-08-18T15:20:27.024Z"
-  },
-  {
-    "slug": "this-ceo-runs-more-pro-sports-teams-than-anyone-in-the-world-dea65a",
-    "title": "This CEO Runs More Pro Sports Teams Than Anyone in the World — Here’s Why He Doesn’t Measure Success In Wins ",
-    "summary": "The CEO of Diamond Baseball Holdings oversees more professional sports teams than anyone in the world. Here's why his winning strategy has nothing to do with the final score.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Entrepreneur",
-    "sourceUrl": "https://www.entrepreneur.com/building-a-business/this-ceo-runs-more-pro-sports-teams-than-anyone-in-the-world-heres-why-he-doesnt-measure-success-in-wins",
-    "imageUrl": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/08/BK-Cyclones-0826.jpg",
-    "publishedAt": "2026-08-18T14:00:00.000Z",
-    "ingestedAt": "2026-08-18T19:20:24.398Z"
-  },
-  {
-    "slug": "wheres-the-beef-not-on-american-picnic-tables-this-summer-bcaaf0",
-    "title": "Where’s the Beef? Not on American Picnic Tables This Summer.",
-    "summary": "Beef has always been a summer staple. Now, for the first time in years, Americans are actually buying less of it",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Entrepreneur",
-    "sourceUrl": "https://www.entrepreneur.com/business-news/wheres-the-beef-not-on-american-picnic-tables-this-summer",
-    "imageUrl": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/08/beef-prices-surge-0826_g1149480722.jpg",
-    "publishedAt": "2026-08-18T14:00:00.000Z",
-    "ingestedAt": "2026-08-18T19:20:24.398Z"
-  },
-  {
-    "slug": "with-export-controls-nvidia-amd-and-intel-lose-much-more-tha-23a7db",
-    "title": "With Export Controls, Nvidia, AMD And Intel Lose Much More Than Sales",
-    "summary": "Lost sales are but splashy, attention-grabbing headlines that miss the much bigger story.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Forbes Business",
-    "sourceUrl": "https://www.forbes.com/sites/johntamny/2026/08/18/with-export-controls-nvidia-amd--intel-lose-much-more-than-sales/",
-    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a82f425f2ead3f4c24f5137/0x0.jpg",
-    "publishedAt": "2026-08-18T14:00:00.000Z",
-    "ingestedAt": "2026-08-18T15:20:27.024Z"
-  },
-  {
-    "slug": "how-publishers-can-strengthen-connections-with-advertisers-i-6cb97f",
-    "title": "How publishers can strengthen connections with advertisers in the AI era",
-    "summary": "Today’s audiences are highly decentralized — searching, streaming, scrolling and shopping across a spectrum of platforms. To maximize yield across this complex landscape, publishers must clearly demonstrate the unique contextual value of their properties and audiences. Partner insights from Google.",
-    "category": "marketing",
-    "tags": [],
-    "source": "Digiday",
-    "sourceUrl": "https://digiday.com/sponsored/publisher-monetization-in-the-ai-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "publishedAt": "2026-08-18T14:00:00.000Z",
-    "ingestedAt": "2026-08-18T14:21:34.840Z"
   }
 ]
