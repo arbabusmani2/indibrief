@@ -1,5 +1,52 @@
 [
   {
+    "slug": "ais-new-cost-equation-why-token-economics-matters-39fc56",
+    "title": "AI’s new cost equation: Why token economics matters\r\n",
+    "summary": "At DevSparks Hyderabad, NVIDIA’s Jigar Halani explained why as AI moves toward agents and more complex workloads, managing the utility, demand, supply, and monetization of tokens is becoming increasingly important.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "YourStory",
+    "sourceUrl": "https://yourstory.com/2026/08/devsparks-ai-new-cost-equation-token-economics-matters-nvidia",
+    "publishedAt": "2026-08-24T11:05:03.000Z",
+    "ingestedAt": "2026-08-24T11:17:47.335Z"
+  },
+  {
+    "slug": "the-power-of-connected-customer-history-by-rokt-mparticle-d2f264",
+    "title": "The power of connected customer history by Rokt mParticle",
+    "summary": "Why transaction data alone isn't enough for performance marketing, and how persistent customer profiles change the equation.\nThe post The power of connected customer history appeared first on MarTech.",
+    "category": "marketing",
+    "tags": [],
+    "source": "MarTech",
+    "sourceUrl": "https://martech.org/the-power-of-connected-customer-history/",
+    "imageUrl": "https://martech.org/wp-content/uploads/2026/08/Rokt-20260824-800x450.jpg",
+    "publishedAt": "2026-08-24T11:00:00.000Z",
+    "ingestedAt": "2026-08-24T11:17:47.335Z"
+  },
+  {
+    "slug": "after-the-lottery-win-why-dr-reddys-may-be-doing-much-more-i-258552",
+    "title": "After the lottery win: why Dr Reddy’s may be doing much more in its laboratories",
+    "summary": "The pharmaceutical company rode one copycat drug to record profits. Now, co-chairman G.V. Prasad has to prove the company can grow without it. Biosimilars and innovation may hold the answer.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Mint Companies",
+    "sourceUrl": "https://www.livemint.com/companies/news/dr-reddys-post-revlimid-strategy-biosimilars-11787557561217.html",
+    "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/24/1600x900/logo/GV_Prasad_1a_1787558155886_1787558156018_7aaeb26d-5890-4e96-928b-3ed414a43e8d_1787558192868_7dc9dc07-6bbf-4254-83b9-4becffe6774f.jpeg",
+    "publishedAt": "2026-08-24T10:41:42.000Z",
+    "ingestedAt": "2026-08-24T11:17:47.335Z"
+  },
+  {
+    "slug": "softbank-plans-63-billion-retail-bond-sale-in-japan-next-mon-040da1",
+    "title": "SoftBank plans $6.3 billion retail bond sale in Japan next month, moves to raise funds for OpenAI commitments",
+    "summary": "SoftBank Group is planning a record $6.3 billion retail bond sale next month, the biggest by any issuer in Japan, in order to raise funds to fulfil its investment commitments to OpenAI, Bloomberg reported.&nbsp;",
+    "category": "funding",
+    "tags": [],
+    "source": "Mint Companies",
+    "sourceUrl": "https://www.livemint.com/companies/news/softbank-group-plans-6-3-billion-retail-bond-sale-issue-in-japan-4-september-raise-funds-openai-commitment-ai-investment-11787563715513.html",
+    "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/24/1600x900/logo/JAPAN-US-SOFTWARE-TECHNOLOGY-OPENAI-SOFTBANK-0_1767161972081_1787566416284_3d4f5898-5a46-4f78-a358-e0dc52fc9f21.jpg",
+    "publishedAt": "2026-08-24T10:37:56.000Z",
+    "ingestedAt": "2026-08-24T11:17:47.335Z"
+  },
+  {
     "slug": "usbased-plaud-bets-india-can-outpace-its-global-ai-wearables-f10de0",
     "title": "US-based Plaud bets India can outpace its global AI wearables growth",
     "summary": "Plaud's expansion into India comes at a time when India's wearables market is estimated to hit $3.6 billion this year.",
@@ -94,6 +141,18 @@
     "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a7221b0e81e7a6944059be2/0x0.jpg",
     "publishedAt": "2026-08-24T09:48:00.000Z",
     "ingestedAt": "2026-08-24T10:27:20.288Z"
+  },
+  {
+    "slug": "water-robotics-raises-25-mn-to-build-indias-first-robotic-be-de84ac",
+    "title": "WATER Robotics Raises $2.5 Mn To Build India’s First Robotic Bed",
+    "summary": "AI startup WATER Robotics has secured $2.5 Mn (about ₹24 Cr) in a fresh funding round led by Endiya Partners,…",
+    "category": "funding",
+    "tags": [],
+    "source": "Inc42",
+    "sourceUrl": "https://inc42.com/buzz/water-robotics-raises-2-5-mn-to-build-indias-first-robotic-bed/",
+    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/WATER-Robotics-Founder-Feature.png",
+    "publishedAt": "2026-08-24T09:40:22.000Z",
+    "ingestedAt": "2026-08-24T11:17:47.335Z"
   },
   {
     "slug": "could-leeds-united-be-european-contenders-this-season-094a44",
@@ -11801,65 +11860,5 @@
     "sourceUrl": "https://digiday.com/sponsored/publisher-monetization-in-the-ai-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
     "publishedAt": "2026-08-18T14:00:00.000Z",
     "ingestedAt": "2026-08-18T14:21:34.840Z"
-  },
-  {
-    "slug": "walmarts-gains-are-coming-from-wealthier-shoppers-that-says-b23f4c",
-    "title": "Walmart’s Gains Are Coming From Wealthier Shoppers. That Says More Than Retail Sales",
-    "summary": "Consumer barometers are increasingly a gauge of equity investors.",
-    "category": "funding",
-    "tags": [],
-    "source": "Inc.com",
-    "sourceUrl": "https://www.inc.com/phil-rosen/walmart-shoppers-consumers-retail-sales-data-earnings/91391940",
-    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/walmart-gains-inc_431991661.jpg",
-    "publishedAt": "2026-08-18T13:52:47.000Z",
-    "ingestedAt": "2026-08-18T14:21:34.840Z"
-  },
-  {
-    "slug": "ai-visibility-index-shows-which-brands-are-disappearing-370ed8",
-    "title": "AI visibility index shows which brands are disappearing",
-    "summary": "Some brands dominate Google yet barely surface in AI answers. Here’s where traditional authority and AI recall diverge.\nThe post AI visibility index shows which brands are disappearing appeared first on MarTech.",
-    "category": "marketing",
-    "tags": [],
-    "source": "MarTech",
-    "sourceUrl": "https://martech.org/ai-visibility-index-shows-which-brands-are-disappearing/",
-    "imageUrl": "https://martech.org/searchengineland.com/wp-content/seloads/2026/08/image-55.png",
-    "publishedAt": "2026-08-18T13:48:51.000Z",
-    "ingestedAt": "2026-08-18T15:20:27.024Z"
-  },
-  {
-    "slug": "rebel-creamerys-bankruptcy-filing-came-2-weeks-after-a-238-m-17b596",
-    "title": "Rebel Creamery’s Bankruptcy Filing Came 2 Weeks After a $23.8 Million Verdict. Experts See a Strategy",
-    "summary": "A federal court found the keto ice cream company intentionally infringed Van Leeuwen’s trade dress. Legal experts see a larger plan behind the business’s recent bankruptcy filing.",
-    "category": "policy",
-    "tags": [],
-    "source": "Inc.com",
-    "sourceUrl": "https://www.inc.com/esther-lian/rebel-creamery-bankruptcy-filing-came-2-weeks-after-23-million-dollar-verdict/91391766",
-    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/rebel-ice-cream-bankruptcy-inc.jpg",
-    "publishedAt": "2026-08-18T13:44:10.000Z",
-    "ingestedAt": "2026-08-18T14:21:34.840Z"
-  },
-  {
-    "slug": "mobikwik-infuses-61-cr-in-lending-arm-appoints-exbajaj-marke-dd064d",
-    "title": "MobiKwik Infuses ₹61 Cr In Lending Arm, Appoints Ex-Bajaj Markets’ Manish Pathania As Its CBO",
-    "summary": "Months after receiving a regulatory nod for its NBFC licence, MobiKwik has now completed the transfer of its digital lending…",
-    "category": "policy",
-    "tags": [],
-    "source": "Inc42",
-    "sourceUrl": "https://inc42.com/buzz/mobikwik-infuses-%e2%82%b961-cr-in-lending-arm-appoints-ex-bajaj-markets-manish-pathania-as-its-cbo/",
-    "imageUrl": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/Mobikwik-Business-ftr-1.jpg",
-    "publishedAt": "2026-08-18T13:43:25.000Z",
-    "ingestedAt": "2026-08-18T15:20:27.024Z"
-  },
-  {
-    "slug": "obsession-is-still-setting-box-office-records-three-months-l-5157c9",
-    "title": "‘Obsession’ Is Still Setting Box Office Records Three Months Later",
-    "summary": "Obsession is now three months old, but after all this time, it is crawling along in theaters to set one last box office record.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Forbes Business",
-    "sourceUrl": "https://www.forbes.com/sites/paultassi/2026/08/18/obsession-is-still-setting-box-office-records-three-months-later/",
-    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a01e3c751b14e91ebc0e94f/0x0.jpg",
-    "publishedAt": "2026-08-18T13:39:58.000Z",
-    "ingestedAt": "2026-08-18T15:20:27.024Z"
   }
 ]
