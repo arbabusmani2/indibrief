@@ -1,5 +1,89 @@
 [
   {
+    "slug": "taylor-swifts-10word-rule-explains-the-work-ethic-that-susta-6bdecf",
+    "title": "Taylor Swift’s 10-Word Rule Explains the Work Ethic That Sustained Her 20-Year Career",
+    "summary": "During a recent fireside chat, the songwriter reflected on creativity, collaboration, and why discipline matters more than waiting for the perfect idea.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc.com",
+    "sourceUrl": "https://www.inc.com/victoria-salves/taylor-swift-10-word-rule-explains-work-ethic-sustained-her-20-year-career/91395948",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/taylor-swift-career-advice-inc.jpg",
+    "publishedAt": "2026-08-25T21:54:57.000Z",
+    "ingestedAt": "2026-08-25T22:15:08.831Z"
+  },
+  {
+    "slug": "for-100-a-month-fans-can-own-15-racehorses-more-than-4000-pe-d6ec36",
+    "title": "For $100 a Month, Fans Can Own 15 Racehorses. More Than 4,000 People Are Waiting to Join",
+    "summary": "The subscription stable pairs low-cost ownership with race winnings, owner credentials, VIP experiences, and a community that keeps members engaged.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc.com",
+    "sourceUrl": "https://www.inc.com/daniel-robbins/for-100-a-month-fans-can-own-15-racehorses-more-than-4000-people-are-waiting-to-join/91396192",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/run-fast-racing-pano-inc.jpg",
+    "publishedAt": "2026-08-25T21:52:01.000Z",
+    "ingestedAt": "2026-08-25T22:15:08.831Z"
+  },
+  {
+    "slug": "tiny-homes-alone-dont-end-homelessness-giving-residents-a-st-dffeb0",
+    "title": "Tiny Homes Alone Don’t End Homelessness. Giving Residents a Stake Can Change the Outcome",
+    "summary": "Shelter matters, but participation can turn recipients into stakeholders. See what tiny home villages teach leaders about ownership and lasting change.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc.com",
+    "sourceUrl": "https://www.inc.com/soren-kaplan/tiny-homes-alone-dont-end-homelessness-giving-residents-a-stake-can-change-the-outcome/91395662",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/tiny-home-village-leaving-homelessness-inc-719324981.jpg",
+    "publishedAt": "2026-08-25T21:43:15.000Z",
+    "ingestedAt": "2026-08-25T22:15:08.831Z"
+  },
+  {
+    "slug": "hackers-are-exploiting-a-mac-screen-sharing-flaw-apple-says-9ba1cd",
+    "title": "Hackers Are Exploiting a Mac Screen Sharing Flaw. Apple Says These 3 Updates Fix It",
+    "summary": "The exploited flaw can enable Screen Sharing without valid credentials. See the patched macOS versions and the simple step every Mac office should take.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Inc.com",
+    "sourceUrl": "https://www.inc.com/kit-eaton/hackers-are-exploiting-a-mac-screen-sharing-flaw-apple-says-these-3-updates-fix-it/91396027",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/mac-screen-share-hack-apple-inc-579044563.jpg",
+    "publishedAt": "2026-08-25T21:21:21.000Z",
+    "ingestedAt": "2026-08-25T22:15:08.831Z"
+  },
+  {
+    "slug": "lindsay-clancy-trial-former-prosecutor-weighs-in-on-battle-o-9ef471",
+    "title": "Lindsay Clancy Trial: Former Prosecutor Weighs In On 'Battle Of The Experts'",
+    "summary": "In what has been described as the \"battle of the experts,\" medical professionals have given conflicting testimony about Lindsay Clancy’s mental state.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Forbes Business",
+    "sourceUrl": "https://www.forbes.com/sites/forbestv/2026/08/25/lindsay-clancy-trial-former-prosecutor-weighs-in-on-battle-of-the-experts/",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a8e0678a89ba5d0df1d35fe/0x0.jpg?width=960",
+    "publishedAt": "2026-08-25T21:20:07.000Z",
+    "ingestedAt": "2026-08-25T22:15:08.831Z"
+  },
+  {
+    "slug": "dolly-parton-understood-what-too-many-leaders-get-wrong-abou-75be1b",
+    "title": "Dolly Parton Understood What Too Many Leaders Get Wrong About Legacy",
+    "summary": "A personal brand is what people know you for. A leadership legacy is what keeps helping people after you’re gone.",
+    "category": "marketing",
+    "tags": [],
+    "source": "Inc.com",
+    "sourceUrl": "https://www.inc.com/marcel-schwantes/dolly-parton-understood-what-too-many-leaders-get-wrong-about-legacy/91396224",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/GettyImages-2215837348.jpg",
+    "publishedAt": "2026-08-25T21:13:47.000Z",
+    "ingestedAt": "2026-08-25T22:15:08.831Z"
+  },
+  {
+    "slug": "food-prices-keep-rising-so-whats-driving-grocery-costs-77b4f7",
+    "title": "Food Prices Keep Rising, So What’s Driving Grocery Costs?",
+    "summary": "Food price inflation is complex and linked to political dynamics.  Finding quick solutions to inflation is challenging",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Forbes Business",
+    "sourceUrl": "https://www.forbes.com/sites/dawnthilmany/2026/08/25/whats-for-dinner-and-how-much-will-it-cost/",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a8cce2477cf0da1a0abb3c8/0x0.jpg",
+    "publishedAt": "2026-08-25T21:00:58.000Z",
+    "ingestedAt": "2026-08-25T22:15:08.831Z"
+  },
+  {
     "slug": "dolly-parton-leaves-behind-a-450-million-empire-what-comes-n-0c197d",
     "title": "Dolly Parton Leaves Behind a $450 Million Empire. What Comes Next for Dollywood and Her Music Catalog?",
     "summary": "From a signature scent to Tennessee’s Dollywood, Parton’s portfolio is worth hundreds of millions. Here’s a breakdown of her ventures.",
@@ -142,6 +226,18 @@
     "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a8de7ead6bdfde101285a49/0x0.jpg?width=960&precrop=2200%2C1237%2Cx0%2Cy213",
     "publishedAt": "2026-08-25T19:55:34.000Z",
     "ingestedAt": "2026-08-25T20:16:30.706Z"
+  },
+  {
+    "slug": "dolly-partons-life-at-80-taught-women-to-live-fully-at-every-c5b40f",
+    "title": "Dolly Parton’s Life At 80 Taught Women To Live Fully At Every Age",
+    "summary": "Dolly Parton’s life and legacy taught women to live fully at every age through purpose, generosity, reinvention and joy.",
+    "category": "ecosystem",
+    "tags": [],
+    "source": "Forbes Business",
+    "sourceUrl": "https://www.forbes.com/sites/sophianelson/2026/08/25/dolly-partons-life-at-80-taught-women-to-live-fully-at-every-age/",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a8deaa31463ad99c9ae9a6c/0x0.jpg",
+    "publishedAt": "2026-08-25T19:49:58.000Z",
+    "ingestedAt": "2026-08-25T22:15:08.831Z"
   },
   {
     "slug": "david-protein-says-its-bars-have-zero-sugar-a-new-lawsuit-cl-2bfd69",
@@ -11779,99 +11875,6 @@
     "sourceUrl": "https://www.forbes.com/sites/bryantoporek/2026/08/20/nbas-second-apron-claims-another-victim-with-nuggets-peyton-watson-trade/",
     "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a867c9354aa3d780a7e5e42/0x0.jpg",
     "publishedAt": "2026-08-20T11:00:00.000Z",
-    "ingestedAt": "2026-08-20T15:23:41.908Z"
-  },
-  {
-    "slug": "yankees-dodgers-outfielder-castoff-joins-surging-al-contende-8cc29f",
-    "title": "Yankees, Dodgers Outfielder Castoff Joins Surging AL Contender",
-    "summary": "The New York Yankees and Los Angeles Dodgers have gotten an update on a promising outfield option.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Forbes Business",
-    "sourceUrl": "https://www.forbes.com/sites/peterchawaga/2026/08/20/yankees-dodgers-outfielder-castoff-joins-surging-al-contender/",
-    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a830f741d7d749bde32a1d7/0x0.jpg?width=960&precrop=2470%2C1389%2Cx578%2Cy57",
-    "publishedAt": "2026-08-20T11:00:00.000Z",
-    "ingestedAt": "2026-08-20T15:23:41.908Z"
-  },
-  {
-    "slug": "he-quit-engineering-to-clean-the-ganga-removing-247-lakh-kg-bd696a",
-    "title": "He quit engineering to clean the Ganga, removing 2.47 lakh kg of waste",
-    "summary": "Shubham Kumar quit engineering to clean the Ganga, building a 1,100-volunteer movement that removed 2.47 lakh kg of waste.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/08/shubham-kumar-being-helper-foundation-ganga-cleaning-patna",
-    "publishedAt": "2026-08-20T10:47:25.000Z",
-    "ingestedAt": "2026-08-20T15:23:41.908Z"
-  },
-  {
-    "slug": "startup-news-and-updates-daily-roundup-august-20-2026-c75303",
-    "title": "Startup news and updates: Daily roundup (August 20, 2026)\r\n\r\n",
-    "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, August 20, 2026.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/08/startup-news-and-updates-daily-roundup-august-20-2026",
-    "publishedAt": "2026-08-20T10:46:32.000Z",
-    "ingestedAt": "2026-08-20T15:23:41.908Z"
-  },
-  {
-    "slug": "north-korea-fires-test-missiles-kim-jong-uns-sister-says-she-ada86d",
-    "title": "North Korea Fires Test Missiles— Kim Jong Un’s Sister Says She’s ‘Unaware’ Of Talks With Trump",
-    "summary": "The missile launches took place hours after Trump said he plans to meet with the North Korean leader sometime later this year.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Forbes Business",
-    "sourceUrl": "https://www.forbes.com/sites/siladityaray/2026/08/20/north-korea-test-fires-missiles-as-kim-jong-uns-sister-says-shes-unaware-of-any-talks-with-trump/",
-    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a86d95f062c722341948b0c/0x0.jpg?width=960",
-    "publishedAt": "2026-08-20T10:40:35.000Z",
-    "ingestedAt": "2026-08-20T15:23:41.908Z"
-  },
-  {
-    "slug": "5-books-that-explain-why-happiness-feels-so-difficult-883ccb",
-    "title": "5 Books that explain why happiness feels so difficult",
-    "summary": "Explore five insightful books that explain why happiness often feels elusive and discover practical lessons for creating a more meaningful life.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "YourStory",
-    "sourceUrl": "https://yourstory.com/2026/08/books-explain-happiness-difficult",
-    "publishedAt": "2026-08-20T10:30:00.000Z",
-    "ingestedAt": "2026-08-20T15:23:41.908Z"
-  },
-  {
-    "slug": "the-la-lakers-have-a-succession-problem-every-founder-should-9d4ade",
-    "title": "The L.A. Lakers Have a Succession Problem. Every Founder Should Pay Attention",
-    "summary": "Building a legacy is hard. Passing it on is harder.",
-    "category": "ecosystem",
-    "tags": [],
-    "source": "Inc.com",
-    "sourceUrl": "https://www.inc.com/christophercason/the-lakers-have-a-succession-problem-every-founder-should-pay-attention/91393674",
-    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/lakers-family-issues-founder-lesson-inc.jpg",
-    "publishedAt": "2026-08-20T10:00:00.000Z",
-    "ingestedAt": "2026-08-20T15:23:41.908Z"
-  },
-  {
-    "slug": "mit-and-stanford-found-a-5-percent-retirement-gap-it-comes-d-fce844",
-    "title": "MIT and Stanford Found a 5 Percent Retirement Gap. It Comes Down to Asking Better Money Questions",
-    "summary": "MIT and Stanford research shows detailed money prompts can improve advice, helping users build better savings habits and retirement outcomes over time.",
-    "category": "growth",
-    "tags": [],
-    "source": "Inc.com",
-    "sourceUrl": "https://www.inc.com/soren-kaplan/mit-and-stanford-found-a-5-percent-retirement-gap-it-comes-down-to-asking-better-money-questions/91392035",
-    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/retirement-planning-gap-ai-inc-1827164351.jpg",
-    "publishedAt": "2026-08-20T10:00:00.000Z",
-    "ingestedAt": "2026-08-20T15:23:41.908Z"
-  },
-  {
-    "slug": "the-10-fastestgrowing-food-and-beverage-companies-on-this-ye-08f315",
-    "title": "The 10 Fastest-Growing Food and Beverage Companies on This Year’s Inc. 5000",
-    "summary": "During your next grocery run, look for these upstart brands on the shelf.",
-    "category": "marketing",
-    "tags": [],
-    "source": "Inc.com",
-    "sourceUrl": "https://www.inc.com/ali-donaldson/fast-growing-food-beverage-companies/91391349",
-    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/cpg-inc5000-inc.jpg",
-    "publishedAt": "2026-08-20T10:00:00.000Z",
     "ingestedAt": "2026-08-20T15:23:41.908Z"
   }
 ]
